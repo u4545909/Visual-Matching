@@ -1,0 +1,61 @@
+Compilation Guide
+--------------------------------------------------------------------------------------------------------
+
+For the development of the Android Application and for connecting with the Cantabile server, 
+Windows Operating System was used. As such, the required software guide is primarily targeted
+at Windows Operation Systems. However, similar software can be used for other operating systems.
+
+========================================================================================================
+Android Code
+========================================================================================================
+
+Software needed for accessing and compilation of Android code:
+1.	Eclipse
+2.	Java SDK
+3.	Android SDK
+
+Hardware needed for the compilation of Android code:
+1.	Android Smartphone with a firmware of Android 2.3 or higher. 
+
+It is assumed that the phone has had necessary drivers installed on the PC for it to be detected. 
+Also the phone needs to be in the Debug Mode.  The steps required for activation of debug mode 
+are model dependent, and can be found online on Google.
+
+Eclipse is an Integrated Development Environment (IDE), and Java SDK allows access to native Java 
+libraries for use in Android application. Both Eclipse and Java SDK can be downloaded together through
+one link: http://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/junosr1 
+
+An official installation guide for the Android SDK can be found here: 
+http://developer.android.com/sdk/installing/index.html
+
+For importing and compiling the project:
+1.	Download the Project on your PC
+2.	Open Eclipse IDE
+3.	File -> Import -> Android -> Existing Android Code Into Workspace
+4.	In the root directory, browse to the source of the project
+5.	Connect the phone and press Run (This should run the application on your phone)
+
+========================================================================================================
+Server-side Scripts
+========================================================================================================
+
+Note: It is assumed that the required scripts are available on the server and that the user 
+has been granted the appropriate access on the server, for viewing the files.
+
+Software needed for accessing python scripts:
+1.	Putty 
+2.	WinSCP 
+
+Putty provides SSH access to the Cantabile Server. The latest copy of Putty can be downloaded 
+from: http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+
+WinSCP provides SFTP access to the server. The latest copy of WinSCP can be downloaded from: 
+http://winscp.net/eng/download.php
+
+The path to access the written scripts is as follows:
+
+createdb.py: data/u4545909/crawling/createdb.py
+keyFramesJSONOutput.py: data/u4545909/www/cgi-bin/keyFramesJSONOutput.py
+metadataJSONOutput.py: data/u4545909/www/cgi-bin/metadataJSONOutput.py
+mKeyFramesJSONOutput.py: data/u4545909/www/cgi-bin/KeyFramesJSONOutput.py
+mVideosJSONOutput.py: data/u4545909/www/cgi-bin/ mVideosJSONOutput.py
