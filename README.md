@@ -5,7 +5,7 @@ Student: Anshul Saini (u4545909)
 
 Supervisor: Dr. Lexing Xie
 
-As part of the Undergraduate Engineering Thesis, an Android Mobile Application was implemented, to allow users to view and browse videos for the available categories, as well as find matching videos to a selected video, on the basis of frame-matchingor 'visual meme tracking'.
+As part of the Undergraduate Engineering Thesis, an Android Mobile Application was implemented, to allow users to view and browse videos for the available categories, as well as find matching videos to a selected video, on the basis of frame-matching or 'visual meme tracking'.
 
 Deliverables Navigation
 ------------------------------------------------------------
@@ -16,7 +16,9 @@ The project required the implementation of the backend on the server, for the ap
 
 Doxygen Files
 -------------------------------------------------------------
-As part of the deliverables, Doxygen files have been generated and added to the Githubrepository. These can be accessed in the directory 'DoxygenFiles'.
+As part of the deliverables, Doxygen files have been generated and added to the Github repository. These can be accessed in the directory 'DoxygenFiles'. The files cannot be viewed through the repository browser on Github, and require cloning on a local machine.
+
+Please Note: The user has been provided with the files in multiple formats, 
 
 Android Code
 -------------------------------------------------------------
