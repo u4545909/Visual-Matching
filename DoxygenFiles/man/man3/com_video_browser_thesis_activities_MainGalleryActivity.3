@@ -1,0 +1,73 @@
+.TH "com.video_browser_thesis.activities.MainGalleryActivity" 3 "Thu Nov 22 2012" "Version 6.0" "Video Browser" \" -*- nroff -*-
+.ad l
+.nh
+.SH NAME
+com.video_browser_thesis.activities.MainGalleryActivity \- 
+.SH SYNOPSIS
+.br
+.PP
+.PP
+Inherits Activity\&.
+.SS "Public Member Functions"
+
+.in +1c
+.ti -1c
+.RI "void \fBonCreate\fP (Bundle savedInstanceState)"
+.br
+.ti -1c
+.RI "void \fBonHomeButtonClick\fP (View v)"
+.br
+.ti -1c
+.RI "boolean \fBisConnected\fP (Context context)"
+.br
+.in -1c
+.SH "Detailed Description"
+.PP 
+Displays all the videos in various categories 
+.PP
+\fBAuthor:\fP
+.RS 4
+Anshul Saini 
+.RE
+.PP
+\fBVersion:\fP
+.RS 4
+5 
+.RE
+.PP
+
+.PP
+Definition at line 45 of file MainGalleryActivity\&.java\&.
+.SH "Member Function Documentation"
+.PP 
+.SS "boolean com\&.video_browser_thesis\&.activities\&.MainGalleryActivity\&.isConnected (Contextcontext)"
+Checks for Internet connection availability 
+.PP
+Definition at line 227 of file MainGalleryActivity\&.java\&.
+.SS "void com\&.video_browser_thesis\&.activities\&.MainGalleryActivity\&.onCreate (BundlesavedInstanceState)"
+Called when the activity is first created\&. Processing information that is retrieved from different URL for different categories of videos
+.PP
+Instantiating different objects for populating it with different items for different categories in different galleries
+.PP
+Setting the list items of the gallery for each category
+.PP
+Setting the default selection item
+.PP
+Rendering text for UI purposes 
+.PP
+Definition at line 57 of file MainGalleryActivity\&.java\&.
+.SS "void com\&.video_browser_thesis\&.activities\&.MainGalleryActivity\&.onHomeButtonClick (Viewv)"
+Does nothing onHomeButton click as it is already in the home activity 
+.PP
+\fBParameters:\fP
+.RS 4
+\fIv\fP 
+.RE
+.PP
+
+.PP
+Definition at line 222 of file MainGalleryActivity\&.java\&.
+
+.SH "Author"
+.PP 
+Generated automatically by Doxygen for Video Browser from the source code\&.

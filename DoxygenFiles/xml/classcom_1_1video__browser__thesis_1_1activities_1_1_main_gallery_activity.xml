@@ -1,0 +1,335 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.2">
+  <compounddef id="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity" kind="class" prot="public">
+    <compoundname>com::video_browser_thesis::activities::MainGalleryActivity</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Activity</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1ade36b8ed641eb8cee04346dcf93814fb" prot="private" static="no" mutable="no">
+        <type>Gallery</type>
+        <definition>Gallery com.video_browser_thesis.activities.MainGalleryActivity.galleryView1</definition>
+        <argsstring></argsstring>
+        <name>galleryView1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" line="46" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" bodystart="46" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1a21b4fef2ee37b657aee72d5d5e93b625" prot="private" static="no" mutable="no">
+        <type>DisplayMetrics</type>
+        <definition>DisplayMetrics com.video_browser_thesis.activities.MainGalleryActivity.metrics</definition>
+        <argsstring></argsstring>
+        <name>metrics</name>
+        <initializer>= new DisplayMetrics()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" line="47" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" bodystart="47" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-attrib">
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1a1554a346e7d4f93f473a9b59a44af262" prot="package" static="no" mutable="no">
+        <type>Gallery</type>
+        <definition>Gallery com.video_browser_thesis.activities.MainGalleryActivity.galleryView2</definition>
+        <argsstring></argsstring>
+        <name>galleryView2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" line="46" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" bodystart="46" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1a62a3ce53d03932f8109da7c978a91a31" prot="package" static="no" mutable="no">
+        <type>Gallery</type>
+        <definition>Gallery com.video_browser_thesis.activities.MainGalleryActivity.galleryView3</definition>
+        <argsstring></argsstring>
+        <name>galleryView3</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" line="46" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" bodystart="46" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1a84f2bf916c0641a5e19daa72ecdc8e1c" prot="package" static="no" mutable="no">
+        <type>Gallery</type>
+        <definition>Gallery com.video_browser_thesis.activities.MainGalleryActivity.galleryView4</definition>
+        <argsstring></argsstring>
+        <name>galleryView4</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" line="46" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" bodystart="46" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1a5e4e1c91ea0e32006cbf83a11e080fb2" prot="package" static="no" mutable="no">
+        <type>Gallery</type>
+        <definition>Gallery com.video_browser_thesis.activities.MainGalleryActivity.galleryView5</definition>
+        <argsstring></argsstring>
+        <name>galleryView5</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" line="46" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" bodystart="46" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-static-attrib">
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1acf8504f006fdbc3caf40376f37a99572" prot="private" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>final String com.video_browser_thesis.activities.MainGalleryActivity.TAG_CATEGORY01</definition>
+        <argsstring></argsstring>
+        <name>TAG_CATEGORY01</name>
+        <initializer>= &quot;ray_william_johnson&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" line="49" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" bodystart="49" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1ace24b6c419b8add00ffc9d415d15b24e" prot="private" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>final String com.video_browser_thesis.activities.MainGalleryActivity.TAG_CATEGORY02</definition>
+        <argsstring></argsstring>
+        <name>TAG_CATEGORY02</name>
+        <initializer>= &quot;golden_voice&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" line="50" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" bodystart="50" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1a89d0e6c594e5b8ae1d4256be098c5408" prot="private" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>final String com.video_browser_thesis.activities.MainGalleryActivity.TAG_CATEGORY03</definition>
+        <argsstring></argsstring>
+        <name>TAG_CATEGORY03</name>
+        <initializer>= &quot;zinedine_zidane&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" line="51" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" bodystart="51" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1a00d2d4d0b24b44609afeddbbc4e45e1c" prot="private" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>final String com.video_browser_thesis.activities.MainGalleryActivity.TAG_CATEGORY04</definition>
+        <argsstring></argsstring>
+        <name>TAG_CATEGORY04</name>
+        <initializer>= &quot;charlie_bit_my_finger&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" line="52" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" bodystart="52" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1a8847abf4cd8c46c745383bb7a3d48d20" prot="private" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>final String com.video_browser_thesis.activities.MainGalleryActivity.TAG_CATEGORY05</definition>
+        <argsstring></argsstring>
+        <name>TAG_CATEGORY05</name>
+        <initializer>= &quot;samsung_galaxy_s3_ad&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" line="53" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" bodystart="53" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1ab66dcb21324325af069e1d24a7c5c245" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.video_browser_thesis.activities.MainGalleryActivity.onCreate</definition>
+        <argsstring>(Bundle savedInstanceState)</argsstring>
+        <name>onCreate</name>
+        <param>
+          <type>Bundle</type>
+          <declname>savedInstanceState</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Called when the activity is first created. </para>        </detaileddescription>
+        <inbodydescription>
+<para>Processing information that is retrieved from different URL for different categories of videos</para><para>Instantiating different objects for populating it with different items for different categories in different galleries</para><para>Setting the list items of the gallery for each category</para><para>Setting the default selection item</para><para>Rendering text for UI purposes </para>        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" line="57" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" bodystart="57" bodyend="186"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1adb4ca73673080cdf8631d6f39b2bd9b9" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.video_browser_thesis.activities.MainGalleryActivity.onHomeButtonClick</definition>
+        <argsstring>(View v)</argsstring>
+        <name>onHomeButtonClick</name>
+        <param>
+          <type>View</type>
+          <declname>v</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Does nothing onHomeButton click as it is already in the home activity <parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>v</parametername>
+</parameternamelist>
+<parameterdescription>
+<para></para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" line="222" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" bodystart="222" bodyend="224"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1a46626305fc65e1ec7e5a81002f33cdeb" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean com.video_browser_thesis.activities.MainGalleryActivity.isConnected</definition>
+        <argsstring>(Context context)</argsstring>
+        <name>isConnected</name>
+        <param>
+          <type>Context</type>
+          <declname>context</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Checks for Internet connection availability </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" line="227" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" bodystart="227" bodyend="250"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1a79314924ee8035d716b0b38255a35aef" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.video_browser_thesis.activities.MainGalleryActivity.setMargins</definition>
+        <argsstring>(MarginLayoutParams mlp)</argsstring>
+        <name>setMargins</name>
+        <param>
+          <type>MarginLayoutParams</type>
+          <declname>mlp</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Setting the margins for the Gallery </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" line="189" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" bodystart="189" bodyend="192"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1a81d201d3464361cad2b0964635dd3838" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.video_browser_thesis.activities.MainGalleryActivity.passingBundles</definition>
+        <argsstring>(Video_attributes[] v_arr, int position)</argsstring>
+        <name>passingBundles</name>
+        <param>
+          <type><ref refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes" kindref="compound">Video_attributes</ref>[]</type>
+          <declname>v_arr</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>position</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Creates a bundle of data to pass it to the another activity</para><para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>galleryIntent</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>New Intent </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>extras</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The bundle which carries all data from the galleryIntent </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para></para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" line="201" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" bodystart="201" bodyend="216"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para>Displays all the videos in various categories <simplesect kind="author"><para>Anshul Saini </para></simplesect>
+<simplesect kind="version"><para>5 </para></simplesect>
+</para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="86">
+        <label>Activity</label>
+      </node>
+      <node id="85">
+        <label>com.video_browser_thesis.activities.MainGalleryActivity</label>
+        <link refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity"/>
+        <childnode refid="86" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="88">
+        <label>Activity</label>
+      </node>
+      <node id="89">
+        <label>Gallery</label>
+      </node>
+      <node id="87">
+        <label>com.video_browser_thesis.activities.MainGalleryActivity</label>
+        <link refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity"/>
+        <childnode refid="88" relation="public-inheritance">
+        </childnode>
+        <childnode refid="89" relation="usage">
+          <edgelabel>galleryView5</edgelabel>
+          <edgelabel>galleryView2</edgelabel>
+          <edgelabel>galleryView3</edgelabel>
+          <edgelabel>galleryView4</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" line="45" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/MainGalleryActivity.java" bodystart="45" bodyend="251"/>
+    <listofallmembers>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1ade36b8ed641eb8cee04346dcf93814fb" prot="private" virt="non-virtual"><scope>com::video_browser_thesis::activities::MainGalleryActivity</scope><name>galleryView1</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1a1554a346e7d4f93f473a9b59a44af262" prot="package" virt="non-virtual"><scope>com::video_browser_thesis::activities::MainGalleryActivity</scope><name>galleryView2</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1a62a3ce53d03932f8109da7c978a91a31" prot="package" virt="non-virtual"><scope>com::video_browser_thesis::activities::MainGalleryActivity</scope><name>galleryView3</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1a84f2bf916c0641a5e19daa72ecdc8e1c" prot="package" virt="non-virtual"><scope>com::video_browser_thesis::activities::MainGalleryActivity</scope><name>galleryView4</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1a5e4e1c91ea0e32006cbf83a11e080fb2" prot="package" virt="non-virtual"><scope>com::video_browser_thesis::activities::MainGalleryActivity</scope><name>galleryView5</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1a46626305fc65e1ec7e5a81002f33cdeb" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::activities::MainGalleryActivity</scope><name>isConnected</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1a21b4fef2ee37b657aee72d5d5e93b625" prot="private" virt="non-virtual"><scope>com::video_browser_thesis::activities::MainGalleryActivity</scope><name>metrics</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1ab66dcb21324325af069e1d24a7c5c245" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::activities::MainGalleryActivity</scope><name>onCreate</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1adb4ca73673080cdf8631d6f39b2bd9b9" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::activities::MainGalleryActivity</scope><name>onHomeButtonClick</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1a81d201d3464361cad2b0964635dd3838" prot="private" virt="non-virtual"><scope>com::video_browser_thesis::activities::MainGalleryActivity</scope><name>passingBundles</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1a79314924ee8035d716b0b38255a35aef" prot="private" virt="non-virtual"><scope>com::video_browser_thesis::activities::MainGalleryActivity</scope><name>setMargins</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1acf8504f006fdbc3caf40376f37a99572" prot="private" virt="non-virtual"><scope>com::video_browser_thesis::activities::MainGalleryActivity</scope><name>TAG_CATEGORY01</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1ace24b6c419b8add00ffc9d415d15b24e" prot="private" virt="non-virtual"><scope>com::video_browser_thesis::activities::MainGalleryActivity</scope><name>TAG_CATEGORY02</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1a89d0e6c594e5b8ae1d4256be098c5408" prot="private" virt="non-virtual"><scope>com::video_browser_thesis::activities::MainGalleryActivity</scope><name>TAG_CATEGORY03</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1a00d2d4d0b24b44609afeddbbc4e45e1c" prot="private" virt="non-virtual"><scope>com::video_browser_thesis::activities::MainGalleryActivity</scope><name>TAG_CATEGORY04</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1a8847abf4cd8c46c745383bb7a3d48d20" prot="private" virt="non-virtual"><scope>com::video_browser_thesis::activities::MainGalleryActivity</scope><name>TAG_CATEGORY05</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

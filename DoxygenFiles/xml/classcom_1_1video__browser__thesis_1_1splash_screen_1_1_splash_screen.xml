@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.2">
+  <compounddef id="classcom_1_1video__browser__thesis_1_1splash_screen_1_1_splash_screen" kind="class" prot="public">
+    <compoundname>com::video_browser_thesis::splashScreen::SplashScreen</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Activity</basecompoundref>
+      <sectiondef kind="protected-attrib">
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1splash_screen_1_1_splash_screen_1a3303300e142e61273a5efec4a9f07aff" prot="protected" static="no" mutable="no">
+        <type>boolean</type>
+        <definition>boolean com.video_browser_thesis.splashScreen.SplashScreen._active</definition>
+        <argsstring></argsstring>
+        <name>_active</name>
+        <initializer>= true</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/splashScreen/SplashScreen.java" line="40" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/splashScreen/SplashScreen.java" bodystart="40" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1splash_screen_1_1_splash_screen_1a9f208e3d4ad10a414b7b504c3560a39a" prot="protected" static="no" mutable="no">
+        <type>int</type>
+        <definition>int com.video_browser_thesis.splashScreen.SplashScreen._splashTime</definition>
+        <argsstring></argsstring>
+        <name>_splashTime</name>
+        <initializer>= 3000</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/splashScreen/SplashScreen.java" line="41" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/splashScreen/SplashScreen.java" bodystart="41" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1splash_screen_1_1_splash_screen_1acc1210c792996037d40cf3ee64fc9905" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.video_browser_thesis.splashScreen.SplashScreen.onCreate</definition>
+        <argsstring>(Bundle savedInstanceState)</argsstring>
+        <name>onCreate</name>
+        <param>
+          <type>Bundle</type>
+          <declname>savedInstanceState</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Called when the activity is first created. </para>        </detaileddescription>
+        <inbodydescription>
+<para>Threads for displaying the splash screen</para>        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/splashScreen/SplashScreen.java" line="47" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/splashScreen/SplashScreen.java" bodystart="47" bodyend="75"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para>Main Splash Screen when the application is initiated</para><para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>_active</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Indicates if the splash screen is present </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>_splashTime</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The display time of the splash screen image in milliseconds </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para></para></simplesect>
+<simplesect kind="see"><para>Image </para></simplesect>
+</para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="104">
+        <label>com.video_browser_thesis.splashScreen.SplashScreen</label>
+        <link refid="classcom_1_1video__browser__thesis_1_1splash_screen_1_1_splash_screen"/>
+        <childnode refid="105" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="105">
+        <label>Activity</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="106">
+        <label>com.video_browser_thesis.splashScreen.SplashScreen</label>
+        <link refid="classcom_1_1video__browser__thesis_1_1splash_screen_1_1_splash_screen"/>
+        <childnode refid="107" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="107">
+        <label>Activity</label>
+      </node>
+    </collaborationgraph>
+    <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/splashScreen/SplashScreen.java" line="38" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/splashScreen/SplashScreen.java" bodystart="38" bodyend="76"/>
+    <listofallmembers>
+      <member refid="classcom_1_1video__browser__thesis_1_1splash_screen_1_1_splash_screen_1a3303300e142e61273a5efec4a9f07aff" prot="protected" virt="non-virtual"><scope>com::video_browser_thesis::splashScreen::SplashScreen</scope><name>_active</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1splash_screen_1_1_splash_screen_1a9f208e3d4ad10a414b7b504c3560a39a" prot="protected" virt="non-virtual"><scope>com::video_browser_thesis::splashScreen::SplashScreen</scope><name>_splashTime</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1splash_screen_1_1_splash_screen_1acc1210c792996037d40cf3ee64fc9905" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::splashScreen::SplashScreen</scope><name>onCreate</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.2">
+  <compounddef id="classcom_1_1video__browser__thesis_1_1processing_1_1_image_processing" kind="class" prot="public">
+    <compoundname>com::video_browser_thesis::processing::ImageProcessing</compoundname>
+      <sectiondef kind="package-attrib">
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1processing_1_1_image_processing_1ad69af47717a9ef9148b39a8d2e00000d" prot="package" static="no" mutable="no">
+        <type>Bitmap</type>
+        <definition>Bitmap com.video_browser_thesis.processing.ImageProcessing.bitmap_image</definition>
+        <argsstring></argsstring>
+        <name>bitmap_image</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/ImageProcessing.java" line="16" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/ImageProcessing.java" bodystart="16" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1processing_1_1_image_processing_1a41052ffcc001c6cebbac4dc7d4bae4e0" prot="package" static="no" mutable="no">
+        <type>String</type>
+        <definition>String com.video_browser_thesis.processing.ImageProcessing.imageUrl</definition>
+        <argsstring></argsstring>
+        <name>imageUrl</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/ImageProcessing.java" line="17" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/ImageProcessing.java" bodystart="17" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1processing_1_1_image_processing_1a0bdf7979b51e6cf3f33938621ba72f24" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>com.video_browser_thesis.processing.ImageProcessing.ImageProcessing</definition>
+        <argsstring>(String imageUrl)</argsstring>
+        <name>ImageProcessing</name>
+        <param>
+          <type>String</type>
+          <declname>imageUrl</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/ImageProcessing.java" line="19" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/ImageProcessing.java" bodystart="19" bodyend="22"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1processing_1_1_image_processing_1a68769361c3fd89b73f1b6586e518b90b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>Bitmap</type>
+        <definition>Bitmap com.video_browser_thesis.processing.ImageProcessing.decodeImage</definition>
+        <argsstring>()</argsstring>
+        <name>decodeImage</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Returns the decoded Image <parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>@return</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Bitmap </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="see"><para>Bitmap image </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/ImageProcessing.java" line="88" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/ImageProcessing.java" bodystart="88" bodyend="90"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1processing_1_1_image_processing_1acb25cd46ef7af81fd90399f33149a742" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>static int com.video_browser_thesis.processing.ImageProcessing.calculateInSampleSize</definition>
+        <argsstring>(BitmapFactory.Options options, int reqWidth, int reqHeight)</argsstring>
+        <name>calculateInSampleSize</name>
+        <param>
+          <type>BitmapFactory.Options</type>
+          <declname>options</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>reqWidth</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>reqHeight</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/ImageProcessing.java" line="25" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/ImageProcessing.java" bodystart="24" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1processing_1_1_image_processing_1a0c573eee1925fe752c3063aaf3377fc4" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>Bitmap</type>
+        <definition>static Bitmap com.video_browser_thesis.processing.ImageProcessing.decodeSampledBitmapFromResource</definition>
+        <argsstring>(int reqWidth, int reqHeight, InputStream is)</argsstring>
+        <name>decodeSampledBitmapFromResource</name>
+        <param>
+          <type>int</type>
+          <declname>reqWidth</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>reqHeight</declname>
+        </param>
+        <param>
+          <type>InputStream</type>
+          <declname>is</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Decode bitmap with inSampleSize set <parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>reqWidth</parametername>
+</parameternamelist>
+<parameterdescription>
+<para></para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>reqHeight</parametername>
+</parameternamelist>
+<parameterdescription>
+<para></para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>is</parametername>
+</parameternamelist>
+<parameterdescription>
+<para></para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Bitmap </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/ImageProcessing.java" line="50" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/ImageProcessing.java" bodystart="49" bodyend="59"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1processing_1_1_image_processing_1a7e2413579029b667f07c5700f5f41d22" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.video_browser_thesis.processing.ImageProcessing.fetchImage</definition>
+        <argsstring>()</argsstring>
+        <name>fetchImage</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Fetches the image content from the provided URL</para><para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>bitmap</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Stores the decoded image retrieved from the provided url </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>bitmap </para></simplesect>
+<simplesect kind="see"><para>Bitmap Image </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/ImageProcessing.java" line="69" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/ImageProcessing.java" bodystart="69" bodyend="81"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="52">
+        <label>Bitmap</label>
+      </node>
+      <node id="51">
+        <label>com.video_browser_thesis.processing.ImageProcessing</label>
+        <link refid="classcom_1_1video__browser__thesis_1_1processing_1_1_image_processing"/>
+        <childnode refid="52" relation="usage">
+          <edgelabel>bitmap_image</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/ImageProcessing.java" line="14" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/ImageProcessing.java" bodystart="14" bodyend="91"/>
+    <listofallmembers>
+      <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_image_processing_1ad69af47717a9ef9148b39a8d2e00000d" prot="package" virt="non-virtual"><scope>com::video_browser_thesis::processing::ImageProcessing</scope><name>bitmap_image</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_image_processing_1acb25cd46ef7af81fd90399f33149a742" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::processing::ImageProcessing</scope><name>calculateInSampleSize</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_image_processing_1a68769361c3fd89b73f1b6586e518b90b" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::processing::ImageProcessing</scope><name>decodeImage</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_image_processing_1a0c573eee1925fe752c3063aaf3377fc4" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::processing::ImageProcessing</scope><name>decodeSampledBitmapFromResource</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_image_processing_1a7e2413579029b667f07c5700f5f41d22" prot="private" virt="non-virtual"><scope>com::video_browser_thesis::processing::ImageProcessing</scope><name>fetchImage</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_image_processing_1a0bdf7979b51e6cf3f33938621ba72f24" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::processing::ImageProcessing</scope><name>ImageProcessing</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_image_processing_1a41052ffcc001c6cebbac4dc7d4bae4e0" prot="package" virt="non-virtual"><scope>com::video_browser_thesis::processing::ImageProcessing</scope><name>imageUrl</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

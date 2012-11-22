@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.2">
+  <compounddef id="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes" kind="class" prot="public">
+    <compoundname>com::video_browser_thesis::elements::KeyFrame_attributes</compoundname>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1a5ed2b10d8a5d915bec85bde3c7c8affb" prot="public" static="no" mutable="no">
+        <type>String</type>
+        <definition>String com.video_browser_thesis.elements.KeyFrame_attributes.image_source</definition>
+        <argsstring></argsstring>
+        <name>image_source</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/KeyFrame_attributes.java" line="35" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/KeyFrame_attributes.java" bodystart="35" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1aaf8f7f3cce30171b1b01b4a1baa9963a" prot="public" static="no" mutable="no">
+        <type>String</type>
+        <definition>String com.video_browser_thesis.elements.KeyFrame_attributes.frame_point</definition>
+        <argsstring></argsstring>
+        <name>frame_point</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/KeyFrame_attributes.java" line="36" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/KeyFrame_attributes.java" bodystart="36" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1aed3349d4d97ecdd5d9a359cd03f6e74e" prot="public" static="no" mutable="no">
+        <type>Bitmap</type>
+        <definition>Bitmap com.video_browser_thesis.elements.KeyFrame_attributes.video_img</definition>
+        <argsstring></argsstring>
+        <name>video_img</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/KeyFrame_attributes.java" line="37" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/KeyFrame_attributes.java" bodystart="37" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1a1b26a1bff2d460ae0b78d8ca9a56072a" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int com.video_browser_thesis.elements.KeyFrame_attributes.background_color</definition>
+        <argsstring></argsstring>
+        <name>background_color</name>
+        <initializer>= Color.TRANSPARENT</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/KeyFrame_attributes.java" line="38" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/KeyFrame_attributes.java" bodystart="38" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1afcf26bea22581f51c2742963272d4850" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>com.video_browser_thesis.elements.KeyFrame_attributes.KeyFrame_attributes</definition>
+        <argsstring>(String image_source, String frame_point, Bitmap video_img)</argsstring>
+        <name>KeyFrame_attributes</name>
+        <param>
+          <type>String</type>
+          <declname>image_source</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>frame_point</declname>
+        </param>
+        <param>
+          <type>Bitmap</type>
+          <declname>video_img</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/KeyFrame_attributes.java" line="40" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/KeyFrame_attributes.java" bodystart="40" bodyend="44"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1a9fae5b973c4fa95ee83e856965ebdf08" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.video_browser_thesis.elements.KeyFrame_attributes.setBackgroundColor</definition>
+        <argsstring>()</argsstring>
+        <name>setBackgroundColor</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/KeyFrame_attributes.java" line="46" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/KeyFrame_attributes.java" bodystart="46" bodyend="48"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para>KeyFrame attributes <simplesect kind="author"><para>Anshul Saini </para></simplesect>
+<simplesect kind="version"><para>5 </para></simplesect>
+<parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>image_source</parametername>
+</parameternamelist>
+<parameterdescription>
+<para></para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>frame_point</parametername>
+</parameternamelist>
+<parameterdescription>
+<para></para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>video_img</parametername>
+</parameternamelist>
+<parameterdescription>
+<para></para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>    </detaileddescription>
+    <collaborationgraph>
+      <node id="58">
+        <label>com.video_browser_thesis.elements.KeyFrame_attributes</label>
+        <link refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes"/>
+        <childnode refid="59" relation="usage">
+          <edgelabel>video_img</edgelabel>
+        </childnode>
+      </node>
+      <node id="59">
+        <label>Bitmap</label>
+      </node>
+    </collaborationgraph>
+    <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/KeyFrame_attributes.java" line="34" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/KeyFrame_attributes.java" bodystart="34" bodyend="49"/>
+    <listofallmembers>
+      <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1a1b26a1bff2d460ae0b78d8ca9a56072a" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::elements::KeyFrame_attributes</scope><name>background_color</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1aaf8f7f3cce30171b1b01b4a1baa9963a" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::elements::KeyFrame_attributes</scope><name>frame_point</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1a5ed2b10d8a5d915bec85bde3c7c8affb" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::elements::KeyFrame_attributes</scope><name>image_source</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1afcf26bea22581f51c2742963272d4850" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::elements::KeyFrame_attributes</scope><name>KeyFrame_attributes</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1a9fae5b973c4fa95ee83e856965ebdf08" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::elements::KeyFrame_attributes</scope><name>setBackgroundColor</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1aed3349d4d97ecdd5d9a359cd03f6e74e" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::elements::KeyFrame_attributes</scope><name>video_img</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

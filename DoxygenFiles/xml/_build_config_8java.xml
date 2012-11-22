@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.2">
+  <compounddef id="_build_config_8java" kind="file">
+    <compoundname>BuildConfig.java</compoundname>
+    <innerclass refid="classcom_1_1video__browser__thesis_1_1activities_1_1_build_config" prot="public">com::video_browser_thesis::activities::BuildConfig</innerclass>
+    <innernamespace refid="namespacecom_1_1video__browser__thesis_1_1activities">com::video_browser_thesis::activities</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"></codeline>
+<codeline lineno="2" refid="namespacecom_1_1video__browser__thesis_1_1activities" refkind="compound"><highlight class="keyword">package<sp/></highlight><highlight class="normal">com.video_browser_thesis.activities;</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight></codeline>
+<codeline lineno="4" refid="classcom_1_1video__browser__thesis_1_1activities_1_1_build_config" refkind="compound"><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">final</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal"><ref refid="classcom_1_1video__browser__thesis_1_1activities_1_1_build_config" kindref="compound">BuildConfig</ref><sp/>{</highlight></codeline>
+<codeline lineno="5" refid="classcom_1_1video__browser__thesis_1_1activities_1_1_build_config_1a21a4f9d8952ed9679049fca1acbdb108" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">final</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">boolean</highlight><highlight class="normal"><sp/><ref refid="classcom_1_1video__browser__thesis_1_1activities_1_1_build_config_1a21a4f9d8952ed9679049fca1acbdb108" kindref="member">DEBUG</ref><sp/>=<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="6"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/BuildConfig.java"/>
+  </compounddef>
+</doxygen>

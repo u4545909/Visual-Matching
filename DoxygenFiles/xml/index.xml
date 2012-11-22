@@ -1,0 +1,452 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.2">
+  <compound refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1attr" kind="class"><name>com::video_browser_thesis::activities::R::attr</name>
+  </compound>
+  <compound refid="classcom_1_1video__browser__thesis_1_1activities_1_1_build_config" kind="class"><name>com::video_browser_thesis::activities::BuildConfig</name>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_build_config_1a21a4f9d8952ed9679049fca1acbdb108" kind="variable"><name>DEBUG</name></member>
+  </compound>
+  <compound refid="classcom_1_1video__browser__thesis_1_1processing_1_1_c_b___gallery_processing" kind="class"><name>com::video_browser_thesis::processing::CB_GalleryProcessing</name>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_c_b___gallery_processing_1a1d9d2ce7ecd81b2b34915b83c73e5cc7" kind="variable"><name>base_url</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_c_b___gallery_processing_1a4989f21d3993e0c9c38a09ae8cbbc2e9" kind="variable"><name>url</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_c_b___gallery_processing_1a5ed1b747b6a89406f711d176ea3d7c4c" kind="variable"><name>TAG_MATCHING_KEYFRAME</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_c_b___gallery_processing_1a7c4a501377a7bc894855762b95312c8e" kind="variable"><name>TAG_MATCHING_IMAGE_SOURCE</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_c_b___gallery_processing_1a589049f4a09cb5ca65641bd0027759c6" kind="variable"><name>k_attr</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_c_b___gallery_processing_1a0eeca49d3cc3386cc0f824efa5312032" kind="function"><name>CB_GalleryProcessing</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_c_b___gallery_processing_1a16c377eca1a10f291e20dd12d49e09fc" kind="function"><name>setArrayContents</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_c_b___gallery_processing_1a11c1cd0ec7e6dec9f4ed4ea493c6c119" kind="function"><name>jsonFeed</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_c_b___gallery_processing_1a5cff6c76f807593369cf0bdeb90f9d70" kind="function"><name>getKeyFrameArray</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_c_b___gallery_processing_1ae3b50ed68ffbb15f03e6fdaf5536c79d" kind="function"><name>urlProcessing</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_c_b___gallery_processing_1a1b95cc0eac8b9dfe0870fe57d60862c5" kind="function"><name>getArrayLength</name></member>
+  </compound>
+  <compound refid="classcom_1_1video__browser__thesis_1_1processing_1_1_c_b___processing" kind="class"><name>com::video_browser_thesis::processing::CB_Processing</name>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_c_b___processing_1aa3edc45a4d0b55968587a5e85dc8ab7a" kind="variable"><name>base_url</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_c_b___processing_1ad479095ca09d0c446c6ca262776b2263" kind="variable"><name>url</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_c_b___processing_1a2166b892c8ffb505991fdfd89d0b0e30" kind="variable"><name>TAG_KEYFRAME</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_c_b___processing_1a4e5440c5bf08daaf6ea4d3dc078779f6" kind="variable"><name>TAG_IMAGE_SOURCE</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_c_b___processing_1a53f3d4621691b4ad2c4c7ed9f614d5ec" kind="variable"><name>TAG_NAME</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_c_b___processing_1aec800c06683faffebd92a0b439776d27" kind="variable"><name>k_attr</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_c_b___processing_1a87e4464dda5cb3f036bd436f1f46dee8" kind="function"><name>CB_Processing</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_c_b___processing_1a560a649794c8a210bcd4ad42a728701e" kind="function"><name>jsonFeed</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_c_b___processing_1ae269a53ade47993d98abc4e0fc1d2fac" kind="function"><name>setArrayContents</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_c_b___processing_1aa9dbb5244312dc8e23f0f825cc38ba7c" kind="function"><name>getKeyFrameArray</name></member>
+  </compound>
+  <compound refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter" kind="class"><name>com::video_browser_thesis::adapters::CircularListAdapter</name>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1ae31548bea349038de7b2d9e4c70e1239" kind="variable"><name>DEBUG</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a0b71c5c1e0541f5fec0c652ff4cd8c5b" kind="variable"><name>TAG</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a8370977febc4460f5e00748d31527d4d" kind="variable"><name>mListAdapter</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a53da5855a4a2565cdbeda22eb1e71774" kind="variable"><name>mListAdapterCount</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a732793d0d75fa47e276b10be2b68e251" kind="function"><name>CircularListAdapter</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a08af2c2190d6dafcb6125cd6087994c7" kind="function"><name>getCount</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a2bb3131802d928557b95f5de888f20b4" kind="function"><name>getView</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1ae0b6ace4a8cc59cce04de5b05e723983" kind="function"><name>getItem</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a53c6fa48f2029148d1a2af1baba6650b" kind="function"><name>getItemId</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a74f9667e98d65f19dceb04acade4f7f8" kind="function"><name>areAllItemsEnabled</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a41062b03f04e8c6a4deb5c575a4f843d" kind="function"><name>getItemViewType</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a7851bffb1fc27671cfa7b302f6c356a8" kind="function"><name>getViewTypeCount</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a678d75a644407a081b7ceed5bdf36c5c" kind="function"><name>isEmpty</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a8ed502dfae802d67369dd6a8acd69b0c" kind="function"><name>isEnabled</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1ae4409d3fa4355d3ce0fba3a4bc9d5e7a" kind="function"><name>notifyDataSetChanged</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a7343853ce6edde37387315c9741117d5" kind="function"><name>notifyDataSetInvalidated</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1af17c8ac108e8cacc75f389af3d645248" kind="function"><name>getDropDownView</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a54a7111717492834a07e6fd5e757282a" kind="function"><name>hasStableIds</name></member>
+  </compound>
+  <compound refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1color" kind="class"><name>com::video_browser_thesis::activities::R::color</name>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1color_1af86ca7a188eb718b8b9270e1f611b352" kind="variable"><name>app_header_background</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1color_1a067ae68aa949117ec9c5d0982cb94de7" kind="variable"><name>app_header_bottom_divider</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1color_1a205eb046b57162be67a07cf1e199276c" kind="variable"><name>categorized_gallery_background</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1color_1a5e8e60cfda3a365d1b33228e17d8a2b0" kind="variable"><name>categorized_video_gallery_activity_background</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1color_1a93d6204964fc47a540f0fbb365b936f4" kind="variable"><name>category_text_background</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1color_1a3f74231afd1b8d20d842b9b1c2a929b3" kind="variable"><name>category_text_color</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1color_1aaa07fdc116d9fa0097f88363dbd8bb36" kind="variable"><name>cross_browser_background</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1color_1ad1ac3083a56e05204913ecac3052216d" kind="variable"><name>cross_browser_gallery_background</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1color_1af39a0a723e9dc8e7d3dd19f4f6835d65" kind="variable"><name>cross_browser_listview_background</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1color_1a6dca5e36f48e821a6732ffa9ee8af4db" kind="variable"><name>cross_browser_selection_border</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1color_1a01dbd2751b36c414ff033eb7fc1e61e2" kind="variable"><name>keyframe_listview</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1color_1a307ff30e72784839225c6bbfb9d99306" kind="variable"><name>video_attributes_overlayed_text_background</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1color_1a4fc4964ffe5789ab28997dd72db80e3f" kind="variable"><name>video_attributes_overlayed_text_color</name></member>
+  </compound>
+  <compound refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___gallery_adapter" kind="class"><name>com::video_browser_thesis::adapters::CrossBrowser_GalleryAdapter</name>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___gallery_adapter_1a22502909056b57d1a1482c4b66d3e3ca" kind="variable"><name>activity</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___gallery_adapter_1a1b38328b6177c77cbcbd2586727e3a19" kind="variable"><name>inflater</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___gallery_adapter_1af7b439d1000d06381e537f0f45557e5e" kind="variable"><name>keyframe_attr</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___gallery_adapter_1a5bec14c676feea6e65dd79a4ce22d7d6" kind="function"><name>CrossBrowser_GalleryAdapter</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___gallery_adapter_1a0bc2bad4158721a2c980333660500293" kind="function"><name>getCount</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___gallery_adapter_1a0338a3aa8ea67422d04cd093a590079a" kind="function"><name>getItem</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___gallery_adapter_1ac794563aeebce4fbb9e1e6bd4dc36300" kind="function"><name>getItemId</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___gallery_adapter_1a8423f77586d7eccc4bad253afa7be195" kind="function"><name>getView</name></member>
+  </compound>
+  <compound refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___list_adapter" kind="class"><name>com::video_browser_thesis::adapters::CrossBrowser_ListAdapter</name>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___list_adapter_1aaba2087103dedc2a58daf226be87e9de" kind="variable"><name>context</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___list_adapter_1a74ad61316839f4c184a4a62753a310e5" kind="variable"><name>keyframe_attr</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___list_adapter_1af27ee3a3f5b0f4d63e482e5770ceb0e5" kind="variable"><name>layoutResourceId</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___list_adapter_1a77174d24bec2d33af4f0c3da439f545a" kind="function"><name>CrossBrowser_ListAdapter</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___list_adapter_1a0cde829fd4ad4a587d096a0c4e649978" kind="function"><name>getView</name></member>
+  </compound>
+  <compound refid="classcom_1_1video__browser__thesis_1_1activities_1_1_cross_browser_activity" kind="class"><name>com::video_browser_thesis::activities::CrossBrowserActivity</name>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_cross_browser_activity_1a2e560b90664f0b9c7bbb95a5a3643e98" kind="variable"><name>cb_bundle</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_cross_browser_activity_1a0c0f14a78fe909e3455808f6d622a0b4" kind="variable"><name>crossbrowser_gallery</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_cross_browser_activity_1a87bf5b938cfac7be24c529ac304d0317" kind="variable"><name>metrics</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_cross_browser_activity_1a8b4e9b1b0b2fe461d754ec3f97229ff1" kind="variable"><name>i</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_cross_browser_activity_1a3751d8c6aab4f0ef2edcf976dabac562" kind="function"><name>onCreate</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_cross_browser_activity_1a790b0210c2a2174bd447bc62c59d93c2" kind="function"><name>setMargins</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_cross_browser_activity_1a51ffd26afdbacad151c135e00a0ebdc0" kind="function"><name>onListView_btn_click</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_cross_browser_activity_1aa050151e4694cd4f165c4038cf9a97ff" kind="function"><name>onHomeButtonClick</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_cross_browser_activity_1a43ed95e3f7231bf54370a66bf7061e08" kind="function"><name>getValueFromBundle</name></member>
+  </compound>
+  <compound refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___list_adapter_1_1_cross_browser_list_holder" kind="class"><name>com::video_browser_thesis::adapters::CrossBrowser_ListAdapter::CrossBrowserListHolder</name>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___list_adapter_1_1_cross_browser_list_holder_1a9a696062e592070b13ed5dbf485fcce5" kind="variable"><name>video_img</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___list_adapter_1_1_cross_browser_list_holder_1a5b8e7d2e4cedf5b281c0a42e71c93878" kind="variable"><name>video_frame_point</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___list_adapter_1_1_cross_browser_list_holder_1a9ec7199dc0e7f3738094cbdf1b2e6170" kind="variable"><name>video_background_color</name></member>
+  </compound>
+  <compound refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1dimen" kind="class"><name>com::video_browser_thesis::activities::R::dimen</name>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1dimen_1acea43e06450fb7e4435d38a650f743b3" kind="variable"><name>app_header_bottom_divider_thickness</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1dimen_1a5b80846371d604c8bb8e282e1bb9d0db" kind="variable"><name>app_header_home_button</name></member>
+  </compound>
+  <compound refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1drawable" kind="class"><name>com::video_browser_thesis::activities::R::drawable</name>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1drawable_1ab7cd50f27a6b88638cdabd0301bfa72b" kind="variable"><name>add_icon</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1drawable_1a11fe77bd05691bd71a5ebfa52c6cf3a5" kind="variable"><name>app_header</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1drawable_1ad8d079c1893997d7ba487078fa39c1ff" kind="variable"><name>home</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1drawable_1abb270e9b3966bf7dea87df1b89caedd6" kind="variable"><name>ic_launcher</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1drawable_1a127eba79e4eaf4dd7d9ca00ec0826ba7" kind="variable"><name>icon</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1drawable_1a020067f858d24a6b615d814c41d6d9ee" kind="variable"><name>imag1</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1drawable_1a4c00f965f2ba9bc9f2ebf9bb1a5ba991" kind="variable"><name>imag2</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1drawable_1af806be0ea2e292732fe22c6a19f349a3" kind="variable"><name>imag3</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1drawable_1ab9366720cee02d2071272a7c1de46fe9" kind="variable"><name>imag4</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1drawable_1a48557c0cd67dc10028374575f292230b" kind="variable"><name>imag5</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1drawable_1ae8d57649af670942894ad0a0b0219085" kind="variable"><name>imag6</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1drawable_1ad6e856f8e2ea13100bbea9b84579cf35" kind="variable"><name>splash_background</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1drawable_1a7ccae90f64447e90f44a6bfb714d4dda" kind="variable"><name>splash_screen_img</name></member>
+  </compound>
+  <compound refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id" kind="class"><name>com::video_browser_thesis::activities::R::id</name>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a75bfd4f284113845d67b3c9b354a8510" kind="variable"><name>LinearLayout01</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a0c2baf27ba0f4fbf1537719d1c02cb16" kind="variable"><name>app_header_homebutton</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1ad1c37cb3632ac90da6d1ae352eb77365" kind="variable"><name>app_header_img</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1ac73788b4133d3a5b818c8d087d988353" kind="variable"><name>author</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a6121d23ee3f8269bfd460f103136a4a0" kind="variable"><name>button_area</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a7f98df917c8c970f2a9b2e3c5aea8460" kind="variable"><name>button_divider</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a0ae7f022016daa597ac70c8c424962bc" kind="variable"><name>by_txt</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a657586fce0f12be3f43dd28170c50110" kind="variable"><name>category01</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1ad77d41bbbf24407a9e2892d201681d35" kind="variable"><name>category02</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1aeba08e1b4e35fa4c158200d38e4c37ae" kind="variable"><name>category03</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a1c695be15ff8c3b0d04e13b133cfb02a" kind="variable"><name>category04</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a59956466b8735d3d1672cbcbf1231f88" kind="variable"><name>category05</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1ae378580837f40b8b41dabb6bfbbe73ac" kind="variable"><name>cb_gallery_video_length</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a4fb5bcca0d7038153089487f82cac994" kind="variable"><name>cb_list</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1adcf96445f2a2fad284658817a4485a26" kind="variable"><name>cb_video_length</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a5c048aed493b333b9723ea056a6be24e" kind="variable"><name>cross_browser_gallery</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a11761391c055da55f996553c20775c5c" kind="variable"><name>cross_browser_listview</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1af605c6d7be1fc6df55f3f25a40270240" kind="variable"><name>cross_browsers_gallery_img</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a3ea39cc0fc812531165fdeacf508be8e" kind="variable"><name>cross_browsers_img</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a88db534574e613269117edbeeae7a4e0" kind="variable"><name>crossbrowser_btn</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1ab9e9b3f8363f9e71cab81aee4178f4d4" kind="variable"><name>galleryid1</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a25eabe7cdb7f1ef7ce40eca654f2637c" kind="variable"><name>galleryid2</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1aa907358f7e19a3c5f518a674509d63e8" kind="variable"><name>galleryid3</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1aaaa97c6318b89cc6d8fc266004fef3ab" kind="variable"><name>galleryid4</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a0e96763fa1f9bf068603e401456980b8" kind="variable"><name>galleryid5</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a7c15b7d39bdd74b9952846ab526da5b6" kind="variable"><name>header_bar</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1aad54100d443b2fe34099281b40bbee3f" kind="variable"><name>key_frame_crossbrowser_btn</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a59d68546e0814055b92786b218705046" kind="variable"><name>keyframeListLayout</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a6cc659c113cc86d04e0664744381d0c7" kind="variable"><name>keyframe_listview_btn</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a2ecbfb0ee985f35ee280e7ab054be413" kind="variable"><name>listview_btn</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a7993569553059946dcfc3ba8938967c4" kind="variable"><name>main_keyframe_area</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a001e65f0d059fc655bcd89e6623bd6ac" kind="variable"><name>matching_keyFrame_txt</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1af1680486a72b12bb7ec4900339ff03bd" kind="variable"><name>matching_keyframes_list</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a49e9ae7b36d3459127139ce958f363be" kind="variable"><name>scroll_view</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1aa67448c15f073da9fa066b80d0e1da42" kind="variable"><name>second_activity_header</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1adeba720c1e6285f2b637ce98e280d319" kind="variable"><name>selected_frame_view</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a918b714114bf45f581a139b799ca1298" kind="variable"><name>selected_matching_keyframe</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a71b638c5b0ef6ae0a360222da1f570bc" kind="variable"><name>selected_matching_keyframe_txt</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a14e40a44a75e45100a4e00d1cf5b59dd" kind="variable"><name>selection_border01</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1ab450571a448e3defa5f62404f4dee908" kind="variable"><name>selection_border02</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a01cdd98bbd2d20ed15c6fba26068a75e" kind="variable"><name>selection_border03</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a7ea6e388aee0fd43df29ace8ee7bc849" kind="variable"><name>selection_border04</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1ad1b6f7caf43d5083f7b434a4c812112a" kind="variable"><name>splash_screen_img</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a951fa742e82293fa3978077f29ad5e65" kind="variable"><name>third_activity_header</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a3ce3c0ededeac13a2ede9a93cf301789" kind="variable"><name>upload_viewcount_divider</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a7782c86854906b4e50b190f7cc6fbbec" kind="variable"><name>video_author</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a5451209c479f68b329098f3a270071b3" kind="variable"><name>video_description</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a3c42e99dbcbeab74d187c1113d37c88e" kind="variable"><name>video_image</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1ad313593c19215df2c36ff736eea7e3a7" kind="variable"><name>video_keyframe_image</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1abe2dec3313386616f31d510e9e940a27" kind="variable"><name>video_length</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a0c2462d5e16e0d40aae33bd01996b17a" kind="variable"><name>video_name</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1a01c86c3f766f1890a4a6c5dd6aae0dcd" kind="variable"><name>video_title</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1ae3fbacb1411b686834fe54fbe6dedfd0" kind="variable"><name>video_uploaded_timestamp</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1aef5ec5d1715bd91608c92f9c99955786" kind="variable"><name>view_count</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id_1aa2f823228ed93022720ea0c51ff88bb6" kind="variable"><name>views_txt</name></member>
+  </compound>
+  <compound refid="classcom_1_1video__browser__thesis_1_1processing_1_1_image_processing" kind="class"><name>com::video_browser_thesis::processing::ImageProcessing</name>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_image_processing_1ad69af47717a9ef9148b39a8d2e00000d" kind="variable"><name>bitmap_image</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_image_processing_1a41052ffcc001c6cebbac4dc7d4bae4e0" kind="variable"><name>imageUrl</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_image_processing_1a0bdf7979b51e6cf3f33938621ba72f24" kind="function"><name>ImageProcessing</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_image_processing_1a68769361c3fd89b73f1b6586e518b90b" kind="function"><name>decodeImage</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_image_processing_1acb25cd46ef7af81fd90399f33149a742" kind="function"><name>calculateInSampleSize</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_image_processing_1a0c573eee1925fe752c3063aaf3377fc4" kind="function"><name>decodeSampledBitmapFromResource</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_image_processing_1a7e2413579029b667f07c5700f5f41d22" kind="function"><name>fetchImage</name></member>
+  </compound>
+  <compound refid="classcom_1_1video__browser__thesis_1_1json_1_1_j_s_o_n_parser" kind="class"><name>com::video_browser_thesis::json::JSONParser</name>
+    <member refid="classcom_1_1video__browser__thesis_1_1json_1_1_j_s_o_n_parser_1a80c3ecac1ebd31cc1510abf115e0078b" kind="variable"><name>is</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1json_1_1_j_s_o_n_parser_1a5357cc55c922530b68e7f92c84692ca5" kind="variable"><name>jObj</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1json_1_1_j_s_o_n_parser_1a3ebb375d8b15c4094fc8bc1ba1b8eda4" kind="variable"><name>json</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1json_1_1_j_s_o_n_parser_1a6fa44c7634fe65034d55dd67605db9cf" kind="function"><name>getJSONFromUrl</name></member>
+  </compound>
+  <compound refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes" kind="class"><name>com::video_browser_thesis::elements::KeyFrame_attributes</name>
+    <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1a5ed2b10d8a5d915bec85bde3c7c8affb" kind="variable"><name>image_source</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1aaf8f7f3cce30171b1b01b4a1baa9963a" kind="variable"><name>frame_point</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1aed3349d4d97ecdd5d9a359cd03f6e74e" kind="variable"><name>video_img</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1a1b26a1bff2d460ae0b78d8ca9a56072a" kind="variable"><name>background_color</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1afcf26bea22581f51c2742963272d4850" kind="function"><name>KeyFrame_attributes</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1a9fae5b973c4fa95ee83e856965ebdf08" kind="function"><name>setBackgroundColor</name></member>
+  </compound>
+  <compound refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter" kind="class"><name>com::video_browser_thesis::adapters::Keyframe_ListAdapter</name>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1ae023a353d49ebf83168c62152e79fe7a" kind="variable"><name>context</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1a745b4e5267276cc02e5daf7cd992c972" kind="variable"><name>video_attr</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1ace91d1d29f010f2965d878310760af5c" kind="variable"><name>layoutResourceId</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1a8f7397a9bc9a4c41413f68d063ada0d4" kind="function"><name>Keyframe_ListAdapter</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1add720f1361a5d6554fe51b188bbd7c1c" kind="function"><name>getView</name></member>
+  </compound>
+  <compound refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing" kind="class"><name>com::video_browser_thesis::processing::KeyFrameList_Processing</name>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1a15a44183d86609faebf517e49177ead0" kind="variable"><name>base_url</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1af2c213cde2783878549899009f7a6505" kind="variable"><name>TAG_TITLE</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1a12dcb7922104e581d71e5e71fb9254bf" kind="variable"><name>TAG_AUTHOR</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1a529b671a814d0e9f02154507d9f02eb4" kind="variable"><name>TAG_THUMBNAIL</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1ad9d6d529e10bb0e4f46c0a8f1bf8b4d6" kind="variable"><name>TAG_ID</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1a359070f34a40ae1c7e523b1368989a92" kind="variable"><name>TAG_VIDEOID</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1a4483fcc72311f3f0d55b2dfaeeb16d30" kind="variable"><name>TAG_PLAYER_URL</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1aa20d4dc508e5970a0df5e2b8ee2289d0" kind="variable"><name>TAG_LENGTH</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1ab6dacdd09998b982e94a1e728228779c" kind="variable"><name>TAG_TOPICS</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1ab6fd6c90849ee292bf1d5888fbb34602" kind="variable"><name>TAG_UPLOADED_TIME</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1a8574fb6b55559ce05a63847f76531166" kind="variable"><name>TAG_VIEW_COUNT</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1af987909bae1aa6b953469bd6f0390fb8" kind="variable"><name>TAG_DESCRIPTION</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1af65853d51d49d56877a53f7ea63ab61f" kind="variable"><name>url</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1abf84ede926bc4f493fca57c5e6ac46cd" kind="variable"><name>category_name</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1afae6c17c1fb861fdc8fd1ae072c5d7ab" kind="variable"><name>v_attr</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1aa997cba0b20aceb81bff4f6ff3ee2822" kind="function"><name>KeyFrameList_Processing</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1a043be842a8cda34fd7f80025fb13e7ce" kind="function"><name>jsonFeed</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1ac86e187eb01b3c5d9224bb2139b0979d" kind="function"><name>setArrayContents</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1a722555472f5a82acf6f0921536885f6e" kind="function"><name>getMatchingVideos</name></member>
+  </compound>
+  <compound refid="classcom_1_1video__browser__thesis_1_1activities_1_1_keyframe_list_activity" kind="class"><name>com::video_browser_thesis::activities::KeyframeListActivity</name>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_keyframe_list_activity_1a01a4fae00b6b6feaec1653c2c0e8696c" kind="variable"><name>b</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_keyframe_list_activity_1a66e62819d88b1e79836dadabab9a6390" kind="function"><name>onCreate</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_keyframe_list_activity_1a302e29acaadae66a1faf9a15b50cca3c" kind="function"><name>onCrossBrowser_btn_click</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_keyframe_list_activity_1a5e7b617dd0cf1e3a2fa4d0e55d91be3d" kind="function"><name>onResume</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_keyframe_list_activity_1a6527b2a168d6031141a3668fe157ea9d" kind="function"><name>onHomeButtonClick</name></member>
+  </compound>
+  <compound refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1layout" kind="class"><name>com::video_browser_thesis::activities::R::layout</name>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1layout_1a81171362197743cc865d80c7f04c6548" kind="variable"><name>activity_categorized_video_gallery</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1layout_1a055c2ad6c9686e677229c3b034c3d24d" kind="variable"><name>activity_cross_browser</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1layout_1aeb6d233c669fb56ecc8bd85d136c475a" kind="variable"><name>activity_keyframe</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1layout_1a7ab62951f84bb296007c3c4da398548e" kind="variable"><name>app_header_layout</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1layout_1a42320b21a6aa25e8c0255e737926000b" kind="variable"><name>categorized_gallery_item_layout</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1layout_1ab8db7c7f7b81fe89e8a60d23605e6f71" kind="variable"><name>categorized_gallery_list</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1layout_1a2bfb0a5b8400381d5fe0a7dc542ab168" kind="variable"><name>category_gallery_layout</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1layout_1a22131e4dcd5994ef1660fcaa446da199" kind="variable"><name>category_heading_text_layout</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1layout_1aea874c567ea93ceef433490eec4bed93" kind="variable"><name>cross_browser_galleryitem</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1layout_1a3ac7cbfc2d51c8ff40a781a064d4069c" kind="variable"><name>cross_browser_listitem</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1layout_1a47ea9cc8dea2852ef2b6a32bb4f5e44e" kind="variable"><name>keyframe_list_layout</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1layout_1a1001a97e3405596810c2fdefd27bbd80" kind="variable"><name>keyframe_listview</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1layout_1a0cd05206327f407c5b6dfa46040e3efd" kind="variable"><name>splash_screen</name></member>
+  </compound>
+  <compound refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter" kind="class"><name>com::video_browser_thesis::adapters::MainGallery_VideoAdapter</name>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1a5eb376d86eea6cd5ed715ef9105a0b82" kind="variable"><name>activity</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1a73c5315c70105140fea6131704e8ff88" kind="variable"><name>inflater</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1a308416614bd824dac7f1843645ea41b9" kind="variable"><name>video_attr</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1a91b47bfbe580412cc75d9cc1d3b6206a" kind="function"><name>MainGallery_VideoAdapter</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1a4ffe30aba7cb71f708d8e08936a51472" kind="function"><name>getCount</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1acbffb17f23caa716a159ce244de897dd" kind="function"><name>getItem</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1af207f51545e3ffdd70db09a23d3ca51a" kind="function"><name>getItemId</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1af019b3e184f51c74d1409d6d0e2e1806" kind="function"><name>getView</name></member>
+  </compound>
+  <compound refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity" kind="class"><name>com::video_browser_thesis::activities::MainGalleryActivity</name>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1ade36b8ed641eb8cee04346dcf93814fb" kind="variable"><name>galleryView1</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1a21b4fef2ee37b657aee72d5d5e93b625" kind="variable"><name>metrics</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1a1554a346e7d4f93f473a9b59a44af262" kind="variable"><name>galleryView2</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1a62a3ce53d03932f8109da7c978a91a31" kind="variable"><name>galleryView3</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1a84f2bf916c0641a5e19daa72ecdc8e1c" kind="variable"><name>galleryView4</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1a5e4e1c91ea0e32006cbf83a11e080fb2" kind="variable"><name>galleryView5</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1acf8504f006fdbc3caf40376f37a99572" kind="variable"><name>TAG_CATEGORY01</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1ace24b6c419b8add00ffc9d415d15b24e" kind="variable"><name>TAG_CATEGORY02</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1a89d0e6c594e5b8ae1d4256be098c5408" kind="variable"><name>TAG_CATEGORY03</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1a00d2d4d0b24b44609afeddbbc4e45e1c" kind="variable"><name>TAG_CATEGORY04</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1a8847abf4cd8c46c745383bb7a3d48d20" kind="variable"><name>TAG_CATEGORY05</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1ab66dcb21324325af069e1d24a7c5c245" kind="function"><name>onCreate</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1adb4ca73673080cdf8631d6f39b2bd9b9" kind="function"><name>onHomeButtonClick</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1a46626305fc65e1ec7e5a81002f33cdeb" kind="function"><name>isConnected</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1a79314924ee8035d716b0b38255a35aef" kind="function"><name>setMargins</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_main_gallery_activity_1a81d201d3464361cad2b0964635dd3838" kind="function"><name>passingBundles</name></member>
+  </compound>
+  <compound refid="classcom_1_1video__browser__thesis_1_1processing_1_1_main_gallery_processing" kind="class"><name>com::video_browser_thesis::processing::MainGalleryProcessing</name>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_main_gallery_processing_1ae260587d971a28e3f1ab35f5ddd96923" kind="variable"><name>url</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_main_gallery_processing_1ae2ebad2e48bcb86c21bab5f986e7ffa7" kind="variable"><name>TAG_TITLE</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_main_gallery_processing_1af5166319783e9f678b95b1e079d9fd90" kind="variable"><name>TAG_AUTHOR</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_main_gallery_processing_1a803040b478f5f4cbcecfc6ac951103d8" kind="variable"><name>TAG_THUMBNAIL</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_main_gallery_processing_1a1df7d69289d83e38ab068efec7e3c00b" kind="variable"><name>TAG_ID</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_main_gallery_processing_1a07cd7c0433340ce7bbd3ee884c349997" kind="variable"><name>TAG_VIDEOID</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_main_gallery_processing_1ad5612c3eb3596b3e45908e9019fb79b6" kind="variable"><name>TAG_PLAYER_URL</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_main_gallery_processing_1a5fcc1f9ed3afc691111c1a53ea54cdf8" kind="variable"><name>TAG_LENGTH</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_main_gallery_processing_1a521fc4b744b633d46e890ce35088add4" kind="variable"><name>TAG_TOPICS</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_main_gallery_processing_1abc2beca5bb367f29a8bfc2237932fe58" kind="variable"><name>TAG_UPLOADED_TIME</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_main_gallery_processing_1a0c0d98d69d443a08b2340fb5594f9f2a" kind="variable"><name>TAG_VIEW_COUNT</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_main_gallery_processing_1a72c8d6220e621686c9458fb38bf6d472" kind="variable"><name>TAG_DESCRIPTION</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_main_gallery_processing_1ad0a25a6ada98b61153b3e4c6de5cdcb4" kind="variable"><name>category_name</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_main_gallery_processing_1a367b7616826fc6a39ef6c3aad0b76bd5" kind="variable"><name>v_attr</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_main_gallery_processing_1a405fe9a88bbc3cb047d7a61495b55e18" kind="function"><name>MainGalleryProcessing</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_main_gallery_processing_1a90f2d11f4c0b61f7847054becf8c43a8" kind="function"><name>jsonFeed</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_main_gallery_processing_1a6ecb1e6d381d158c3271177917c30a65" kind="function"><name>setArrayContents</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_main_gallery_processing_1a4d93ba3178808de59698e1bcc2292189" kind="function"><name>getCategoryVideos</name></member>
+  </compound>
+  <compound refid="interfacecom_1_1video__browser__thesis_1_1processing_1_1_processing" kind="interface"><name>com::video_browser_thesis::processing::Processing</name>
+    <member refid="interfacecom_1_1video__browser__thesis_1_1processing_1_1_processing_1ab3c4e926cce628403b82cd7a60f043b3" kind="function"><name>setArrayContents</name></member>
+    <member refid="interfacecom_1_1video__browser__thesis_1_1processing_1_1_processing_1aced380bb6ea96302bbd0d1e00fb3679e" kind="function"><name>jsonFeed</name></member>
+  </compound>
+  <compound refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r" kind="class"><name>com::video_browser_thesis::activities::R</name>
+  </compound>
+  <compound refid="classcom_1_1video__browser__thesis_1_1splash_screen_1_1_splash_screen" kind="class"><name>com::video_browser_thesis::splashScreen::SplashScreen</name>
+    <member refid="classcom_1_1video__browser__thesis_1_1splash_screen_1_1_splash_screen_1a3303300e142e61273a5efec4a9f07aff" kind="variable"><name>_active</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1splash_screen_1_1_splash_screen_1a9f208e3d4ad10a414b7b504c3560a39a" kind="variable"><name>_splashTime</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1splash_screen_1_1_splash_screen_1acc1210c792996037d40cf3ee64fc9905" kind="function"><name>onCreate</name></member>
+  </compound>
+  <compound refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string" kind="class"><name>com::video_browser_thesis::activities::R::string</name>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1a293e2c90443afef8c05ded84234f8988" kind="variable"><name>app_name</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1aaf4ad046f924f9818770e2360c1e88e0" kind="variable"><name>by_txt</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1ae5525d13ddc50422b7dc2feb1469aa7e" kind="variable"><name>category_txt</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1adc078792f2df952e34d0559ec4da3a4e" kind="variable"><name>cross_browser_tab_txt</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1a3b0755ff97cafee97b944a8e56534fa3" kind="variable"><name>hello_world</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1a30d973a64f7af041beba05455ada9ebd" kind="variable"><name>listView_tab_txt</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1a675bbdbaf63385b3a551f55291fd71ca" kind="variable"><name>matching_keyFrame_txt</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1aa485ef3a85b804c0bb24e4be562031fc" kind="variable"><name>menu_settings</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1a790b76e8cfccbf366a5d8d943d6c2b77" kind="variable"><name>no_description</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1ab51f4f39c29dd3dc31c67be4086062d0" kind="variable"><name>selected_matching_keyframe_txt</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1ab90d77bb917cc65820043c4d63b188c3" kind="variable"><name>title_activity_categorized_video_gallery</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1a1c6724a17cf170af74c7ea5ed7ccbffa" kind="variable"><name>video_author_txt</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1ada3f67a715537de0375c018e8d0139fb" kind="variable"><name>video_description_txt</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1ac5fc48dcf43ea10f071f294d5b71c104" kind="variable"><name>video_time_length</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1ab168d6d45d4a7a417e5e0bff943a688a" kind="variable"><name>video_title_txt</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1a26c57c21e2d8bb572658b31228bcc306" kind="variable"><name>video_uploaded_timestamp_txt</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1a80f9c7e6f8980c05624e65713f5c48d8" kind="variable"><name>video_view_count_txt</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1a3449dd61655a9e55bd3362bd778b8134" kind="variable"><name>video_views_txt</name></member>
+  </compound>
+  <compound refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1style" kind="class"><name>com::video_browser_thesis::activities::R::style</name>
+    <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1style_1abd875171e92deab528df2261212c9112" kind="variable"><name>AppTheme</name></member>
+  </compound>
+  <compound refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes" kind="class"><name>com::video_browser_thesis::elements::Video_attributes</name>
+    <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1a90fcc84191f2c525436bdc0cfb1653ea" kind="variable"><name>video_title</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1abd33d1952b8a62347f0f661c3c2ec5ed" kind="variable"><name>video_author</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1a9a6848418e1b8750117df0f895e90320" kind="variable"><name>video_image</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1ae602e9e2f3ec0641635063eeecdef8c0" kind="variable"><name>thumbnail</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1a12b1f3d1b5415ac60dddba277c4ddebc" kind="variable"><name>tag_id</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1a7113a6d7df8608b786990974dc8bd269" kind="variable"><name>video_id</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1a52b04c0ee9b91beafc8bb585d7c968b2" kind="variable"><name>player_url</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1aae8458cd610150fe777bcfed6ce6b2e5" kind="variable"><name>length</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1ae38e2927f054bedae6fd00d5a6d89332" kind="variable"><name>topics</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1ab249aab820838b9cce924dcf2e684e30" kind="variable"><name>uploaded_time</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1ab32c45e2134b0fbe136713e179ca3bb6" kind="variable"><name>view_count</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1a8fe934f1116f75edb5cc4d9a74d0c33b" kind="variable"><name>description</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1add218c9ce5c0c7b35b29df7bafe62d05" kind="function"><name>Video_attributes</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1a24fa8f859e48b2246a83007f8bf14aed" kind="function"><name>Video_attributes</name></member>
+  </compound>
+  <compound refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1_1_video_list_holder" kind="class"><name>com::video_browser_thesis::adapters::Keyframe_ListAdapter::VideoListHolder</name>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1_1_video_list_holder_1aa831f679f6bf35412ad2c37df2aacf01" kind="variable"><name>video_title</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1_1_video_list_holder_1a7bb05d236eb21e6e4ab8e05a8f9e6fa6" kind="variable"><name>video_description</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1_1_video_list_holder_1af6232819a60150f761c98324ddecd55e" kind="variable"><name>uploaded_time</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1_1_video_list_holder_1a99b0bae890b1841a3b544a3d72dd59e8" kind="variable"><name>view_count</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1_1_video_list_holder_1a8823103b0d6c2ceb112ca1028ec5a2f8" kind="variable"><name>video_author</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1_1_video_list_holder_1adc86bffaa3eefb27fce13287e121c3b6" kind="variable"><name>video_length</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1_1_video_list_holder_1a6ed6292e5eb5cbac89bdf6a2ce013227" kind="variable"><name>video_img</name></member>
+  </compound>
+  <compound refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1_1_view_holder" kind="class"><name>com::video_browser_thesis::adapters::MainGallery_VideoAdapter::ViewHolder</name>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1_1_view_holder_1ada88aec043f42f4cfe8bb4186d097dc4" kind="variable"><name>video_name</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1_1_view_holder_1ab2d0417deab96f232dc4731541a66fe4" kind="variable"><name>video_author</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1_1_view_holder_1aa40a8ce6be290e5fa8e6fdf3ee2753f9" kind="variable"><name>video_image</name></member>
+  </compound>
+  <compound refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___gallery_adapter_1_1_view_holder" kind="class"><name>com::video_browser_thesis::adapters::CrossBrowser_GalleryAdapter::ViewHolder</name>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___gallery_adapter_1_1_view_holder_1a8493202a5f53b59069cd64c2854f174a" kind="variable"><name>video_image</name></member>
+    <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___gallery_adapter_1_1_view_holder_1a4bfc4a63fc9404a827ecd66a7e29f9a3" kind="variable"><name>video_length</name></member>
+  </compound>
+  <compound refid="namespacecom" kind="namespace"><name>com</name>
+  </compound>
+  <compound refid="namespacecom_1_1video__browser__thesis" kind="namespace"><name>com::video_browser_thesis</name>
+  </compound>
+  <compound refid="namespacecom_1_1video__browser__thesis_1_1activities" kind="namespace"><name>com::video_browser_thesis::activities</name>
+  </compound>
+  <compound refid="namespacecom_1_1video__browser__thesis_1_1adapters" kind="namespace"><name>com::video_browser_thesis::adapters</name>
+  </compound>
+  <compound refid="namespacecom_1_1video__browser__thesis_1_1elements" kind="namespace"><name>com::video_browser_thesis::elements</name>
+  </compound>
+  <compound refid="namespacecom_1_1video__browser__thesis_1_1json" kind="namespace"><name>com::video_browser_thesis::json</name>
+  </compound>
+  <compound refid="namespacecom_1_1video__browser__thesis_1_1processing" kind="namespace"><name>com::video_browser_thesis::processing</name>
+  </compound>
+  <compound refid="namespacecom_1_1video__browser__thesis_1_1splash_screen" kind="namespace"><name>com::video_browser_thesis::splashScreen</name>
+  </compound>
+  <compound refid="_build_config_8java" kind="file"><name>BuildConfig.java</name>
+  </compound>
+  <compound refid="_r_8java" kind="file"><name>R.java</name>
+  </compound>
+  <compound refid="_cross_browser_activity_8java" kind="file"><name>CrossBrowserActivity.java</name>
+  </compound>
+  <compound refid="_keyframe_list_activity_8java" kind="file"><name>KeyframeListActivity.java</name>
+  </compound>
+  <compound refid="_main_gallery_activity_8java" kind="file"><name>MainGalleryActivity.java</name>
+  </compound>
+  <compound refid="_circular_list_adapter_8java" kind="file"><name>CircularListAdapter.java</name>
+  </compound>
+  <compound refid="_cross_browser___gallery_adapter_8java" kind="file"><name>CrossBrowser_GalleryAdapter.java</name>
+  </compound>
+  <compound refid="_cross_browser___list_adapter_8java" kind="file"><name>CrossBrowser_ListAdapter.java</name>
+  </compound>
+  <compound refid="_keyframe___list_adapter_8java" kind="file"><name>Keyframe_ListAdapter.java</name>
+  </compound>
+  <compound refid="_main_gallery___video_adapter_8java" kind="file"><name>MainGallery_VideoAdapter.java</name>
+  </compound>
+  <compound refid="_key_frame__attributes_8java" kind="file"><name>KeyFrame_attributes.java</name>
+  </compound>
+  <compound refid="_video__attributes_8java" kind="file"><name>Video_attributes.java</name>
+  </compound>
+  <compound refid="_j_s_o_n_parser_8java" kind="file"><name>JSONParser.java</name>
+  </compound>
+  <compound refid="_c_b___gallery_processing_8java" kind="file"><name>CB_GalleryProcessing.java</name>
+  </compound>
+  <compound refid="_c_b___processing_8java" kind="file"><name>CB_Processing.java</name>
+  </compound>
+  <compound refid="_image_processing_8java" kind="file"><name>ImageProcessing.java</name>
+  </compound>
+  <compound refid="_key_frame_list___processing_8java" kind="file"><name>KeyFrameList_Processing.java</name>
+  </compound>
+  <compound refid="_main_gallery_processing_8java" kind="file"><name>MainGalleryProcessing.java</name>
+  </compound>
+  <compound refid="_processing_8java" kind="file"><name>Processing.java</name>
+  </compound>
+  <compound refid="_splash_screen_8java" kind="file"><name>SplashScreen.java</name>
+  </compound>
+  <compound refid="dir_0d9480b7cc593734c6219ffdb2b71bfa" kind="dir"><name>SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities</name>
+  </compound>
+  <compound refid="dir_77e00f5e8540fe0f12c7fb1dfa644dbe" kind="dir"><name>SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities</name>
+  </compound>
+  <compound refid="dir_702579882f7a2cfe010582957001f423" kind="dir"><name>SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters</name>
+  </compound>
+  <compound refid="dir_e433f66e683777a167d8327bf8215a84" kind="dir"><name>SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com</name>
+  </compound>
+  <compound refid="dir_7b0e57ba23a1ec318801e9e48480f0e3" kind="dir"><name>SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com</name>
+  </compound>
+  <compound refid="dir_45c6b54489d1f0424fa9d6002e8c0511" kind="dir"><name>SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery</name>
+  </compound>
+  <compound refid="dir_8510411ee11d5ba45f4e56cc7b508f11" kind="dir"><name>SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements</name>
+  </compound>
+  <compound refid="dir_4c45b384709703c8847d15b159723a62" kind="dir"><name>SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen</name>
+  </compound>
+  <compound refid="dir_bd00524c9310425070a552113b4a007c" kind="dir"><name>SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/json</name>
+  </compound>
+  <compound refid="dir_e8dae7f83ab0fb59fb4c738edfa1a1c2" kind="dir"><name>SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing</name>
+  </compound>
+  <compound refid="dir_4060abbad9c98425070cb04758f6e55b" kind="dir"><name>SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/splashScreen</name>
+  </compound>
+  <compound refid="dir_5a77a8edb9abb976c7baaec395ec294c" kind="dir"><name>SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src</name>
+  </compound>
+  <compound refid="dir_38b9ecf9318d8279ec6dd6d9d89a9938" kind="dir"><name>SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</name>
+  </compound>
+  <compound refid="dir_b3a6c203f1a76d5ad7bcd59958e44d79" kind="dir"><name>SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis</name>
+  </compound>
+  <compound refid="dir_54b178673dc38a18dd441337899e17b7" kind="dir"><name>SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis</name>
+  </compound>
+</doxygenindex>

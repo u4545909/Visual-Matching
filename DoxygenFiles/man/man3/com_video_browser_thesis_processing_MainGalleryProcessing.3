@@ -1,0 +1,104 @@
+.TH "com.video_browser_thesis.processing.MainGalleryProcessing" 3 "Thu Nov 22 2012" "Version 6.0" "Video Browser" \" -*- nroff -*-
+.ad l
+.nh
+.SH NAME
+com.video_browser_thesis.processing.MainGalleryProcessing \- 
+.SH SYNOPSIS
+.br
+.PP
+.PP
+Inherits \fBcom\&.video_browser_thesis\&.processing\&.Processing\fP\&.
+.SS "Public Member Functions"
+
+.in +1c
+.ti -1c
+.RI "\fBMainGalleryProcessing\fP (String category_name)"
+.br
+.ti -1c
+.RI "ArrayList< HashMap< String, 
+.br
+String > > \fBjsonFeed\fP ()"
+.br
+.ti -1c
+.RI "void \fBsetArrayContents\fP ()"
+.br
+.ti -1c
+.RI "\fBVideo_attributes\fP[] \fBgetCategoryVideos\fP ()"
+.br
+.in -1c
+.SH "Detailed Description"
+.PP 
+Definition at line 13 of file MainGalleryProcessing\&.java\&.
+.SH "Constructor & Destructor Documentation"
+.PP 
+.SS "com\&.video_browser_thesis\&.processing\&.MainGalleryProcessing\&.MainGalleryProcessing (Stringcategory_name)"
+
+.PP
+Definition at line 31 of file MainGalleryProcessing\&.java\&.
+.SH "Member Function Documentation"
+.PP 
+.SS "\fBVideo_attributes\fP [] com\&.video_browser_thesis\&.processing\&.MainGalleryProcessing\&.getCategoryVideos ()"
+
+.PP
+Definition at line 140 of file MainGalleryProcessing\&.java\&.
+.SS "ArrayList<HashMap<String, String> > com\&.video_browser_thesis\&.processing\&.MainGalleryProcessing\&.jsonFeed ()"
+Organizes the data received from the URL in JSON format into a HashMap
+.PP
+\fBParameters:\fP
+.RS 4
+\fIcategoryList\fP Hash Map which contains all the segregated metadata under different tag names 
+.br
+\fIjParser\fP An instance of JSONParser which parses data from the provided URL 
+.br
+\fIc\fP An instance JSONObject which stores all data contained within that JSON Object 
+.br
+\fIid\fP A temporary array to store video ids 
+.br
+\fIimage_source\fP A temporary array to store video images 
+.br
+\fIvideo_url\fP A temporary array to store video url 
+.br
+\fIvideo_name\fP A temporary array to store video name 
+.RE
+.PP
+\fBReturns:\fP
+.RS 4
+categoryList 
+.RE
+.PP
+\fBSee Also:\fP
+.RS 4
+Image 
+.RE
+.PP
+Creating JSON Parser instance
+.PP
+Getting JSON string from URL
+.PP
+Getting Array of Contacts
+.PP
+looping through All Contacts
+.PP
+Storing each json item in variable
+.PP
+Creating new HashMap
+.PP
+adding each child node to HashMap key => value
+.PP
+Adding HashList to ArrayList 
+.PP
+Definition at line 50 of file MainGalleryProcessing\&.java\&.
+.SS "void com\&.video_browser_thesis\&.processing\&.MainGalleryProcessing\&.setArrayContents ()"
+Segregates and organizes Metadata content
+.PP
+\fBParameters:\fP
+.RS 4
+\fI\fP .RE
+.PP
+
+.PP
+Definition at line 114 of file MainGalleryProcessing\&.java\&.
+
+.SH "Author"
+.PP 
+Generated automatically by Doxygen for Video Browser from the source code\&.

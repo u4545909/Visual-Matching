@@ -1,0 +1,401 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.2">
+  <compounddef id="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing" kind="class" prot="public">
+    <compoundname>com::video_browser_thesis::processing::KeyFrameList_Processing</compoundname>
+    <basecompoundref refid="interfacecom_1_1video__browser__thesis_1_1processing_1_1_processing" prot="public" virt="non-virtual">com.video_browser_thesis.processing.Processing</basecompoundref>
+      <sectiondef kind="private-static-attrib">
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1a15a44183d86609faebf517e49177ead0" prot="private" static="yes" mutable="no">
+        <type>String</type>
+        <definition>String com.video_browser_thesis.processing.KeyFrameList_Processing.base_url</definition>
+        <argsstring></argsstring>
+        <name>base_url</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" line="14" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" bodystart="14" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1af2c213cde2783878549899009f7a6505" prot="private" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>final String com.video_browser_thesis.processing.KeyFrameList_Processing.TAG_TITLE</definition>
+        <argsstring></argsstring>
+        <name>TAG_TITLE</name>
+        <initializer>= &quot;Title&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" line="17" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" bodystart="17" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1a12dcb7922104e581d71e5e71fb9254bf" prot="private" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>final String com.video_browser_thesis.processing.KeyFrameList_Processing.TAG_AUTHOR</definition>
+        <argsstring></argsstring>
+        <name>TAG_AUTHOR</name>
+        <initializer>= &quot;Author&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" line="18" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1a529b671a814d0e9f02154507d9f02eb4" prot="private" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>final String com.video_browser_thesis.processing.KeyFrameList_Processing.TAG_THUMBNAIL</definition>
+        <argsstring></argsstring>
+        <name>TAG_THUMBNAIL</name>
+        <initializer>= &quot;Thumbnail0&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" line="19" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1ad9d6d529e10bb0e4f46c0a8f1bf8b4d6" prot="private" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>final String com.video_browser_thesis.processing.KeyFrameList_Processing.TAG_ID</definition>
+        <argsstring></argsstring>
+        <name>TAG_ID</name>
+        <initializer>= &quot;ID&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" line="20" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1a359070f34a40ae1c7e523b1368989a92" prot="private" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>final String com.video_browser_thesis.processing.KeyFrameList_Processing.TAG_VIDEOID</definition>
+        <argsstring></argsstring>
+        <name>TAG_VIDEOID</name>
+        <initializer>= &quot;VideoID&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" line="21" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" bodystart="21" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1a4483fcc72311f3f0d55b2dfaeeb16d30" prot="private" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>final String com.video_browser_thesis.processing.KeyFrameList_Processing.TAG_PLAYER_URL</definition>
+        <argsstring></argsstring>
+        <name>TAG_PLAYER_URL</name>
+        <initializer>= &quot;PlayerUrl&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" line="22" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" bodystart="22" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1aa20d4dc508e5970a0df5e2b8ee2289d0" prot="private" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>final String com.video_browser_thesis.processing.KeyFrameList_Processing.TAG_LENGTH</definition>
+        <argsstring></argsstring>
+        <name>TAG_LENGTH</name>
+        <initializer>= &quot;Length&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" line="23" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1ab6dacdd09998b982e94a1e728228779c" prot="private" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>final String com.video_browser_thesis.processing.KeyFrameList_Processing.TAG_TOPICS</definition>
+        <argsstring></argsstring>
+        <name>TAG_TOPICS</name>
+        <initializer>= &quot;Topics&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" line="24" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" bodystart="24" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1ab6fd6c90849ee292bf1d5888fbb34602" prot="private" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>final String com.video_browser_thesis.processing.KeyFrameList_Processing.TAG_UPLOADED_TIME</definition>
+        <argsstring></argsstring>
+        <name>TAG_UPLOADED_TIME</name>
+        <initializer>= &quot;Uploadtime&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" line="25" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" bodystart="25" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1a8574fb6b55559ce05a63847f76531166" prot="private" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>final String com.video_browser_thesis.processing.KeyFrameList_Processing.TAG_VIEW_COUNT</definition>
+        <argsstring></argsstring>
+        <name>TAG_VIEW_COUNT</name>
+        <initializer>= &quot;ViewCount&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" line="26" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" bodystart="26" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1af987909bae1aa6b953469bd6f0390fb8" prot="private" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>final String com.video_browser_thesis.processing.KeyFrameList_Processing.TAG_DESCRIPTION</definition>
+        <argsstring></argsstring>
+        <name>TAG_DESCRIPTION</name>
+        <initializer>= &quot;Description&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" line="27" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" bodystart="27" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-attrib">
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1af65853d51d49d56877a53f7ea63ab61f" prot="package" static="yes" mutable="no">
+        <type>String</type>
+        <definition>String com.video_browser_thesis.processing.KeyFrameList_Processing.url</definition>
+        <argsstring></argsstring>
+        <name>url</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" line="14" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" bodystart="14" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1abf84ede926bc4f493fca57c5e6ac46cd" prot="private" static="no" mutable="no">
+        <type>String</type>
+        <definition>String com.video_browser_thesis.processing.KeyFrameList_Processing.category_name</definition>
+        <argsstring></argsstring>
+        <name>category_name</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" line="15" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" bodystart="15" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-attrib">
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1afae6c17c1fb861fdc8fd1ae072c5d7ab" prot="package" static="no" mutable="no">
+        <type><ref refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes" kindref="compound">Video_attributes</ref>[]</type>
+        <definition>Video_attributes [] com.video_browser_thesis.processing.KeyFrameList_Processing.v_attr</definition>
+        <argsstring></argsstring>
+        <name>v_attr</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" line="29" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1aa997cba0b20aceb81bff4f6ff3ee2822" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>com.video_browser_thesis.processing.KeyFrameList_Processing.KeyFrameList_Processing</definition>
+        <argsstring>(String attach_url)</argsstring>
+        <name>KeyFrameList_Processing</name>
+        <param>
+          <type>String</type>
+          <declname>attach_url</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" line="31" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" bodystart="31" bodyend="36"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1a043be842a8cda34fd7f80025fb13e7ce" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ArrayList&lt; HashMap&lt; String, String &gt; &gt;</type>
+        <definition>ArrayList&lt;HashMap&lt;String, String&gt; &gt; com.video_browser_thesis.processing.KeyFrameList_Processing.jsonFeed</definition>
+        <argsstring>()</argsstring>
+        <name>jsonFeed</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Organizes the data received from the URL in JSON format into a HashMap</para><para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>categoryList</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Hash Map which contains all the segregated metadata under different tag names </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>jParser</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>An instance of JSONParser which parses data from the provided URL </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>c</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>An instance JSONObject which stores all data contained within that JSON Object </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>id</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>A temporary array to store video ids </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>image_source</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>A temporary array to store video images </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>video_url</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>A temporary array to store video url </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>video_name</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>A temporary array to store video name </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>categoryList </para></simplesect>
+<simplesect kind="see"><para>Image </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+<para>Creating JSON Parser instance</para><para>Getting JSON string from URL</para><para>Getting Array of Contacts</para><para>looping through All Contacts</para><para>Storing each json item in variable</para><para>Creating new HashMap</para><para>adding each child node to HashMap key =&gt; value</para><para>Adding HashList to ArrayList </para>        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" line="51" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" bodystart="51" bodyend="108"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1ac86e187eb01b3c5d9224bb2139b0979d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.video_browser_thesis.processing.KeyFrameList_Processing.setArrayContents</definition>
+        <argsstring>()</argsstring>
+        <name>setArrayContents</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Segregates and organizes Metadata content</para><para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" line="116" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" bodystart="116" bodyend="140"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1a722555472f5a82acf6f0921536885f6e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes" kindref="compound">Video_attributes</ref>[]</type>
+        <definition>Video_attributes [] com.video_browser_thesis.processing.KeyFrameList_Processing.getMatchingVideos</definition>
+        <argsstring>()</argsstring>
+        <name>getMatchingVideos</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" line="142" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" bodystart="142" bodyend="144"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="68">
+        <label>com.video_browser_thesis.processing.Processing</label>
+        <link refid="interfacecom_1_1video__browser__thesis_1_1processing_1_1_processing"/>
+      </node>
+      <node id="67">
+        <label>com.video_browser_thesis.processing.KeyFrameList_Processing</label>
+        <link refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing"/>
+        <childnode refid="68" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="70">
+        <label>com.video_browser_thesis.processing.Processing</label>
+        <link refid="interfacecom_1_1video__browser__thesis_1_1processing_1_1_processing"/>
+      </node>
+      <node id="69">
+        <label>com.video_browser_thesis.processing.KeyFrameList_Processing</label>
+        <link refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing"/>
+        <childnode refid="70" relation="public-inheritance">
+        </childnode>
+        <childnode refid="71" relation="usage">
+          <edgelabel>v_attr</edgelabel>
+        </childnode>
+      </node>
+      <node id="71">
+        <label>com.video_browser_thesis.elements.Video_attributes</label>
+        <link refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes"/>
+        <childnode refid="72" relation="usage">
+          <edgelabel>video_image</edgelabel>
+        </childnode>
+      </node>
+      <node id="72">
+        <label>Bitmap</label>
+      </node>
+    </collaborationgraph>
+    <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" line="13" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/KeyFrameList_Processing.java" bodystart="13" bodyend="145"/>
+    <listofallmembers>
+      <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1a15a44183d86609faebf517e49177ead0" prot="private" virt="non-virtual"><scope>com::video_browser_thesis::processing::KeyFrameList_Processing</scope><name>base_url</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1abf84ede926bc4f493fca57c5e6ac46cd" prot="private" virt="non-virtual"><scope>com::video_browser_thesis::processing::KeyFrameList_Processing</scope><name>category_name</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1a722555472f5a82acf6f0921536885f6e" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::processing::KeyFrameList_Processing</scope><name>getMatchingVideos</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1a043be842a8cda34fd7f80025fb13e7ce" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::processing::KeyFrameList_Processing</scope><name>jsonFeed</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1aa997cba0b20aceb81bff4f6ff3ee2822" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::processing::KeyFrameList_Processing</scope><name>KeyFrameList_Processing</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1ac86e187eb01b3c5d9224bb2139b0979d" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::processing::KeyFrameList_Processing</scope><name>setArrayContents</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1a12dcb7922104e581d71e5e71fb9254bf" prot="private" virt="non-virtual"><scope>com::video_browser_thesis::processing::KeyFrameList_Processing</scope><name>TAG_AUTHOR</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1af987909bae1aa6b953469bd6f0390fb8" prot="private" virt="non-virtual"><scope>com::video_browser_thesis::processing::KeyFrameList_Processing</scope><name>TAG_DESCRIPTION</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1ad9d6d529e10bb0e4f46c0a8f1bf8b4d6" prot="private" virt="non-virtual"><scope>com::video_browser_thesis::processing::KeyFrameList_Processing</scope><name>TAG_ID</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1aa20d4dc508e5970a0df5e2b8ee2289d0" prot="private" virt="non-virtual"><scope>com::video_browser_thesis::processing::KeyFrameList_Processing</scope><name>TAG_LENGTH</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1a4483fcc72311f3f0d55b2dfaeeb16d30" prot="private" virt="non-virtual"><scope>com::video_browser_thesis::processing::KeyFrameList_Processing</scope><name>TAG_PLAYER_URL</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1a529b671a814d0e9f02154507d9f02eb4" prot="private" virt="non-virtual"><scope>com::video_browser_thesis::processing::KeyFrameList_Processing</scope><name>TAG_THUMBNAIL</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1af2c213cde2783878549899009f7a6505" prot="private" virt="non-virtual"><scope>com::video_browser_thesis::processing::KeyFrameList_Processing</scope><name>TAG_TITLE</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1ab6dacdd09998b982e94a1e728228779c" prot="private" virt="non-virtual"><scope>com::video_browser_thesis::processing::KeyFrameList_Processing</scope><name>TAG_TOPICS</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1ab6fd6c90849ee292bf1d5888fbb34602" prot="private" virt="non-virtual"><scope>com::video_browser_thesis::processing::KeyFrameList_Processing</scope><name>TAG_UPLOADED_TIME</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1a359070f34a40ae1c7e523b1368989a92" prot="private" virt="non-virtual"><scope>com::video_browser_thesis::processing::KeyFrameList_Processing</scope><name>TAG_VIDEOID</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1a8574fb6b55559ce05a63847f76531166" prot="private" virt="non-virtual"><scope>com::video_browser_thesis::processing::KeyFrameList_Processing</scope><name>TAG_VIEW_COUNT</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1af65853d51d49d56877a53f7ea63ab61f" prot="package" virt="non-virtual"><scope>com::video_browser_thesis::processing::KeyFrameList_Processing</scope><name>url</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing_1afae6c17c1fb861fdc8fd1ae072c5d7ab" prot="package" virt="non-virtual"><scope>com::video_browser_thesis::processing::KeyFrameList_Processing</scope><name>v_attr</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

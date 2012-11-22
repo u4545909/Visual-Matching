@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.2">
+  <compounddef id="classcom_1_1video__browser__thesis_1_1json_1_1_j_s_o_n_parser" kind="class" prot="public">
+    <compoundname>com::video_browser_thesis::json::JSONParser</compoundname>
+      <sectiondef kind="package-static-attrib">
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1json_1_1_j_s_o_n_parser_1a80c3ecac1ebd31cc1510abf115e0078b" prot="package" static="yes" mutable="no">
+        <type>InputStream</type>
+        <definition>InputStream com.video_browser_thesis.json.JSONParser.is</definition>
+        <argsstring></argsstring>
+        <name>is</name>
+        <initializer>= null</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/json/JSONParser.java" line="50" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/json/JSONParser.java" bodystart="50" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1json_1_1_j_s_o_n_parser_1a5357cc55c922530b68e7f92c84692ca5" prot="package" static="yes" mutable="no">
+        <type>JSONObject</type>
+        <definition>JSONObject com.video_browser_thesis.json.JSONParser.jObj</definition>
+        <argsstring></argsstring>
+        <name>jObj</name>
+        <initializer>= null</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/json/JSONParser.java" line="51" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/json/JSONParser.java" bodystart="51" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1json_1_1_j_s_o_n_parser_1a3ebb375d8b15c4094fc8bc1ba1b8eda4" prot="package" static="yes" mutable="no">
+        <type>String</type>
+        <definition>String com.video_browser_thesis.json.JSONParser.json</definition>
+        <argsstring></argsstring>
+        <name>json</name>
+        <initializer>= &quot;&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/json/JSONParser.java" line="52" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/json/JSONParser.java" bodystart="52" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1json_1_1_j_s_o_n_parser_1a6fa44c7634fe65034d55dd67605db9cf" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>JSONObject</type>
+        <definition>JSONObject com.video_browser_thesis.json.JSONParser.getJSONFromUrl</definition>
+        <argsstring>(String url)</argsstring>
+        <name>getJSONFromUrl</name>
+        <param>
+          <type>String</type>
+          <declname>url</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Makes the HTTP request, parses the JSON String, creates and JSON Object <parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>httpClient</parametername>
+</parameternamelist>
+<parameterdescription>
+<para></para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>httpPost</parametername>
+</parameternamelist>
+<parameterdescription>
+<para></para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>httpResponse</parametername>
+</parameternamelist>
+<parameterdescription>
+<para></para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>httpEntity</parametername>
+</parameternamelist>
+<parameterdescription>
+<para></para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>reader</parametername>
+</parameternamelist>
+<parameterdescription>
+<para></para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>sb</parametername>
+</parameternamelist>
+<parameterdescription>
+<para></para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>line</parametername>
+</parameternamelist>
+<parameterdescription>
+<para></para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>jObj </para></simplesect>
+<simplesect kind="see"><para>JSONObject </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/json/JSONParser.java" line="66" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/json/JSONParser.java" bodystart="66" bodyend="113"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para>Creates a JSON object from the data retrieved from the provided url <simplesect kind="author"><para>Anshul Saini </para></simplesect>
+<simplesect kind="version"><para>5</para></simplesect>
+<parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>is</parametername>
+</parameternamelist>
+<parameterdescription>
+<para></para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>jObj</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>JSON Object which is finally created from the JSON string </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>json</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>JSON String which is used to create JSON Object </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para></para></simplesect>
+<simplesect kind="see"><para></para></simplesect>
+</para>    </detaileddescription>
+    <collaborationgraph>
+      <node id="54">
+        <label>com.video_browser_thesis.json.JSONParser</label>
+        <link refid="classcom_1_1video__browser__thesis_1_1json_1_1_j_s_o_n_parser"/>
+        <childnode refid="55" relation="usage">
+          <edgelabel>is</edgelabel>
+        </childnode>
+        <childnode refid="56" relation="usage">
+          <edgelabel>jObj</edgelabel>
+        </childnode>
+      </node>
+      <node id="56">
+        <label>JSONObject</label>
+      </node>
+      <node id="55">
+        <label>InputStream</label>
+      </node>
+    </collaborationgraph>
+    <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/json/JSONParser.java" line="48" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/json/JSONParser.java" bodystart="48" bodyend="114"/>
+    <listofallmembers>
+      <member refid="classcom_1_1video__browser__thesis_1_1json_1_1_j_s_o_n_parser_1a6fa44c7634fe65034d55dd67605db9cf" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::json::JSONParser</scope><name>getJSONFromUrl</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1json_1_1_j_s_o_n_parser_1a80c3ecac1ebd31cc1510abf115e0078b" prot="package" virt="non-virtual"><scope>com::video_browser_thesis::json::JSONParser</scope><name>is</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1json_1_1_j_s_o_n_parser_1a5357cc55c922530b68e7f92c84692ca5" prot="package" virt="non-virtual"><scope>com::video_browser_thesis::json::JSONParser</scope><name>jObj</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1json_1_1_j_s_o_n_parser_1a3ebb375d8b15c4094fc8bc1ba1b8eda4" prot="package" virt="non-virtual"><scope>com::video_browser_thesis::json::JSONParser</scope><name>json</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

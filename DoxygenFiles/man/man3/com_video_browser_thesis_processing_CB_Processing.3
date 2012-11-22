@@ -1,0 +1,113 @@
+.TH "com.video_browser_thesis.processing.CB_Processing" 3 "Thu Nov 22 2012" "Version 6.0" "Video Browser" \" -*- nroff -*-
+.ad l
+.nh
+.SH NAME
+com.video_browser_thesis.processing.CB_Processing \- 
+.SH SYNOPSIS
+.br
+.PP
+.PP
+Inherits \fBcom\&.video_browser_thesis\&.processing\&.Processing\fP\&.
+.SS "Public Member Functions"
+
+.in +1c
+.ti -1c
+.RI "\fBCB_Processing\fP (String attach_url)"
+.br
+.ti -1c
+.RI "ArrayList< HashMap< String, 
+.br
+String > > \fBjsonFeed\fP ()"
+.br
+.ti -1c
+.RI "void \fBsetArrayContents\fP ()"
+.br
+.ti -1c
+.RI "\fBKeyFrame_attributes\fP[] \fBgetKeyFrameArray\fP ()"
+.br
+.in -1c
+.SH "Detailed Description"
+.PP 
+Definition at line 18 of file CB_Processing\&.java\&.
+.SH "Constructor & Destructor Documentation"
+.PP 
+.SS "com\&.video_browser_thesis\&.processing\&.CB_Processing\&.CB_Processing (Stringattach_url)"
+
+.PP
+Definition at line 29 of file CB_Processing\&.java\&.
+.SH "Member Function Documentation"
+.PP 
+.SS "\fBKeyFrame_attributes\fP [] com\&.video_browser_thesis\&.processing\&.CB_Processing\&.getKeyFrameArray ()"
+
+.PP
+Definition at line 127 of file CB_Processing\&.java\&.
+.SS "ArrayList<HashMap<String, String> > com\&.video_browser_thesis\&.processing\&.CB_Processing\&.jsonFeed ()"
+Organizes the data received from the URL in JSON format into a HashMap
+.PP
+\fBParameters:\fP
+.RS 4
+\fIcategoryList\fP Hash Map which contains all the segregated metadata under different tag names 
+.br
+\fIjParser\fP An instance of JSONParser which parses data from the provided URL 
+.br
+\fIc\fP An instance JSONObject which stores all data contained within that JSON Object 
+.br
+\fIid\fP A temporary array to store video ids 
+.br
+\fIimage_source\fP A temporary array to store video images 
+.br
+\fIvideo_url\fP A temporary array to store video url 
+.br
+\fIvideo_name\fP A temporary array to store video name 
+.RE
+.PP
+\fBReturns:\fP
+.RS 4
+categoryList 
+.RE
+.PP
+\fBSee Also:\fP
+.RS 4
+.RE
+.PP
+Creating JSON Parser instance
+.PP
+Getting JSON string from URL
+.PP
+Getting Array of Contacts
+.PP
+looping through All Contacts
+.PP
+Storing each json item in variable
+.PP
+Creating new HashMap
+.PP
+Adding each child node to HashMap key => value
+.PP
+Adding HashList to ArrayList
+.PP
+Definition at line 48 of file CB_Processing\&.java\&.
+.SS "void com\&.video_browser_thesis\&.processing\&.CB_Processing\&.setArrayContents ()"
+Creates a KeyFrame_attributes object by extracting the relevant data from the HashMap
+.PP
+\fBParameters:\fP
+.RS 4
+\fIkf_attr\fP An instance of KeyFrame_attributes object 
+.RE
+.PP
+\fBReturns:\fP
+.RS 4
+kf_attr 
+.RE
+.PP
+\fBSee Also:\fP
+.RS 4
+.RE
+.PP
+
+.PP
+Definition at line 109 of file CB_Processing\&.java\&.
+
+.SH "Author"
+.PP 
+Generated automatically by Doxygen for Video Browser from the source code\&.

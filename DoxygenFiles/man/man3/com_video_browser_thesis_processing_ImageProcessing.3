@@ -1,0 +1,83 @@
+.TH "com.video_browser_thesis.processing.ImageProcessing" 3 "Thu Nov 22 2012" "Version 6.0" "Video Browser" \" -*- nroff -*-
+.ad l
+.nh
+.SH NAME
+com.video_browser_thesis.processing.ImageProcessing \- 
+.SH SYNOPSIS
+.br
+.PP
+.SS "Public Member Functions"
+
+.in +1c
+.ti -1c
+.RI "\fBImageProcessing\fP (String imageUrl)"
+.br
+.ti -1c
+.RI "Bitmap \fBdecodeImage\fP ()"
+.br
+.in -1c
+.SS "Static Public Member Functions"
+
+.in +1c
+.ti -1c
+.RI "static int \fBcalculateInSampleSize\fP (BitmapFactory\&.Options options, int reqWidth, int reqHeight)"
+.br
+.ti -1c
+.RI "static Bitmap \fBdecodeSampledBitmapFromResource\fP (int reqWidth, int reqHeight, InputStream is)"
+.br
+.in -1c
+.SH "Detailed Description"
+.PP 
+Definition at line 14 of file ImageProcessing\&.java\&.
+.SH "Constructor & Destructor Documentation"
+.PP 
+.SS "com\&.video_browser_thesis\&.processing\&.ImageProcessing\&.ImageProcessing (StringimageUrl)"
+
+.PP
+Definition at line 19 of file ImageProcessing\&.java\&.
+.SH "Member Function Documentation"
+.PP 
+.SS "static int com\&.video_browser_thesis\&.processing\&.ImageProcessing\&.calculateInSampleSize (BitmapFactory\&.Optionsoptions, intreqWidth, intreqHeight)\fC [static]\fP"
+
+.PP
+Definition at line 24 of file ImageProcessing\&.java\&.
+.SS "Bitmap com\&.video_browser_thesis\&.processing\&.ImageProcessing\&.decodeImage ()"
+Returns the decoded Image 
+.PP
+\fBParameters:\fP
+.RS 4
+\fI@return\fP Bitmap 
+.RE
+.PP
+\fBSee Also:\fP
+.RS 4
+Bitmap image 
+.RE
+.PP
+
+.PP
+Definition at line 88 of file ImageProcessing\&.java\&.
+.SS "static Bitmap com\&.video_browser_thesis\&.processing\&.ImageProcessing\&.decodeSampledBitmapFromResource (intreqWidth, intreqHeight, InputStreamis)\fC [static]\fP"
+Decode bitmap with inSampleSize set 
+.PP
+\fBParameters:\fP
+.RS 4
+\fIreqWidth\fP 
+.br
+\fIreqHeight\fP 
+.br
+\fIis\fP 
+.RE
+.PP
+\fBReturns:\fP
+.RS 4
+Bitmap 
+.RE
+.PP
+
+.PP
+Definition at line 49 of file ImageProcessing\&.java\&.
+
+.SH "Author"
+.PP 
+Generated automatically by Doxygen for Video Browser from the source code\&.

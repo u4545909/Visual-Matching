@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.2">
+  <compounddef id="dir_e8dae7f83ab0fb59fb4c738edfa1a1c2" kind="dir">
+    <compoundname>SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing</compoundname>
+    <innerfile refid="_c_b___gallery_processing_8java">CB_GalleryProcessing.java</innerfile>
+    <innerfile refid="_c_b___processing_8java">CB_Processing.java</innerfile>
+    <innerfile refid="_image_processing_8java">ImageProcessing.java</innerfile>
+    <innerfile refid="_key_frame_list___processing_8java">KeyFrameList_Processing.java</innerfile>
+    <innerfile refid="_main_gallery_processing_8java">MainGalleryProcessing.java</innerfile>
+    <innerfile refid="_processing_8java">Processing.java</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/"/>
+  </compounddef>
+</doxygen>

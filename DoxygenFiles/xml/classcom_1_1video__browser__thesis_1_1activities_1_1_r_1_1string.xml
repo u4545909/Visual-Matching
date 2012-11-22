@@ -1,0 +1,285 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.2">
+  <compounddef id="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string" kind="class" prot="public">
+    <compoundname>com::video_browser_thesis::activities::R::string</compoundname>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1a293e2c90443afef8c05ded84234f8988" prot="public" static="yes" mutable="no">
+        <type>final int</type>
+        <definition>final int com.video_browser_thesis.activities.R.string.app_name</definition>
+        <argsstring></argsstring>
+        <name>app_name</name>
+        <initializer>=0x7f060000</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" line="130" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" bodystart="130" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1aaf4ad046f924f9818770e2360c1e88e0" prot="public" static="yes" mutable="no">
+        <type>final int</type>
+        <definition>final int com.video_browser_thesis.activities.R.string.by_txt</definition>
+        <argsstring></argsstring>
+        <name>by_txt</name>
+        <initializer>=0x7f06000c</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" line="131" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" bodystart="131" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1ae5525d13ddc50422b7dc2feb1469aa7e" prot="public" static="yes" mutable="no">
+        <type>final int</type>
+        <definition>final int com.video_browser_thesis.activities.R.string.category_txt</definition>
+        <argsstring></argsstring>
+        <name>category_txt</name>
+        <initializer>=0x7f060005</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Category default names on home activity </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" line="134" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" bodystart="134" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1adc078792f2df952e34d0559ec4da3a4e" prot="public" static="yes" mutable="no">
+        <type>final int</type>
+        <definition>final int com.video_browser_thesis.activities.R.string.cross_browser_tab_txt</definition>
+        <argsstring></argsstring>
+        <name>cross_browser_tab_txt</name>
+        <initializer>=0x7f06000e</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" line="135" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" bodystart="135" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1a3b0755ff97cafee97b944a8e56534fa3" prot="public" static="yes" mutable="no">
+        <type>final int</type>
+        <definition>final int com.video_browser_thesis.activities.R.string.hello_world</definition>
+        <argsstring></argsstring>
+        <name>hello_world</name>
+        <initializer>=0x7f060001</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" line="136" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" bodystart="136" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1a30d973a64f7af041beba05455ada9ebd" prot="public" static="yes" mutable="no">
+        <type>final int</type>
+        <definition>final int com.video_browser_thesis.activities.R.string.listView_tab_txt</definition>
+        <argsstring></argsstring>
+        <name>listView_tab_txt</name>
+        <initializer>=0x7f06000d</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>KeyFrame Activity </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" line="139" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" bodystart="139" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1a675bbdbaf63385b3a551f55291fd71ca" prot="public" static="yes" mutable="no">
+        <type>final int</type>
+        <definition>final int com.video_browser_thesis.activities.R.string.matching_keyFrame_txt</definition>
+        <argsstring></argsstring>
+        <name>matching_keyFrame_txt</name>
+        <initializer>=0x7f060010</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Matching keyframes </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" line="142" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" bodystart="142" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1aa485ef3a85b804c0bb24e4be562031fc" prot="public" static="yes" mutable="no">
+        <type>final int</type>
+        <definition>final int com.video_browser_thesis.activities.R.string.menu_settings</definition>
+        <argsstring></argsstring>
+        <name>menu_settings</name>
+        <initializer>=0x7f060002</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" line="143" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" bodystart="143" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1a790b76e8cfccbf366a5d8d943d6c2b77" prot="public" static="yes" mutable="no">
+        <type>final int</type>
+        <definition>final int com.video_browser_thesis.activities.R.string.no_description</definition>
+        <argsstring></argsstring>
+        <name>no_description</name>
+        <initializer>=0x7f060004</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>For all image descriptions </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" line="146" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" bodystart="146" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1ab51f4f39c29dd3dc31c67be4086062d0" prot="public" static="yes" mutable="no">
+        <type>final int</type>
+        <definition>final int com.video_browser_thesis.activities.R.string.selected_matching_keyframe_txt</definition>
+        <argsstring></argsstring>
+        <name>selected_matching_keyframe_txt</name>
+        <initializer>=0x7f060011</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" line="147" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" bodystart="147" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1ab90d77bb917cc65820043c4d63b188c3" prot="public" static="yes" mutable="no">
+        <type>final int</type>
+        <definition>final int com.video_browser_thesis.activities.R.string.title_activity_categorized_video_gallery</definition>
+        <argsstring></argsstring>
+        <name>title_activity_categorized_video_gallery</name>
+        <initializer>=0x7f060003</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" line="148" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" bodystart="148" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1a1c6724a17cf170af74c7ea5ed7ccbffa" prot="public" static="yes" mutable="no">
+        <type>final int</type>
+        <definition>final int com.video_browser_thesis.activities.R.string.video_author_txt</definition>
+        <argsstring></argsstring>
+        <name>video_author_txt</name>
+        <initializer>=0x7f060007</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" line="149" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" bodystart="149" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1ada3f67a715537de0375c018e8d0139fb" prot="public" static="yes" mutable="no">
+        <type>final int</type>
+        <definition>final int com.video_browser_thesis.activities.R.string.video_description_txt</definition>
+        <argsstring></argsstring>
+        <name>video_description_txt</name>
+        <initializer>=0x7f060008</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" line="150" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" bodystart="150" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1ac5fc48dcf43ea10f071f294d5b71c104" prot="public" static="yes" mutable="no">
+        <type>final int</type>
+        <definition>final int com.video_browser_thesis.activities.R.string.video_time_length</definition>
+        <argsstring></argsstring>
+        <name>video_time_length</name>
+        <initializer>=0x7f06000f</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" line="151" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" bodystart="151" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1ab168d6d45d4a7a417e5e0bff943a688a" prot="public" static="yes" mutable="no">
+        <type>final int</type>
+        <definition>final int com.video_browser_thesis.activities.R.string.video_title_txt</definition>
+        <argsstring></argsstring>
+        <name>video_title_txt</name>
+        <initializer>=0x7f060006</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>For all video elements </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" line="154" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" bodystart="154" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1a26c57c21e2d8bb572658b31228bcc306" prot="public" static="yes" mutable="no">
+        <type>final int</type>
+        <definition>final int com.video_browser_thesis.activities.R.string.video_uploaded_timestamp_txt</definition>
+        <argsstring></argsstring>
+        <name>video_uploaded_timestamp_txt</name>
+        <initializer>=0x7f060009</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" line="155" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" bodystart="155" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1a80f9c7e6f8980c05624e65713f5c48d8" prot="public" static="yes" mutable="no">
+        <type>final int</type>
+        <definition>final int com.video_browser_thesis.activities.R.string.video_view_count_txt</definition>
+        <argsstring></argsstring>
+        <name>video_view_count_txt</name>
+        <initializer>=0x7f06000a</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" line="156" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" bodystart="156" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1a3449dd61655a9e55bd3362bd778b8134" prot="public" static="yes" mutable="no">
+        <type>final int</type>
+        <definition>final int com.video_browser_thesis.activities.R.string.video_views_txt</definition>
+        <argsstring></argsstring>
+        <name>video_views_txt</name>
+        <initializer>=0x7f06000b</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" line="157" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" bodystart="157" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" line="129" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" bodystart="129" bodyend="158"/>
+    <listofallmembers>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1a293e2c90443afef8c05ded84234f8988" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::activities::R::string</scope><name>app_name</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1aaf4ad046f924f9818770e2360c1e88e0" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::activities::R::string</scope><name>by_txt</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1ae5525d13ddc50422b7dc2feb1469aa7e" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::activities::R::string</scope><name>category_txt</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1adc078792f2df952e34d0559ec4da3a4e" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::activities::R::string</scope><name>cross_browser_tab_txt</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1a3b0755ff97cafee97b944a8e56534fa3" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::activities::R::string</scope><name>hello_world</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1a30d973a64f7af041beba05455ada9ebd" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::activities::R::string</scope><name>listView_tab_txt</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1a675bbdbaf63385b3a551f55291fd71ca" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::activities::R::string</scope><name>matching_keyFrame_txt</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1aa485ef3a85b804c0bb24e4be562031fc" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::activities::R::string</scope><name>menu_settings</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1a790b76e8cfccbf366a5d8d943d6c2b77" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::activities::R::string</scope><name>no_description</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1ab51f4f39c29dd3dc31c67be4086062d0" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::activities::R::string</scope><name>selected_matching_keyframe_txt</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1ab90d77bb917cc65820043c4d63b188c3" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::activities::R::string</scope><name>title_activity_categorized_video_gallery</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1a1c6724a17cf170af74c7ea5ed7ccbffa" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::activities::R::string</scope><name>video_author_txt</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1ada3f67a715537de0375c018e8d0139fb" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::activities::R::string</scope><name>video_description_txt</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1ac5fc48dcf43ea10f071f294d5b71c104" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::activities::R::string</scope><name>video_time_length</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1ab168d6d45d4a7a417e5e0bff943a688a" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::activities::R::string</scope><name>video_title_txt</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1a26c57c21e2d8bb572658b31228bcc306" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::activities::R::string</scope><name>video_uploaded_timestamp_txt</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1a80f9c7e6f8980c05624e65713f5c48d8" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::activities::R::string</scope><name>video_view_count_txt</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string_1a3449dd61655a9e55bd3362bd778b8134" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::activities::R::string</scope><name>video_views_txt</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

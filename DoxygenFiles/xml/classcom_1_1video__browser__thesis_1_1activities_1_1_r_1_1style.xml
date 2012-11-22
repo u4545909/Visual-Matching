@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.2">
+  <compounddef id="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1style" kind="class" prot="public">
+    <compoundname>com::video_browser_thesis::activities::R::style</compoundname>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1style_1abd875171e92deab528df2261212c9112" prot="public" static="yes" mutable="no">
+        <type>final int</type>
+        <definition>final int com.video_browser_thesis.activities.R.style.AppTheme</definition>
+        <argsstring></argsstring>
+        <name>AppTheme</name>
+        <initializer>=0x7f070000</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" line="160" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" bodystart="160" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" line="159" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" bodystart="159" bodyend="161"/>
+    <listofallmembers>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1style_1abd875171e92deab528df2261212c9112" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::activities::R::style</scope><name>AppTheme</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

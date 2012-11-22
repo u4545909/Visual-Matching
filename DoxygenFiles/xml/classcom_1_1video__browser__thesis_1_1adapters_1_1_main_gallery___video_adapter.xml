@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.2">
+  <compounddef id="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter" kind="class" prot="public">
+    <compoundname>com::video_browser_thesis::adapters::MainGallery_VideoAdapter</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">BaseAdapter</basecompoundref>
+    <innerclass refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1_1_view_holder" prot="public">com::video_browser_thesis::adapters::MainGallery_VideoAdapter::ViewHolder</innerclass>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1a5eb376d86eea6cd5ed715ef9105a0b82" prot="private" static="no" mutable="no">
+        <type>Activity</type>
+        <definition>Activity com.video_browser_thesis.adapters.MainGallery_VideoAdapter.activity</definition>
+        <argsstring></argsstring>
+        <name>activity</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/MainGallery_VideoAdapter.java" line="39" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/MainGallery_VideoAdapter.java" bodystart="39" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-static-attrib">
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1a73c5315c70105140fea6131704e8ff88" prot="private" static="yes" mutable="no">
+        <type>LayoutInflater</type>
+        <definition>LayoutInflater com.video_browser_thesis.adapters.MainGallery_VideoAdapter.inflater</definition>
+        <argsstring></argsstring>
+        <name>inflater</name>
+        <initializer>=null</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/MainGallery_VideoAdapter.java" line="40" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/MainGallery_VideoAdapter.java" bodystart="40" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-attrib">
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1a308416614bd824dac7f1843645ea41b9" prot="package" static="no" mutable="no">
+        <type><ref refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes" kindref="compound">Video_attributes</ref></type>
+        <definition>Video_attributes com.video_browser_thesis.adapters.MainGallery_VideoAdapter.video_attr[]</definition>
+        <argsstring>[]</argsstring>
+        <name>video_attr</name>
+        <initializer>= null</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/MainGallery_VideoAdapter.java" line="41" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/MainGallery_VideoAdapter.java" bodystart="41" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1a91b47bfbe580412cc75d9cc1d3b6206a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>com.video_browser_thesis.adapters.MainGallery_VideoAdapter.MainGallery_VideoAdapter</definition>
+        <argsstring>(Activity a, Video_attributes[] v_attr)</argsstring>
+        <name>MainGallery_VideoAdapter</name>
+        <param>
+          <type>Activity</type>
+          <declname>a</declname>
+        </param>
+        <param>
+          <type><ref refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes" kindref="compound">Video_attributes</ref>[]</type>
+          <declname>v_attr</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/MainGallery_VideoAdapter.java" line="43" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/MainGallery_VideoAdapter.java" bodystart="43" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1a4ffe30aba7cb71f708d8e08936a51472" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int com.video_browser_thesis.adapters.MainGallery_VideoAdapter.getCount</definition>
+        <argsstring>()</argsstring>
+        <name>getCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/MainGallery_VideoAdapter.java" line="49" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/MainGallery_VideoAdapter.java" bodystart="49" bodyend="51"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1acbffb17f23caa716a159ce244de897dd" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>Object</type>
+        <definition>Object com.video_browser_thesis.adapters.MainGallery_VideoAdapter.getItem</definition>
+        <argsstring>(int position)</argsstring>
+        <name>getItem</name>
+        <param>
+          <type>int</type>
+          <declname>position</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/MainGallery_VideoAdapter.java" line="53" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/MainGallery_VideoAdapter.java" bodystart="53" bodyend="55"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1af207f51545e3ffdd70db09a23d3ca51a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>long</type>
+        <definition>long com.video_browser_thesis.adapters.MainGallery_VideoAdapter.getItemId</definition>
+        <argsstring>(int position)</argsstring>
+        <name>getItemId</name>
+        <param>
+          <type>int</type>
+          <declname>position</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/MainGallery_VideoAdapter.java" line="57" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/MainGallery_VideoAdapter.java" bodystart="57" bodyend="59"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1af019b3e184f51c74d1409d6d0e2e1806" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>View</type>
+        <definition>View com.video_browser_thesis.adapters.MainGallery_VideoAdapter.getView</definition>
+        <argsstring>(int position, View convertView, ViewGroup parent)</argsstring>
+        <name>getView</name>
+        <param>
+          <type>int</type>
+          <declname>position</declname>
+        </param>
+        <param>
+          <type>View</type>
+          <declname>convertView</declname>
+        </param>
+        <param>
+          <type>ViewGroup</type>
+          <declname>parent</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Inflates the gallery item with different types of views. </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/MainGallery_VideoAdapter.java" line="64" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/MainGallery_VideoAdapter.java" bodystart="64" bodyend="85"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para>Constructs a MainGallery Video Adapter which extends a Base Adapter <simplesect kind="author"><para>Anshul Saini </para></simplesect>
+<simplesect kind="version"><para>5 </para></simplesect>
+</para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="79">
+        <label>com.video_browser_thesis.adapters.MainGallery_VideoAdapter</label>
+        <link refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter"/>
+        <childnode refid="80" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="80">
+        <label>BaseAdapter</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="81">
+        <label>com.video_browser_thesis.adapters.MainGallery_VideoAdapter</label>
+        <link refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter"/>
+        <childnode refid="82" relation="public-inheritance">
+        </childnode>
+        <childnode refid="83" relation="usage">
+          <edgelabel>video_attr</edgelabel>
+        </childnode>
+      </node>
+      <node id="83">
+        <label>com.video_browser_thesis.elements.Video_attributes</label>
+        <link refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes"/>
+        <childnode refid="84" relation="usage">
+          <edgelabel>video_image</edgelabel>
+        </childnode>
+      </node>
+      <node id="84">
+        <label>Bitmap</label>
+      </node>
+      <node id="82">
+        <label>BaseAdapter</label>
+      </node>
+    </collaborationgraph>
+    <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/MainGallery_VideoAdapter.java" line="37" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/MainGallery_VideoAdapter.java" bodystart="37" bodyend="98"/>
+    <listofallmembers>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1a5eb376d86eea6cd5ed715ef9105a0b82" prot="private" virt="non-virtual"><scope>com::video_browser_thesis::adapters::MainGallery_VideoAdapter</scope><name>activity</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1a4ffe30aba7cb71f708d8e08936a51472" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::adapters::MainGallery_VideoAdapter</scope><name>getCount</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1acbffb17f23caa716a159ce244de897dd" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::adapters::MainGallery_VideoAdapter</scope><name>getItem</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1af207f51545e3ffdd70db09a23d3ca51a" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::adapters::MainGallery_VideoAdapter</scope><name>getItemId</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1af019b3e184f51c74d1409d6d0e2e1806" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::adapters::MainGallery_VideoAdapter</scope><name>getView</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1a73c5315c70105140fea6131704e8ff88" prot="private" virt="non-virtual"><scope>com::video_browser_thesis::adapters::MainGallery_VideoAdapter</scope><name>inflater</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1a91b47bfbe580412cc75d9cc1d3b6206a" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::adapters::MainGallery_VideoAdapter</scope><name>MainGallery_VideoAdapter</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1a308416614bd824dac7f1843645ea41b9" prot="package" virt="non-virtual"><scope>com::video_browser_thesis::adapters::MainGallery_VideoAdapter</scope><name>video_attr</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,105 @@
+.TH "com.video_browser_thesis.activities.CrossBrowserActivity" 3 "Thu Nov 22 2012" "Version 6.0" "Video Browser" \" -*- nroff -*-
+.ad l
+.nh
+.SH NAME
+com.video_browser_thesis.activities.CrossBrowserActivity \- 
+.SH SYNOPSIS
+.br
+.PP
+.PP
+Inherits Activity\&.
+.SS "Public Member Functions"
+
+.in +1c
+.ti -1c
+.RI "void \fBonListView_btn_click\fP (View v)"
+.br
+.ti -1c
+.RI "void \fBonHomeButtonClick\fP (View v)"
+.br
+.ti -1c
+.RI "String \fBgetValueFromBundle\fP ()"
+.br
+.in -1c
+.SS "Static Public Attributes"
+
+.in +1c
+.ti -1c
+.RI "static Boolean \fBi\fP = false"
+.br
+.in -1c
+.SS "Protected Member Functions"
+
+.in +1c
+.ti -1c
+.RI "void \fBonCreate\fP (Bundle savedInstanceState)"
+.br
+.in -1c
+.SH "Detailed Description"
+.PP 
+Displays all the matching key frames of a video 
+.PP
+\fBAuthor:\fP
+.RS 4
+Anshul Saini 
+.RE
+.PP
+\fBVersion:\fP
+.RS 4
+5 
+.RE
+.PP
+
+.PP
+Definition at line 47 of file CrossBrowserActivity\&.java\&.
+.SH "Member Function Documentation"
+.PP 
+.SS "String com\&.video_browser_thesis\&.activities\&.CrossBrowserActivity\&.getValueFromBundle ()"
+Retrieve value from the bundle 
+.PP
+\fBParameters:\fP
+.RS 4
+\fI@return\fP String 
+.RE
+.PP
+
+.PP
+Definition at line 200 of file CrossBrowserActivity\&.java\&.
+.SS "void com\&.video_browser_thesis\&.activities\&.CrossBrowserActivity\&.onCreate (BundlesavedInstanceState)\fC [protected]\fP"
+Retrieves data sent by the previous activity
+.PP
+Setting up the gallery view positioning
+.PP
+Retrieving processing information from URL
+.PP
+Initializing the list adapter with the contents retrieved
+.PP
+Identifying if there are any matching key frames for all reference key frames
+.PP
+This is repositioning the list item which is clicked to fit into the frame
+.PP
+As this is a circular list adapter, the items should be re-referenced
+.PP
+Setting Selected Video
+.PP
+Sets the default content of the gallery
+.PP
+Definition at line 56 of file CrossBrowserActivity\&.java\&.
+.SS "void com\&.video_browser_thesis\&.activities\&.CrossBrowserActivity\&.onHomeButtonClick (Viewv)"
+Ends the current activity and returns to the main activity 
+.PP
+Definition at line 191 of file CrossBrowserActivity\&.java\&.
+.SS "void com\&.video_browser_thesis\&.activities\&.CrossBrowserActivity\&.onListView_btn_click (Viewv)"
+Ends the current activity and returns to the previous activity 
+.PP
+Definition at line 184 of file CrossBrowserActivity\&.java\&.
+.SH "Member Data Documentation"
+.PP 
+.SS "Boolean com\&.video_browser_thesis\&.activities\&.CrossBrowserActivity\&.i = false\fC [static]\fP"
+
+.PP
+Definition at line 50 of file CrossBrowserActivity\&.java\&.
+
+.SH "Author"
+.PP 
+Generated automatically by Doxygen for Video Browser from the source code\&.

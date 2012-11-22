@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.2">
+  <compounddef id="dir_0d9480b7cc593734c6219ffdb2b71bfa" kind="dir">
+    <compoundname>SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities</compoundname>
+    <innerfile refid="_cross_browser_activity_8java">CrossBrowserActivity.java</innerfile>
+    <innerfile refid="_keyframe_list_activity_8java">KeyframeListActivity.java</innerfile>
+    <innerfile refid="_main_gallery_activity_8java">MainGalleryActivity.java</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/"/>
+  </compounddef>
+</doxygen>

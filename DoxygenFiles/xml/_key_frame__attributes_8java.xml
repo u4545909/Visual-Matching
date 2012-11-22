@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.2">
+  <compounddef id="_key_frame__attributes_8java" kind="file">
+    <compoundname>KeyFrame_attributes.java</compoundname>
+    <innerclass refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes" prot="public">com::video_browser_thesis::elements::KeyFrame_attributes</innerclass>
+    <innernamespace refid="namespacecom_1_1video__browser__thesis_1_1elements">com::video_browser_thesis::elements</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="comment">/*</highlight></codeline>
+<codeline lineno="2"><highlight class="comment"><sp/>*<sp/>Copyright<sp/>(C)<sp/>2012<sp/>Anshul<sp/>Saini</highlight></codeline>
+<codeline lineno="3"><highlight class="comment"></highlight></codeline>
+<codeline lineno="4"><highlight class="comment"></highlight></codeline>
+<codeline lineno="5"><highlight class="comment"><sp/>*</highlight></codeline>
+<codeline lineno="6"><highlight class="comment"><sp/>*<sp/>Licensed<sp/>under<sp/>the<sp/>Apache<sp/>License,<sp/>Version<sp/>2.0<sp/>(the<sp/>&quot;License&quot;);</highlight></codeline>
+<codeline lineno="7"><highlight class="comment"><sp/>*<sp/>you<sp/>may<sp/>not<sp/>use<sp/>this<sp/>file<sp/>except<sp/>in<sp/>compliance<sp/>with<sp/>the<sp/>License.</highlight></codeline>
+<codeline lineno="8"><highlight class="comment"><sp/>*<sp/>You<sp/>may<sp/>obtain<sp/>a<sp/>copy<sp/>of<sp/>the<sp/>License<sp/>at</highlight></codeline>
+<codeline lineno="9"><highlight class="comment"><sp/>*</highlight></codeline>
+<codeline lineno="10"><highlight class="comment"><sp/>*<sp/><sp/><sp/><sp/><sp/><sp/>http://www.apache.org/licenses/LICENSE-2.0</highlight></codeline>
+<codeline lineno="11"><highlight class="comment"><sp/>*</highlight></codeline>
+<codeline lineno="12"><highlight class="comment"><sp/>*<sp/>Unless<sp/>required<sp/>by<sp/>applicable<sp/>law<sp/>or<sp/>agreed<sp/>to<sp/>in<sp/>writing,<sp/>software</highlight></codeline>
+<codeline lineno="13"><highlight class="comment"><sp/>*<sp/>distributed<sp/>under<sp/>the<sp/>License<sp/>is<sp/>distributed<sp/>on<sp/>an<sp/>&quot;AS<sp/>IS&quot;<sp/>BASIS,</highlight></codeline>
+<codeline lineno="14"><highlight class="comment"><sp/>*<sp/>WITHOUT<sp/>WARRANTIES<sp/>OR<sp/>CONDITIONS<sp/>OF<sp/>ANY<sp/>KIND,<sp/>either<sp/>express<sp/>or<sp/>implied.</highlight></codeline>
+<codeline lineno="15"><highlight class="comment"><sp/>*<sp/>See<sp/>the<sp/>License<sp/>for<sp/>the<sp/>specific<sp/>language<sp/>governing<sp/>permissions<sp/>and</highlight></codeline>
+<codeline lineno="16"><highlight class="comment"><sp/>*<sp/>limitations<sp/>under<sp/>the<sp/>License.</highlight></codeline>
+<codeline lineno="17"><highlight class="comment"><sp/>*/</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight></codeline>
+<codeline lineno="20" refid="namespacecom_1_1video__browser__thesis_1_1elements" refkind="compound"><highlight class="normal"></highlight><highlight class="keyword">package<sp/></highlight><highlight class="normal">com.video_browser_thesis.elements;</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"></highlight></codeline>
+<codeline lineno="22"><highlight class="normal"></highlight><highlight class="keyword">import</highlight><highlight class="normal"><sp/>android.graphics.Bitmap;</highlight></codeline>
+<codeline lineno="23"><highlight class="normal"></highlight><highlight class="keyword">import</highlight><highlight class="normal"><sp/>android.graphics.Color;</highlight></codeline>
+<codeline lineno="24"><highlight class="normal"></highlight></codeline>
+<codeline lineno="34" refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes" refkind="compound"><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal"><ref refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes" kindref="compound">KeyFrame_attributes</ref>{</highlight></codeline>
+<codeline lineno="35" refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1a5ed2b10d8a5d915bec85bde3c7c8affb" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>String<sp/><ref refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1a5ed2b10d8a5d915bec85bde3c7c8affb" kindref="member">image_source</ref>;</highlight></codeline>
+<codeline lineno="36" refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1aaf8f7f3cce30171b1b01b4a1baa9963a" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>String<sp/><ref refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1aaf8f7f3cce30171b1b01b4a1baa9963a" kindref="member">frame_point</ref>;</highlight></codeline>
+<codeline lineno="37" refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1aed3349d4d97ecdd5d9a359cd03f6e74e" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>Bitmap<sp/><ref refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1aed3349d4d97ecdd5d9a359cd03f6e74e" kindref="member">video_img</ref>;</highlight></codeline>
+<codeline lineno="38" refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1a1b26a1bff2d460ae0b78d8ca9a56072a" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/><ref refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1a1b26a1bff2d460ae0b78d8ca9a56072a" kindref="member">background_color</ref><sp/>=<sp/>Color.TRANSPARENT;</highlight></codeline>
+<codeline lineno="39"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight></codeline>
+<codeline lineno="40" refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1afcf26bea22581f51c2742963272d4850" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1afcf26bea22581f51c2742963272d4850" kindref="member">KeyFrame_attributes</ref>(String<sp/><ref refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1a5ed2b10d8a5d915bec85bde3c7c8affb" kindref="member">image_source</ref>,String<sp/><ref refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1aaf8f7f3cce30171b1b01b4a1baa9963a" kindref="member">frame_point</ref>,<sp/>Bitmap<sp/><ref refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1aed3349d4d97ecdd5d9a359cd03f6e74e" kindref="member">video_img</ref>){</highlight></codeline>
+<codeline lineno="41"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>this.image_source<sp/>=<sp/><ref refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1a5ed2b10d8a5d915bec85bde3c7c8affb" kindref="member">image_source</ref>;</highlight></codeline>
+<codeline lineno="42"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>this.frame_point<sp/>=<sp/><ref refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1aaf8f7f3cce30171b1b01b4a1baa9963a" kindref="member">frame_point</ref>;</highlight></codeline>
+<codeline lineno="43"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>this.video_img<sp/>=<sp/><ref refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1aed3349d4d97ecdd5d9a359cd03f6e74e" kindref="member">video_img</ref>;</highlight></codeline>
+<codeline lineno="44"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="45"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight></codeline>
+<codeline lineno="46" refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1a9fae5b973c4fa95ee83e856965ebdf08" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1a9fae5b973c4fa95ee83e856965ebdf08" kindref="member">setBackgroundColor</ref>(){</highlight></codeline>
+<codeline lineno="47"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes_1a1b26a1bff2d460ae0b78d8ca9a56072a" kindref="member">background_color</ref><sp/>=<sp/>Color.YELLOW;</highlight></codeline>
+<codeline lineno="48"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="49"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/KeyFrame_attributes.java"/>
+  </compounddef>
+</doxygen>

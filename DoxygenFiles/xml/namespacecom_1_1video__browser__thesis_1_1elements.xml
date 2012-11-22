@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.2">
+  <compounddef id="namespacecom_1_1video__browser__thesis_1_1elements" kind="namespace">
+    <compoundname>com::video_browser_thesis::elements</compoundname>
+    <innerclass refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes" prot="public">com::video_browser_thesis::elements::KeyFrame_attributes</innerclass>
+    <innerclass refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes" prot="public">com::video_browser_thesis::elements::Video_attributes</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/KeyFrame_attributes.java" line="20"/>
+  </compounddef>
+</doxygen>

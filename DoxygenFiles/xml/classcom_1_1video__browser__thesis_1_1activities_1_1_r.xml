@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.2">
+  <compounddef id="classcom_1_1video__browser__thesis_1_1activities_1_1_r" kind="class" prot="public">
+    <compoundname>com::video_browser_thesis::activities::R</compoundname>
+    <innerclass refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1attr" prot="public">com::video_browser_thesis::activities::R::attr</innerclass>
+    <innerclass refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1color" prot="public">com::video_browser_thesis::activities::R::color</innerclass>
+    <innerclass refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1dimen" prot="public">com::video_browser_thesis::activities::R::dimen</innerclass>
+    <innerclass refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1drawable" prot="public">com::video_browser_thesis::activities::R::drawable</innerclass>
+    <innerclass refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1id" prot="public">com::video_browser_thesis::activities::R::id</innerclass>
+    <innerclass refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1layout" prot="public">com::video_browser_thesis::activities::R::layout</innerclass>
+    <innerclass refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1string" prot="public">com::video_browser_thesis::activities::R::string</innerclass>
+    <innerclass refid="classcom_1_1video__browser__thesis_1_1activities_1_1_r_1_1style" prot="public">com::video_browser_thesis::activities::R::style</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" line="10" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/gen/com/video_browser_thesis/activities/R.java" bodystart="10" bodyend="162"/>
+    <listofallmembers>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

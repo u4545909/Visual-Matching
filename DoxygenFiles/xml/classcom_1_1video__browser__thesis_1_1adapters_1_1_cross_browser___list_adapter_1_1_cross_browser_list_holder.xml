@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.2">
+  <compounddef id="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___list_adapter_1_1_cross_browser_list_holder" kind="class" prot="package">
+    <compoundname>com::video_browser_thesis::adapters::CrossBrowser_ListAdapter::CrossBrowserListHolder</compoundname>
+      <sectiondef kind="package-attrib">
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___list_adapter_1_1_cross_browser_list_holder_1a9a696062e592070b13ed5dbf485fcce5" prot="package" static="no" mutable="no">
+        <type>ImageView</type>
+        <definition>ImageView com.video_browser_thesis.adapters.CrossBrowser_ListAdapter.CrossBrowserListHolder.video_img</definition>
+        <argsstring></argsstring>
+        <name>video_img</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_ListAdapter.java" line="88" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_ListAdapter.java" bodystart="88" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___list_adapter_1_1_cross_browser_list_holder_1a5b8e7d2e4cedf5b281c0a42e71c93878" prot="package" static="no" mutable="no">
+        <type>TextView</type>
+        <definition>TextView com.video_browser_thesis.adapters.CrossBrowser_ListAdapter.CrossBrowserListHolder.video_frame_point</definition>
+        <argsstring></argsstring>
+        <name>video_frame_point</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_ListAdapter.java" line="89" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_ListAdapter.java" bodystart="89" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___list_adapter_1_1_cross_browser_list_holder_1a9ec7199dc0e7f3738094cbdf1b2e6170" prot="package" static="no" mutable="no">
+        <type>View</type>
+        <definition>View com.video_browser_thesis.adapters.CrossBrowser_ListAdapter.CrossBrowserListHolder.video_background_color</definition>
+        <argsstring></argsstring>
+        <name>video_background_color</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_ListAdapter.java" line="90" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_ListAdapter.java" bodystart="90" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para>Holds all the elements of the view created in its super class <parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>video_frame_point</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Video frame point in TextView format </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>video_img</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Video image in ImageView format </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>    </detaileddescription>
+    <collaborationgraph>
+      <node id="43">
+        <label>TextView</label>
+      </node>
+      <node id="42">
+        <label>View</label>
+      </node>
+      <node id="40">
+        <label>com.video_browser_thesis.adapters.CrossBrowser_ListAdapter.CrossBrowserListHolder</label>
+        <childnode refid="41" relation="usage">
+          <edgelabel>video_img</edgelabel>
+        </childnode>
+        <childnode refid="42" relation="usage">
+          <edgelabel>video_background_color</edgelabel>
+        </childnode>
+        <childnode refid="43" relation="usage">
+          <edgelabel>video_frame_point</edgelabel>
+        </childnode>
+      </node>
+      <node id="41">
+        <label>ImageView</label>
+      </node>
+    </collaborationgraph>
+    <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_ListAdapter.java" line="87" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_ListAdapter.java" bodystart="87" bodyend="91"/>
+    <listofallmembers>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___list_adapter_1_1_cross_browser_list_holder_1a9ec7199dc0e7f3738094cbdf1b2e6170" prot="package" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CrossBrowser_ListAdapter::CrossBrowserListHolder</scope><name>video_background_color</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___list_adapter_1_1_cross_browser_list_holder_1a5b8e7d2e4cedf5b281c0a42e71c93878" prot="package" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CrossBrowser_ListAdapter::CrossBrowserListHolder</scope><name>video_frame_point</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___list_adapter_1_1_cross_browser_list_holder_1a9a696062e592070b13ed5dbf485fcce5" prot="package" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CrossBrowser_ListAdapter::CrossBrowserListHolder</scope><name>video_img</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

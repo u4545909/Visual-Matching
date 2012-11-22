@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.2">
+  <compounddef id="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___gallery_adapter" kind="class" prot="public">
+    <compoundname>com::video_browser_thesis::adapters::CrossBrowser_GalleryAdapter</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">BaseAdapter</basecompoundref>
+    <innerclass refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___gallery_adapter_1_1_view_holder" prot="public">com::video_browser_thesis::adapters::CrossBrowser_GalleryAdapter::ViewHolder</innerclass>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___gallery_adapter_1a22502909056b57d1a1482c4b66d3e3ca" prot="private" static="no" mutable="no">
+        <type>Activity</type>
+        <definition>Activity com.video_browser_thesis.adapters.CrossBrowser_GalleryAdapter.activity</definition>
+        <argsstring></argsstring>
+        <name>activity</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_GalleryAdapter.java" line="39" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_GalleryAdapter.java" bodystart="39" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-static-attrib">
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___gallery_adapter_1a1b38328b6177c77cbcbd2586727e3a19" prot="private" static="yes" mutable="no">
+        <type>LayoutInflater</type>
+        <definition>LayoutInflater com.video_browser_thesis.adapters.CrossBrowser_GalleryAdapter.inflater</definition>
+        <argsstring></argsstring>
+        <name>inflater</name>
+        <initializer>=null</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_GalleryAdapter.java" line="40" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_GalleryAdapter.java" bodystart="40" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-attrib">
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___gallery_adapter_1af7b439d1000d06381e537f0f45557e5e" prot="package" static="no" mutable="no">
+        <type><ref refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes" kindref="compound">KeyFrame_attributes</ref></type>
+        <definition>KeyFrame_attributes com.video_browser_thesis.adapters.CrossBrowser_GalleryAdapter.keyframe_attr[]</definition>
+        <argsstring>[]</argsstring>
+        <name>keyframe_attr</name>
+        <initializer>= null</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_GalleryAdapter.java" line="41" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_GalleryAdapter.java" bodystart="41" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___gallery_adapter_1a5bec14c676feea6e65dd79a4ce22d7d6" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>com.video_browser_thesis.adapters.CrossBrowser_GalleryAdapter.CrossBrowser_GalleryAdapter</definition>
+        <argsstring>(Activity a, KeyFrame_attributes[] keyframe_attr)</argsstring>
+        <name>CrossBrowser_GalleryAdapter</name>
+        <param>
+          <type>Activity</type>
+          <declname>a</declname>
+        </param>
+        <param>
+          <type><ref refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes" kindref="compound">KeyFrame_attributes</ref>[]</type>
+          <declname>keyframe_attr</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_GalleryAdapter.java" line="43" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_GalleryAdapter.java" bodystart="43" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___gallery_adapter_1a0bc2bad4158721a2c980333660500293" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int com.video_browser_thesis.adapters.CrossBrowser_GalleryAdapter.getCount</definition>
+        <argsstring>()</argsstring>
+        <name>getCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_GalleryAdapter.java" line="49" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_GalleryAdapter.java" bodystart="49" bodyend="51"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___gallery_adapter_1a0338a3aa8ea67422d04cd093a590079a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>Object</type>
+        <definition>Object com.video_browser_thesis.adapters.CrossBrowser_GalleryAdapter.getItem</definition>
+        <argsstring>(int position)</argsstring>
+        <name>getItem</name>
+        <param>
+          <type>int</type>
+          <declname>position</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_GalleryAdapter.java" line="53" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_GalleryAdapter.java" bodystart="53" bodyend="55"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___gallery_adapter_1ac794563aeebce4fbb9e1e6bd4dc36300" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>long</type>
+        <definition>long com.video_browser_thesis.adapters.CrossBrowser_GalleryAdapter.getItemId</definition>
+        <argsstring>(int position)</argsstring>
+        <name>getItemId</name>
+        <param>
+          <type>int</type>
+          <declname>position</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_GalleryAdapter.java" line="57" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_GalleryAdapter.java" bodystart="57" bodyend="59"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___gallery_adapter_1a8423f77586d7eccc4bad253afa7be195" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>View</type>
+        <definition>View com.video_browser_thesis.adapters.CrossBrowser_GalleryAdapter.getView</definition>
+        <argsstring>(int position, View convertView, ViewGroup parent)</argsstring>
+        <name>getView</name>
+        <param>
+          <type>int</type>
+          <declname>position</declname>
+        </param>
+        <param>
+          <type>View</type>
+          <declname>convertView</declname>
+        </param>
+        <param>
+          <type>ViewGroup</type>
+          <declname>parent</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Inflates the gallery item with different types of views. </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_GalleryAdapter.java" line="64" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_GalleryAdapter.java" bodystart="64" bodyend="87"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para>Constructs a CrossBrowserGallery Video Adapter which extends a Base Adapter <simplesect kind="author"><para>Anshul Saini </para></simplesect>
+<simplesect kind="version"><para>5 </para></simplesect>
+</para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="22">
+        <label>com.video_browser_thesis.adapters.CrossBrowser_GalleryAdapter</label>
+        <link refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___gallery_adapter"/>
+        <childnode refid="23" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="23">
+        <label>BaseAdapter</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="24">
+        <label>com.video_browser_thesis.adapters.CrossBrowser_GalleryAdapter</label>
+        <link refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___gallery_adapter"/>
+        <childnode refid="25" relation="public-inheritance">
+        </childnode>
+        <childnode refid="26" relation="usage">
+          <edgelabel>keyframe_attr</edgelabel>
+        </childnode>
+      </node>
+      <node id="26">
+        <label>com.video_browser_thesis.elements.KeyFrame_attributes</label>
+        <link refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes"/>
+        <childnode refid="27" relation="usage">
+          <edgelabel>video_img</edgelabel>
+        </childnode>
+      </node>
+      <node id="27">
+        <label>Bitmap</label>
+      </node>
+      <node id="25">
+        <label>BaseAdapter</label>
+      </node>
+    </collaborationgraph>
+    <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_GalleryAdapter.java" line="37" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_GalleryAdapter.java" bodystart="37" bodyend="98"/>
+    <listofallmembers>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___gallery_adapter_1a22502909056b57d1a1482c4b66d3e3ca" prot="private" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CrossBrowser_GalleryAdapter</scope><name>activity</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___gallery_adapter_1a5bec14c676feea6e65dd79a4ce22d7d6" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CrossBrowser_GalleryAdapter</scope><name>CrossBrowser_GalleryAdapter</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___gallery_adapter_1a0bc2bad4158721a2c980333660500293" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CrossBrowser_GalleryAdapter</scope><name>getCount</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___gallery_adapter_1a0338a3aa8ea67422d04cd093a590079a" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CrossBrowser_GalleryAdapter</scope><name>getItem</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___gallery_adapter_1ac794563aeebce4fbb9e1e6bd4dc36300" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CrossBrowser_GalleryAdapter</scope><name>getItemId</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___gallery_adapter_1a8423f77586d7eccc4bad253afa7be195" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CrossBrowser_GalleryAdapter</scope><name>getView</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___gallery_adapter_1a1b38328b6177c77cbcbd2586727e3a19" prot="private" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CrossBrowser_GalleryAdapter</scope><name>inflater</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___gallery_adapter_1af7b439d1000d06381e537f0f45557e5e" prot="package" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CrossBrowser_GalleryAdapter</scope><name>keyframe_attr</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

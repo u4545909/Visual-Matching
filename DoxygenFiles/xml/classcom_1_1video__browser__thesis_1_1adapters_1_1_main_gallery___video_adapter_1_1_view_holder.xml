@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.2">
+  <compounddef id="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1_1_view_holder" kind="class" prot="public">
+    <compoundname>com::video_browser_thesis::adapters::MainGallery_VideoAdapter::ViewHolder</compoundname>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1_1_view_holder_1ada88aec043f42f4cfe8bb4186d097dc4" prot="public" static="no" mutable="no">
+        <type>TextView</type>
+        <definition>TextView com.video_browser_thesis.adapters.MainGallery_VideoAdapter.ViewHolder.video_name</definition>
+        <argsstring></argsstring>
+        <name>video_name</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/MainGallery_VideoAdapter.java" line="94" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/MainGallery_VideoAdapter.java" bodystart="94" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1_1_view_holder_1ab2d0417deab96f232dc4731541a66fe4" prot="public" static="no" mutable="no">
+        <type>TextView</type>
+        <definition>TextView com.video_browser_thesis.adapters.MainGallery_VideoAdapter.ViewHolder.video_author</definition>
+        <argsstring></argsstring>
+        <name>video_author</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/MainGallery_VideoAdapter.java" line="95" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/MainGallery_VideoAdapter.java" bodystart="95" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1_1_view_holder_1aa40a8ce6be290e5fa8e6fdf3ee2753f9" prot="public" static="no" mutable="no">
+        <type>ImageView</type>
+        <definition>ImageView com.video_browser_thesis.adapters.MainGallery_VideoAdapter.ViewHolder.video_image</definition>
+        <argsstring></argsstring>
+        <name>video_image</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/MainGallery_VideoAdapter.java" line="96" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/MainGallery_VideoAdapter.java" bodystart="96" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para>Holds all the elements of the view created in its super class <parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>video_name</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Video Frame point in TextView format </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>video_author</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Video author in TextView format </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>video_author</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Video image in ImageView format </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>    </detaileddescription>
+    <collaborationgraph>
+      <node id="122">
+        <label>TextView</label>
+      </node>
+      <node id="120">
+        <label>com.video_browser_thesis.adapters.MainGallery_VideoAdapter.ViewHolder</label>
+        <childnode refid="121" relation="usage">
+          <edgelabel>video_image</edgelabel>
+        </childnode>
+        <childnode refid="122" relation="usage">
+          <edgelabel>video_author</edgelabel>
+          <edgelabel>video_name</edgelabel>
+        </childnode>
+      </node>
+      <node id="121">
+        <label>ImageView</label>
+      </node>
+    </collaborationgraph>
+    <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/MainGallery_VideoAdapter.java" line="93" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/MainGallery_VideoAdapter.java" bodystart="93" bodyend="97"/>
+    <listofallmembers>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1_1_view_holder_1ab2d0417deab96f232dc4731541a66fe4" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::adapters::MainGallery_VideoAdapter::ViewHolder</scope><name>video_author</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1_1_view_holder_1aa40a8ce6be290e5fa8e6fdf3ee2753f9" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::adapters::MainGallery_VideoAdapter::ViewHolder</scope><name>video_image</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter_1_1_view_holder_1ada88aec043f42f4cfe8bb4186d097dc4" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::adapters::MainGallery_VideoAdapter::ViewHolder</scope><name>video_name</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

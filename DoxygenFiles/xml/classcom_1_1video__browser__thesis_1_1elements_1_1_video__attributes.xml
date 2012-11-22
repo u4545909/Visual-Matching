@@ -1,0 +1,275 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.2">
+  <compounddef id="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes" kind="class" prot="public">
+    <compoundname>com::video_browser_thesis::elements::Video_attributes</compoundname>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1a90fcc84191f2c525436bdc0cfb1653ea" prot="public" static="no" mutable="no">
+        <type>String</type>
+        <definition>String com.video_browser_thesis.elements.Video_attributes.video_title</definition>
+        <argsstring></argsstring>
+        <name>video_title</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/Video_attributes.java" line="27" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/Video_attributes.java" bodystart="27" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1abd33d1952b8a62347f0f661c3c2ec5ed" prot="public" static="no" mutable="no">
+        <type>String</type>
+        <definition>String com.video_browser_thesis.elements.Video_attributes.video_author</definition>
+        <argsstring></argsstring>
+        <name>video_author</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/Video_attributes.java" line="28" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/Video_attributes.java" bodystart="28" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1a9a6848418e1b8750117df0f895e90320" prot="public" static="no" mutable="no">
+        <type>Bitmap</type>
+        <definition>Bitmap com.video_browser_thesis.elements.Video_attributes.video_image</definition>
+        <argsstring></argsstring>
+        <name>video_image</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/Video_attributes.java" line="29" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/Video_attributes.java" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1ae602e9e2f3ec0641635063eeecdef8c0" prot="public" static="no" mutable="no">
+        <type>String</type>
+        <definition>String com.video_browser_thesis.elements.Video_attributes.thumbnail</definition>
+        <argsstring></argsstring>
+        <name>thumbnail</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/Video_attributes.java" line="30" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/Video_attributes.java" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1a12b1f3d1b5415ac60dddba277c4ddebc" prot="public" static="no" mutable="no">
+        <type>String</type>
+        <definition>String com.video_browser_thesis.elements.Video_attributes.tag_id</definition>
+        <argsstring></argsstring>
+        <name>tag_id</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/Video_attributes.java" line="31" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/Video_attributes.java" bodystart="31" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1a7113a6d7df8608b786990974dc8bd269" prot="public" static="no" mutable="no">
+        <type>String</type>
+        <definition>String com.video_browser_thesis.elements.Video_attributes.video_id</definition>
+        <argsstring></argsstring>
+        <name>video_id</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/Video_attributes.java" line="32" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/Video_attributes.java" bodystart="32" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1a52b04c0ee9b91beafc8bb585d7c968b2" prot="public" static="no" mutable="no">
+        <type>String</type>
+        <definition>String com.video_browser_thesis.elements.Video_attributes.player_url</definition>
+        <argsstring></argsstring>
+        <name>player_url</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/Video_attributes.java" line="33" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/Video_attributes.java" bodystart="33" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1aae8458cd610150fe777bcfed6ce6b2e5" prot="public" static="no" mutable="no">
+        <type>String</type>
+        <definition>String com.video_browser_thesis.elements.Video_attributes.length</definition>
+        <argsstring></argsstring>
+        <name>length</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/Video_attributes.java" line="34" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/Video_attributes.java" bodystart="34" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1ae38e2927f054bedae6fd00d5a6d89332" prot="public" static="no" mutable="no">
+        <type>String</type>
+        <definition>String com.video_browser_thesis.elements.Video_attributes.topics</definition>
+        <argsstring></argsstring>
+        <name>topics</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/Video_attributes.java" line="35" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/Video_attributes.java" bodystart="35" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1ab249aab820838b9cce924dcf2e684e30" prot="public" static="no" mutable="no">
+        <type>String</type>
+        <definition>String com.video_browser_thesis.elements.Video_attributes.uploaded_time</definition>
+        <argsstring></argsstring>
+        <name>uploaded_time</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/Video_attributes.java" line="36" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/Video_attributes.java" bodystart="36" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1ab32c45e2134b0fbe136713e179ca3bb6" prot="public" static="no" mutable="no">
+        <type>String</type>
+        <definition>String com.video_browser_thesis.elements.Video_attributes.view_count</definition>
+        <argsstring></argsstring>
+        <name>view_count</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/Video_attributes.java" line="37" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/Video_attributes.java" bodystart="37" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1a8fe934f1116f75edb5cc4d9a74d0c33b" prot="public" static="no" mutable="no">
+        <type>String</type>
+        <definition>String com.video_browser_thesis.elements.Video_attributes.description</definition>
+        <argsstring></argsstring>
+        <name>description</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/Video_attributes.java" line="38" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/Video_attributes.java" bodystart="38" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1add218c9ce5c0c7b35b29df7bafe62d05" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>com.video_browser_thesis.elements.Video_attributes.Video_attributes</definition>
+        <argsstring>()</argsstring>
+        <name>Video_attributes</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/Video_attributes.java" line="40" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/Video_attributes.java" bodystart="40" bodyend="42"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1a24fa8f859e48b2246a83007f8bf14aed" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>com.video_browser_thesis.elements.Video_attributes.Video_attributes</definition>
+        <argsstring>(String video_title, String video_author, Bitmap video_image, String tag_id, String video_id, String player_url, String length, String topics, String uploaded_time, String view_count, String description, String thumbnail)</argsstring>
+        <name>Video_attributes</name>
+        <param>
+          <type>String</type>
+          <declname>video_title</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>video_author</declname>
+        </param>
+        <param>
+          <type>Bitmap</type>
+          <declname>video_image</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>tag_id</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>video_id</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>player_url</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>length</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>topics</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>uploaded_time</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>view_count</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>description</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>thumbnail</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/Video_attributes.java" line="56" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/Video_attributes.java" bodystart="44" bodyend="70"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para><ref refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes" kindref="compound">Video_attributes</ref> <simplesect kind="author"><para>Anshul Saini </para></simplesect>
+<simplesect kind="version"><para>5 </para></simplesect>
+</para>    </detaileddescription>
+    <collaborationgraph>
+      <node id="113">
+        <label>com.video_browser_thesis.elements.Video_attributes</label>
+        <link refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes"/>
+        <childnode refid="114" relation="usage">
+          <edgelabel>video_image</edgelabel>
+        </childnode>
+      </node>
+      <node id="114">
+        <label>Bitmap</label>
+      </node>
+    </collaborationgraph>
+    <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/Video_attributes.java" line="26" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/elements/Video_attributes.java" bodystart="26" bodyend="71"/>
+    <listofallmembers>
+      <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1a8fe934f1116f75edb5cc4d9a74d0c33b" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::elements::Video_attributes</scope><name>description</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1aae8458cd610150fe777bcfed6ce6b2e5" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::elements::Video_attributes</scope><name>length</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1a52b04c0ee9b91beafc8bb585d7c968b2" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::elements::Video_attributes</scope><name>player_url</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1a12b1f3d1b5415ac60dddba277c4ddebc" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::elements::Video_attributes</scope><name>tag_id</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1ae602e9e2f3ec0641635063eeecdef8c0" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::elements::Video_attributes</scope><name>thumbnail</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1ae38e2927f054bedae6fd00d5a6d89332" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::elements::Video_attributes</scope><name>topics</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1ab249aab820838b9cce924dcf2e684e30" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::elements::Video_attributes</scope><name>uploaded_time</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1add218c9ce5c0c7b35b29df7bafe62d05" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::elements::Video_attributes</scope><name>Video_attributes</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1a24fa8f859e48b2246a83007f8bf14aed" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::elements::Video_attributes</scope><name>Video_attributes</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1abd33d1952b8a62347f0f661c3c2ec5ed" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::elements::Video_attributes</scope><name>video_author</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1a7113a6d7df8608b786990974dc8bd269" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::elements::Video_attributes</scope><name>video_id</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1a9a6848418e1b8750117df0f895e90320" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::elements::Video_attributes</scope><name>video_image</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1a90fcc84191f2c525436bdc0cfb1653ea" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::elements::Video_attributes</scope><name>video_title</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes_1ab32c45e2134b0fbe136713e179ca3bb6" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::elements::Video_attributes</scope><name>view_count</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

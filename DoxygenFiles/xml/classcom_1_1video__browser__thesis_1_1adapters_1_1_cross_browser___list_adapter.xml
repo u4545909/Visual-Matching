@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.2">
+  <compounddef id="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___list_adapter" kind="class" prot="public">
+    <compoundname>com::video_browser_thesis::adapters::CrossBrowser_ListAdapter</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">android::widget::ArrayAdapter&lt; KeyFrame_attributes &gt;</basecompoundref>
+    <innerclass refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___list_adapter_1_1_cross_browser_list_holder" prot="package">com::video_browser_thesis::adapters::CrossBrowser_ListAdapter::CrossBrowserListHolder</innerclass>
+      <sectiondef kind="package-attrib">
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___list_adapter_1aaba2087103dedc2a58daf226be87e9de" prot="package" static="no" mutable="no">
+        <type>Context</type>
+        <definition>Context com.video_browser_thesis.adapters.CrossBrowser_ListAdapter.context</definition>
+        <argsstring></argsstring>
+        <name>context</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_ListAdapter.java" line="39" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_ListAdapter.java" bodystart="39" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___list_adapter_1a74ad61316839f4c184a4a62753a310e5" prot="package" static="no" mutable="no">
+        <type><ref refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes" kindref="compound">KeyFrame_attributes</ref></type>
+        <definition>KeyFrame_attributes com.video_browser_thesis.adapters.CrossBrowser_ListAdapter.keyframe_attr[]</definition>
+        <argsstring>[]</argsstring>
+        <name>keyframe_attr</name>
+        <initializer>= null</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_ListAdapter.java" line="41" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_ListAdapter.java" bodystart="41" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-attrib">
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___list_adapter_1af27ee3a3f5b0f4d63e482e5770ceb0e5" prot="package" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int com.video_browser_thesis.adapters.CrossBrowser_ListAdapter.layoutResourceId</definition>
+        <argsstring></argsstring>
+        <name>layoutResourceId</name>
+        <initializer>= R.layout.cross_browser_listitem</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_ListAdapter.java" line="40" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_ListAdapter.java" bodystart="40" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___list_adapter_1a77174d24bec2d33af4f0c3da439f545a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>com.video_browser_thesis.adapters.CrossBrowser_ListAdapter.CrossBrowser_ListAdapter</definition>
+        <argsstring>(Context context, KeyFrame_attributes[] keyframe_attr)</argsstring>
+        <name>CrossBrowser_ListAdapter</name>
+        <param>
+          <type>Context</type>
+          <declname>context</declname>
+        </param>
+        <param>
+          <type><ref refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes" kindref="compound">KeyFrame_attributes</ref>[]</type>
+          <declname>keyframe_attr</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_ListAdapter.java" line="43" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_ListAdapter.java" bodystart="43" bodyend="48"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___list_adapter_1a0cde829fd4ad4a587d096a0c4e649978" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>View</type>
+        <definition>View com.video_browser_thesis.adapters.CrossBrowser_ListAdapter.getView</definition>
+        <argsstring>(int position, View convertView, ViewGroup parent)</argsstring>
+        <name>getView</name>
+        <param>
+          <type>int</type>
+          <declname>position</declname>
+        </param>
+        <param>
+          <type>View</type>
+          <declname>convertView</declname>
+        </param>
+        <param>
+          <type>ViewGroup</type>
+          <declname>parent</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Inflates the gallery item with different types of views. </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_ListAdapter.java" line="54" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_ListAdapter.java" bodystart="54" bodyend="80"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para>Constructs a Keyframe KeyFrame Adapter which extends a Custom List Adapter <simplesect kind="author"><para>Anshul Saini </para></simplesect>
+<simplesect kind="version"><para>5 </para></simplesect>
+</para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="29">
+        <label>android::widget::ArrayAdapter&lt; KeyFrame_attributes &gt;</label>
+      </node>
+      <node id="28">
+        <label>com.video_browser_thesis.adapters.CrossBrowser_ListAdapter</label>
+        <link refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___list_adapter"/>
+        <childnode refid="29" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="31">
+        <label>android::widget::ArrayAdapter&lt; KeyFrame_attributes &gt;</label>
+      </node>
+      <node id="32">
+        <label>com.video_browser_thesis.elements.KeyFrame_attributes</label>
+        <link refid="classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes"/>
+        <childnode refid="33" relation="usage">
+          <edgelabel>video_img</edgelabel>
+        </childnode>
+      </node>
+      <node id="30">
+        <label>com.video_browser_thesis.adapters.CrossBrowser_ListAdapter</label>
+        <link refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___list_adapter"/>
+        <childnode refid="31" relation="public-inheritance">
+        </childnode>
+        <childnode refid="32" relation="usage">
+          <edgelabel>keyframe_attr</edgelabel>
+        </childnode>
+        <childnode refid="34" relation="usage">
+          <edgelabel>context</edgelabel>
+        </childnode>
+      </node>
+      <node id="34">
+        <label>Context</label>
+      </node>
+      <node id="33">
+        <label>Bitmap</label>
+      </node>
+    </collaborationgraph>
+    <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_ListAdapter.java" line="37" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CrossBrowser_ListAdapter.java" bodystart="37" bodyend="92"/>
+    <listofallmembers>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___list_adapter_1aaba2087103dedc2a58daf226be87e9de" prot="package" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CrossBrowser_ListAdapter</scope><name>context</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___list_adapter_1a77174d24bec2d33af4f0c3da439f545a" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CrossBrowser_ListAdapter</scope><name>CrossBrowser_ListAdapter</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___list_adapter_1a0cde829fd4ad4a587d096a0c4e649978" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CrossBrowser_ListAdapter</scope><name>getView</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___list_adapter_1a74ad61316839f4c184a4a62753a310e5" prot="package" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CrossBrowser_ListAdapter</scope><name>keyframe_attr</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___list_adapter_1af27ee3a3f5b0f4d63e482e5770ceb0e5" prot="package" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CrossBrowser_ListAdapter</scope><name>layoutResourceId</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['setarraycontents',['setArrayContents',['../classcom_1_1video__browser__thesis_1_1processing_1_1_c_b___gallery_processing.html#a16c377eca1a10f291e20dd12d49e09fc',1,'com.video_browser_thesis.processing.CB_GalleryProcessing.setArrayContents()'],['../classcom_1_1video__browser__thesis_1_1processing_1_1_c_b___processing.html#ae269a53ade47993d98abc4e0fc1d2fac',1,'com.video_browser_thesis.processing.CB_Processing.setArrayContents()'],['../classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing.html#ac86e187eb01b3c5d9224bb2139b0979d',1,'com.video_browser_thesis.processing.KeyFrameList_Processing.setArrayContents()'],['../classcom_1_1video__browser__thesis_1_1processing_1_1_main_gallery_processing.html#a6ecb1e6d381d158c3271177917c30a65',1,'com.video_browser_thesis.processing.MainGalleryProcessing.setArrayContents()'],['../interfacecom_1_1video__browser__thesis_1_1processing_1_1_processing.html#ab3c4e926cce628403b82cd7a60f043b3',1,'com.video_browser_thesis.processing.Processing.setArrayContents()']]],
+  ['setbackgroundcolor',['setBackgroundColor',['../classcom_1_1video__browser__thesis_1_1elements_1_1_key_frame__attributes.html#a9fae5b973c4fa95ee83e856965ebdf08',1,'com::video_browser_thesis::elements::KeyFrame_attributes']]],
+  ['splashscreen',['SplashScreen',['../classcom_1_1video__browser__thesis_1_1splash_screen_1_1_splash_screen.html',1,'com::video_browser_thesis::splashScreen']]],
+  ['splashscreen_2ejava',['SplashScreen.java',['../_splash_screen_8java.html',1,'']]]
+];

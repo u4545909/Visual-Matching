@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.2">
+  <compounddef id="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1_1_video_list_holder" kind="class" prot="package">
+    <compoundname>com::video_browser_thesis::adapters::Keyframe_ListAdapter::VideoListHolder</compoundname>
+      <sectiondef kind="package-attrib">
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1_1_video_list_holder_1aa831f679f6bf35412ad2c37df2aacf01" prot="package" static="no" mutable="no">
+        <type>TextView</type>
+        <definition>TextView com.video_browser_thesis.adapters.Keyframe_ListAdapter.VideoListHolder.video_title</definition>
+        <argsstring></argsstring>
+        <name>video_title</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/Keyframe_ListAdapter.java" line="107" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/Keyframe_ListAdapter.java" bodystart="107" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1_1_video_list_holder_1a7bb05d236eb21e6e4ab8e05a8f9e6fa6" prot="package" static="no" mutable="no">
+        <type>TextView</type>
+        <definition>TextView com.video_browser_thesis.adapters.Keyframe_ListAdapter.VideoListHolder.video_description</definition>
+        <argsstring></argsstring>
+        <name>video_description</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/Keyframe_ListAdapter.java" line="108" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/Keyframe_ListAdapter.java" bodystart="108" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1_1_video_list_holder_1af6232819a60150f761c98324ddecd55e" prot="package" static="no" mutable="no">
+        <type>TextView</type>
+        <definition>TextView com.video_browser_thesis.adapters.Keyframe_ListAdapter.VideoListHolder.uploaded_time</definition>
+        <argsstring></argsstring>
+        <name>uploaded_time</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/Keyframe_ListAdapter.java" line="109" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/Keyframe_ListAdapter.java" bodystart="109" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1_1_video_list_holder_1a99b0bae890b1841a3b544a3d72dd59e8" prot="package" static="no" mutable="no">
+        <type>TextView</type>
+        <definition>TextView com.video_browser_thesis.adapters.Keyframe_ListAdapter.VideoListHolder.view_count</definition>
+        <argsstring></argsstring>
+        <name>view_count</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/Keyframe_ListAdapter.java" line="110" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/Keyframe_ListAdapter.java" bodystart="110" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1_1_video_list_holder_1a8823103b0d6c2ceb112ca1028ec5a2f8" prot="package" static="no" mutable="no">
+        <type>TextView</type>
+        <definition>TextView com.video_browser_thesis.adapters.Keyframe_ListAdapter.VideoListHolder.video_author</definition>
+        <argsstring></argsstring>
+        <name>video_author</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/Keyframe_ListAdapter.java" line="111" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/Keyframe_ListAdapter.java" bodystart="111" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1_1_video_list_holder_1adc86bffaa3eefb27fce13287e121c3b6" prot="package" static="no" mutable="no">
+        <type>TextView</type>
+        <definition>TextView com.video_browser_thesis.adapters.Keyframe_ListAdapter.VideoListHolder.video_length</definition>
+        <argsstring></argsstring>
+        <name>video_length</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/Keyframe_ListAdapter.java" line="112" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/Keyframe_ListAdapter.java" bodystart="112" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1_1_video_list_holder_1a6ed6292e5eb5cbac89bdf6a2ce013227" prot="package" static="no" mutable="no">
+        <type>ImageView</type>
+        <definition>ImageView com.video_browser_thesis.adapters.Keyframe_ListAdapter.VideoListHolder.video_img</definition>
+        <argsstring></argsstring>
+        <name>video_img</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/Keyframe_ListAdapter.java" line="113" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/Keyframe_ListAdapter.java" bodystart="113" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para>Holds all the elements of the view created in its super class <parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>video_title</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Video title in TextView format </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>video_description</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Video description in TextView format </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>uploaded_time</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Video image in TextView format </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>view_count</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Video image in TextView format </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>video_author</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Video image in TextView format </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>video_length</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Video image in TextView format </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>video_img</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Video image in ImageView format </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>    </detaileddescription>
+    <collaborationgraph>
+      <node id="118">
+        <label>TextView</label>
+      </node>
+      <node id="116">
+        <label>com.video_browser_thesis.adapters.Keyframe_ListAdapter.VideoListHolder</label>
+        <childnode refid="117" relation="usage">
+          <edgelabel>video_img</edgelabel>
+        </childnode>
+        <childnode refid="118" relation="usage">
+          <edgelabel>video_author</edgelabel>
+          <edgelabel>video_title</edgelabel>
+          <edgelabel>video_length</edgelabel>
+          <edgelabel>video_description</edgelabel>
+          <edgelabel>view_count</edgelabel>
+          <edgelabel>uploaded_time</edgelabel>
+        </childnode>
+      </node>
+      <node id="117">
+        <label>ImageView</label>
+      </node>
+    </collaborationgraph>
+    <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/Keyframe_ListAdapter.java" line="106" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/Keyframe_ListAdapter.java" bodystart="105" bodyend="114"/>
+    <listofallmembers>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1_1_video_list_holder_1af6232819a60150f761c98324ddecd55e" prot="package" virt="non-virtual"><scope>com::video_browser_thesis::adapters::Keyframe_ListAdapter::VideoListHolder</scope><name>uploaded_time</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1_1_video_list_holder_1a8823103b0d6c2ceb112ca1028ec5a2f8" prot="package" virt="non-virtual"><scope>com::video_browser_thesis::adapters::Keyframe_ListAdapter::VideoListHolder</scope><name>video_author</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1_1_video_list_holder_1a7bb05d236eb21e6e4ab8e05a8f9e6fa6" prot="package" virt="non-virtual"><scope>com::video_browser_thesis::adapters::Keyframe_ListAdapter::VideoListHolder</scope><name>video_description</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1_1_video_list_holder_1a6ed6292e5eb5cbac89bdf6a2ce013227" prot="package" virt="non-virtual"><scope>com::video_browser_thesis::adapters::Keyframe_ListAdapter::VideoListHolder</scope><name>video_img</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1_1_video_list_holder_1adc86bffaa3eefb27fce13287e121c3b6" prot="package" virt="non-virtual"><scope>com::video_browser_thesis::adapters::Keyframe_ListAdapter::VideoListHolder</scope><name>video_length</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1_1_video_list_holder_1aa831f679f6bf35412ad2c37df2aacf01" prot="package" virt="non-virtual"><scope>com::video_browser_thesis::adapters::Keyframe_ListAdapter::VideoListHolder</scope><name>video_title</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1_1_video_list_holder_1a99b0bae890b1841a3b544a3d72dd59e8" prot="package" virt="non-virtual"><scope>com::video_browser_thesis::adapters::Keyframe_ListAdapter::VideoListHolder</scope><name>view_count</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

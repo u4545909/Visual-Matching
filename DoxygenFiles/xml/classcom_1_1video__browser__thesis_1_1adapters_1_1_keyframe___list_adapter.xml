@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.2">
+  <compounddef id="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter" kind="class" prot="public">
+    <compoundname>com::video_browser_thesis::adapters::Keyframe_ListAdapter</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">android::widget::ArrayAdapter&lt; Video_attributes &gt;</basecompoundref>
+    <innerclass refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1_1_video_list_holder" prot="package">com::video_browser_thesis::adapters::Keyframe_ListAdapter::VideoListHolder</innerclass>
+      <sectiondef kind="package-attrib">
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1ae023a353d49ebf83168c62152e79fe7a" prot="package" static="no" mutable="no">
+        <type>Context</type>
+        <definition>Context com.video_browser_thesis.adapters.Keyframe_ListAdapter.context</definition>
+        <argsstring></argsstring>
+        <name>context</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/Keyframe_ListAdapter.java" line="40" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/Keyframe_ListAdapter.java" bodystart="40" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1a745b4e5267276cc02e5daf7cd992c972" prot="package" static="no" mutable="no">
+        <type><ref refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes" kindref="compound">Video_attributes</ref></type>
+        <definition>Video_attributes com.video_browser_thesis.adapters.Keyframe_ListAdapter.video_attr[]</definition>
+        <argsstring>[]</argsstring>
+        <name>video_attr</name>
+        <initializer>= null</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/Keyframe_ListAdapter.java" line="42" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/Keyframe_ListAdapter.java" bodystart="42" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-attrib">
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1ace91d1d29f010f2965d878310760af5c" prot="package" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int com.video_browser_thesis.adapters.Keyframe_ListAdapter.layoutResourceId</definition>
+        <argsstring></argsstring>
+        <name>layoutResourceId</name>
+        <initializer>= R.layout.keyframe_list_layout</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/Keyframe_ListAdapter.java" line="41" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/Keyframe_ListAdapter.java" bodystart="41" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1a8f7397a9bc9a4c41413f68d063ada0d4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>com.video_browser_thesis.adapters.Keyframe_ListAdapter.Keyframe_ListAdapter</definition>
+        <argsstring>(Context context, Video_attributes[] video_attr)</argsstring>
+        <name>Keyframe_ListAdapter</name>
+        <param>
+          <type>Context</type>
+          <declname>context</declname>
+        </param>
+        <param>
+          <type><ref refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes" kindref="compound">Video_attributes</ref>[]</type>
+          <declname>video_attr</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/Keyframe_ListAdapter.java" line="44" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/Keyframe_ListAdapter.java" bodystart="44" bodyend="49"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1add720f1361a5d6554fe51b188bbd7c1c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>View</type>
+        <definition>View com.video_browser_thesis.adapters.Keyframe_ListAdapter.getView</definition>
+        <argsstring>(int position, View convertView, ViewGroup parent)</argsstring>
+        <name>getView</name>
+        <param>
+          <type>int</type>
+          <declname>position</declname>
+        </param>
+        <param>
+          <type>View</type>
+          <declname>convertView</declname>
+        </param>
+        <param>
+          <type>ViewGroup</type>
+          <declname>parent</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Inflates the gallery item with different types of views. </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/Keyframe_ListAdapter.java" line="55" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/Keyframe_ListAdapter.java" bodystart="55" bodyend="93"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para>Constructs a Keyframe Video Adapter which extends a Custom List Adapter <simplesect kind="author"><para>Anshul Saini </para></simplesect>
+<simplesect kind="version"><para>5 </para></simplesect>
+</para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="60">
+        <label>com.video_browser_thesis.adapters.Keyframe_ListAdapter</label>
+        <link refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter"/>
+        <childnode refid="61" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="61">
+        <label>android::widget::ArrayAdapter&lt; Video_attributes &gt;</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="64">
+        <label>com.video_browser_thesis.elements.Video_attributes</label>
+        <link refid="classcom_1_1video__browser__thesis_1_1elements_1_1_video__attributes"/>
+        <childnode refid="65" relation="usage">
+          <edgelabel>video_image</edgelabel>
+        </childnode>
+      </node>
+      <node id="62">
+        <label>com.video_browser_thesis.adapters.Keyframe_ListAdapter</label>
+        <link refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter"/>
+        <childnode refid="63" relation="public-inheritance">
+        </childnode>
+        <childnode refid="64" relation="usage">
+          <edgelabel>video_attr</edgelabel>
+        </childnode>
+        <childnode refid="66" relation="usage">
+          <edgelabel>context</edgelabel>
+        </childnode>
+      </node>
+      <node id="66">
+        <label>Context</label>
+      </node>
+      <node id="65">
+        <label>Bitmap</label>
+      </node>
+      <node id="63">
+        <label>android::widget::ArrayAdapter&lt; Video_attributes &gt;</label>
+      </node>
+    </collaborationgraph>
+    <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/Keyframe_ListAdapter.java" line="38" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/Keyframe_ListAdapter.java" bodystart="38" bodyend="115"/>
+    <listofallmembers>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1ae023a353d49ebf83168c62152e79fe7a" prot="package" virt="non-virtual"><scope>com::video_browser_thesis::adapters::Keyframe_ListAdapter</scope><name>context</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1add720f1361a5d6554fe51b188bbd7c1c" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::adapters::Keyframe_ListAdapter</scope><name>getView</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1a8f7397a9bc9a4c41413f68d063ada0d4" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::adapters::Keyframe_ListAdapter</scope><name>Keyframe_ListAdapter</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1ace91d1d29f010f2965d878310760af5c" prot="package" virt="non-virtual"><scope>com::video_browser_thesis::adapters::Keyframe_ListAdapter</scope><name>layoutResourceId</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter_1a745b4e5267276cc02e5daf7cd992c972" prot="package" virt="non-virtual"><scope>com::video_browser_thesis::adapters::Keyframe_ListAdapter</scope><name>video_attr</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

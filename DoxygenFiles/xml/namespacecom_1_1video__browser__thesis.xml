@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.2">
+  <compounddef id="namespacecom_1_1video__browser__thesis" kind="namespace">
+    <compoundname>com::video_browser_thesis</compoundname>
+    <innernamespace refid="namespacecom_1_1video__browser__thesis_1_1activities">com::video_browser_thesis::activities</innernamespace>
+    <innernamespace refid="namespacecom_1_1video__browser__thesis_1_1adapters">com::video_browser_thesis::adapters</innernamespace>
+    <innernamespace refid="namespacecom_1_1video__browser__thesis_1_1elements">com::video_browser_thesis::elements</innernamespace>
+    <innernamespace refid="namespacecom_1_1video__browser__thesis_1_1json">com::video_browser_thesis::json</innernamespace>
+    <innernamespace refid="namespacecom_1_1video__browser__thesis_1_1processing">com::video_browser_thesis::processing</innernamespace>
+    <innernamespace refid="namespacecom_1_1video__browser__thesis_1_1splash_screen">com::video_browser_thesis::splashScreen</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="[generated]" line="1"/>
+  </compounddef>
+</doxygen>

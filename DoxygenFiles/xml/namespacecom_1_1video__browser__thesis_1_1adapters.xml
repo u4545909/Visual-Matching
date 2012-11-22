@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.2">
+  <compounddef id="namespacecom_1_1video__browser__thesis_1_1adapters" kind="namespace">
+    <compoundname>com::video_browser_thesis::adapters</compoundname>
+    <innerclass refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter" prot="public">com::video_browser_thesis::adapters::CircularListAdapter</innerclass>
+    <innerclass refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___gallery_adapter" prot="public">com::video_browser_thesis::adapters::CrossBrowser_GalleryAdapter</innerclass>
+    <innerclass refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_cross_browser___list_adapter" prot="public">com::video_browser_thesis::adapters::CrossBrowser_ListAdapter</innerclass>
+    <innerclass refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter" prot="public">com::video_browser_thesis::adapters::Keyframe_ListAdapter</innerclass>
+    <innerclass refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_main_gallery___video_adapter" prot="public">com::video_browser_thesis::adapters::MainGallery_VideoAdapter</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" line="17"/>
+  </compounddef>
+</doxygen>

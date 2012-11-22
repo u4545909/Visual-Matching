@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.2">
+  <compounddef id="classcom_1_1video__browser__thesis_1_1activities_1_1_cross_browser_activity" kind="class" prot="public">
+    <compoundname>com::video_browser_thesis::activities::CrossBrowserActivity</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Activity</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_cross_browser_activity_1a2e560b90664f0b9c7bbb95a5a3643e98" prot="private" static="no" mutable="no">
+        <type>Bundle</type>
+        <definition>Bundle com.video_browser_thesis.activities.CrossBrowserActivity.cb_bundle</definition>
+        <argsstring></argsstring>
+        <name>cb_bundle</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/CrossBrowserActivity.java" line="49" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/CrossBrowserActivity.java" bodystart="49" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_cross_browser_activity_1a0c0f14a78fe909e3455808f6d622a0b4" prot="private" static="no" mutable="no">
+        <type>Gallery</type>
+        <definition>Gallery com.video_browser_thesis.activities.CrossBrowserActivity.crossbrowser_gallery</definition>
+        <argsstring></argsstring>
+        <name>crossbrowser_gallery</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/CrossBrowserActivity.java" line="52" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/CrossBrowserActivity.java" bodystart="52" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_cross_browser_activity_1a87bf5b938cfac7be24c529ac304d0317" prot="private" static="no" mutable="no">
+        <type>DisplayMetrics</type>
+        <definition>DisplayMetrics com.video_browser_thesis.activities.CrossBrowserActivity.metrics</definition>
+        <argsstring></argsstring>
+        <name>metrics</name>
+        <initializer>= new DisplayMetrics()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/CrossBrowserActivity.java" line="53" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/CrossBrowserActivity.java" bodystart="53" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1activities_1_1_cross_browser_activity_1a8b4e9b1b0b2fe461d754ec3f97229ff1" prot="public" static="yes" mutable="no">
+        <type>Boolean</type>
+        <definition>Boolean com.video_browser_thesis.activities.CrossBrowserActivity.i</definition>
+        <argsstring></argsstring>
+        <name>i</name>
+        <initializer>= false</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/CrossBrowserActivity.java" line="50" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/CrossBrowserActivity.java" bodystart="50" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1activities_1_1_cross_browser_activity_1a3751d8c6aab4f0ef2edcf976dabac562" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.video_browser_thesis.activities.CrossBrowserActivity.onCreate</definition>
+        <argsstring>(Bundle savedInstanceState)</argsstring>
+        <name>onCreate</name>
+        <param>
+          <type>Bundle</type>
+          <declname>savedInstanceState</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+<para>Retrieves data sent by the previous activity</para><para>Setting up the gallery view positioning</para><para>Retrieving processing information from URL</para><para>Initializing the list adapter with the contents retrieved</para><para>Identifying if there are any matching key frames for all reference key frames</para><para>This is repositioning the list item which is clicked to fit into the frame</para><para>As this is a circular list adapter, the items should be re-referenced</para><para>Setting Selected Video</para><para>Sets the default content of the gallery</para>        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/CrossBrowserActivity.java" line="56" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/CrossBrowserActivity.java" bodystart="56" bodyend="172"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1activities_1_1_cross_browser_activity_1a790b0210c2a2174bd447bc62c59d93c2" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.video_browser_thesis.activities.CrossBrowserActivity.setMargins</definition>
+        <argsstring>(MarginLayoutParams mlp)</argsstring>
+        <name>setMargins</name>
+        <param>
+          <type>MarginLayoutParams</type>
+          <declname>mlp</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Sets the margins of top, bottom, right and left sides of the galleryView </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/CrossBrowserActivity.java" line="177" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/CrossBrowserActivity.java" bodystart="177" bodyend="179"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1activities_1_1_cross_browser_activity_1a51ffd26afdbacad151c135e00a0ebdc0" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.video_browser_thesis.activities.CrossBrowserActivity.onListView_btn_click</definition>
+        <argsstring>(View v)</argsstring>
+        <name>onListView_btn_click</name>
+        <param>
+          <type>View</type>
+          <declname>v</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Ends the current activity and returns to the previous activity </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/CrossBrowserActivity.java" line="184" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/CrossBrowserActivity.java" bodystart="184" bodyend="186"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1activities_1_1_cross_browser_activity_1aa050151e4694cd4f165c4038cf9a97ff" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.video_browser_thesis.activities.CrossBrowserActivity.onHomeButtonClick</definition>
+        <argsstring>(View v)</argsstring>
+        <name>onHomeButtonClick</name>
+        <param>
+          <type>View</type>
+          <declname>v</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Ends the current activity and returns to the main activity </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/CrossBrowserActivity.java" line="191" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/CrossBrowserActivity.java" bodystart="191" bodyend="194"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1activities_1_1_cross_browser_activity_1a43ed95e3f7231bf54370a66bf7061e08" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>String</type>
+        <definition>String com.video_browser_thesis.activities.CrossBrowserActivity.getValueFromBundle</definition>
+        <argsstring>()</argsstring>
+        <name>getValueFromBundle</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Retrieve value from the bundle <parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>@return</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>String </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/CrossBrowserActivity.java" line="200" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/CrossBrowserActivity.java" bodystart="200" bodyend="202"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para>Displays all the matching key frames of a video <simplesect kind="author"><para>Anshul Saini </para></simplesect>
+<simplesect kind="version"><para>5 </para></simplesect>
+</para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="36">
+        <label>Activity</label>
+      </node>
+      <node id="35">
+        <label>com.video_browser_thesis.activities.CrossBrowserActivity</label>
+        <link refid="classcom_1_1video__browser__thesis_1_1activities_1_1_cross_browser_activity"/>
+        <childnode refid="36" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="38">
+        <label>Activity</label>
+      </node>
+      <node id="37">
+        <label>com.video_browser_thesis.activities.CrossBrowserActivity</label>
+        <link refid="classcom_1_1video__browser__thesis_1_1activities_1_1_cross_browser_activity"/>
+        <childnode refid="38" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/CrossBrowserActivity.java" line="47" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/activities/CrossBrowserActivity.java" bodystart="47" bodyend="203"/>
+    <listofallmembers>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_cross_browser_activity_1a2e560b90664f0b9c7bbb95a5a3643e98" prot="private" virt="non-virtual"><scope>com::video_browser_thesis::activities::CrossBrowserActivity</scope><name>cb_bundle</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_cross_browser_activity_1a0c0f14a78fe909e3455808f6d622a0b4" prot="private" virt="non-virtual"><scope>com::video_browser_thesis::activities::CrossBrowserActivity</scope><name>crossbrowser_gallery</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_cross_browser_activity_1a43ed95e3f7231bf54370a66bf7061e08" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::activities::CrossBrowserActivity</scope><name>getValueFromBundle</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_cross_browser_activity_1a8b4e9b1b0b2fe461d754ec3f97229ff1" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::activities::CrossBrowserActivity</scope><name>i</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_cross_browser_activity_1a87bf5b938cfac7be24c529ac304d0317" prot="private" virt="non-virtual"><scope>com::video_browser_thesis::activities::CrossBrowserActivity</scope><name>metrics</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_cross_browser_activity_1a3751d8c6aab4f0ef2edcf976dabac562" prot="protected" virt="non-virtual"><scope>com::video_browser_thesis::activities::CrossBrowserActivity</scope><name>onCreate</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_cross_browser_activity_1aa050151e4694cd4f165c4038cf9a97ff" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::activities::CrossBrowserActivity</scope><name>onHomeButtonClick</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_cross_browser_activity_1a51ffd26afdbacad151c135e00a0ebdc0" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::activities::CrossBrowserActivity</scope><name>onListView_btn_click</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1activities_1_1_cross_browser_activity_1a790b0210c2a2174bd447bc62c59d93c2" prot="private" virt="non-virtual"><scope>com::video_browser_thesis::activities::CrossBrowserActivity</scope><name>setMargins</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.2">
+  <compounddef id="interfacecom_1_1video__browser__thesis_1_1processing_1_1_processing" kind="interface" prot="public">
+    <compoundname>com::video_browser_thesis::processing::Processing</compoundname>
+    <derivedcompoundref refid="classcom_1_1video__browser__thesis_1_1processing_1_1_c_b___gallery_processing" prot="public" virt="non-virtual">com.video_browser_thesis.processing.CB_GalleryProcessing</derivedcompoundref>
+    <derivedcompoundref refid="classcom_1_1video__browser__thesis_1_1processing_1_1_c_b___processing" prot="public" virt="non-virtual">com.video_browser_thesis.processing.CB_Processing</derivedcompoundref>
+    <derivedcompoundref refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing" prot="public" virt="non-virtual">com.video_browser_thesis.processing.KeyFrameList_Processing</derivedcompoundref>
+    <derivedcompoundref refid="classcom_1_1video__browser__thesis_1_1processing_1_1_main_gallery_processing" prot="public" virt="non-virtual">com.video_browser_thesis.processing.MainGalleryProcessing</derivedcompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="interfacecom_1_1video__browser__thesis_1_1processing_1_1_processing_1ab3c4e926cce628403b82cd7a60f043b3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.video_browser_thesis.processing.Processing.setArrayContents</definition>
+        <argsstring>()</argsstring>
+        <name>setArrayContents</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/Processing.java" line="12"/>
+      </memberdef>
+      <memberdef kind="function" id="interfacecom_1_1video__browser__thesis_1_1processing_1_1_processing_1aced380bb6ea96302bbd0d1e00fb3679e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>ArrayList&lt; HashMap&lt; String, String &gt; &gt;</type>
+        <definition>ArrayList&lt;HashMap&lt;String, String&gt; &gt; com.video_browser_thesis.processing.Processing.jsonFeed</definition>
+        <argsstring>()</argsstring>
+        <name>jsonFeed</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/Processing.java" line="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="96">
+        <label>com.video_browser_thesis.processing.Processing</label>
+        <link refid="interfacecom_1_1video__browser__thesis_1_1processing_1_1_processing"/>
+      </node>
+      <node id="99">
+        <label>com.video_browser_thesis.processing.KeyFrameList_Processing</label>
+        <link refid="classcom_1_1video__browser__thesis_1_1processing_1_1_key_frame_list___processing"/>
+        <childnode refid="96" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="98">
+        <label>com.video_browser_thesis.processing.CB_Processing</label>
+        <link refid="classcom_1_1video__browser__thesis_1_1processing_1_1_c_b___processing"/>
+        <childnode refid="96" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="100">
+        <label>com.video_browser_thesis.processing.MainGalleryProcessing</label>
+        <link refid="classcom_1_1video__browser__thesis_1_1processing_1_1_main_gallery_processing"/>
+        <childnode refid="96" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="97">
+        <label>com.video_browser_thesis.processing.CB_GalleryProcessing</label>
+        <link refid="classcom_1_1video__browser__thesis_1_1processing_1_1_c_b___gallery_processing"/>
+        <childnode refid="96" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/Processing.java" line="11" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/processing/Processing.java" bodystart="11" bodyend="14"/>
+    <listofallmembers>
+      <member refid="interfacecom_1_1video__browser__thesis_1_1processing_1_1_processing_1aced380bb6ea96302bbd0d1e00fb3679e" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::processing::Processing</scope><name>jsonFeed</name></member>
+      <member refid="interfacecom_1_1video__browser__thesis_1_1processing_1_1_processing_1ab3c4e926cce628403b82cd7a60f043b3" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::processing::Processing</scope><name>setArrayContents</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

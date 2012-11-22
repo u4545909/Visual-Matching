@@ -1,0 +1,348 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.2">
+  <compounddef id="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter" kind="class" prot="public">
+    <compoundname>com::video_browser_thesis::adapters::CircularListAdapter</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">BaseAdapter</basecompoundref>
+      <sectiondef kind="package-static-attrib">
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1ae31548bea349038de7b2d9e4c70e1239" prot="package" static="yes" mutable="no">
+        <type>final boolean</type>
+        <definition>final boolean com.video_browser_thesis.adapters.CircularListAdapter.DEBUG</definition>
+        <argsstring></argsstring>
+        <name>DEBUG</name>
+        <initializer>= false</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" line="29" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a0b71c5c1e0541f5fec0c652ff4cd8c5b" prot="package" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>final String com.video_browser_thesis.adapters.CircularListAdapter.TAG</definition>
+        <argsstring></argsstring>
+        <name>TAG</name>
+        <initializer>= CircularListAdapter.class.getSimpleName()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" line="30" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a8370977febc4460f5e00748d31527d4d" prot="private" static="no" mutable="no">
+        <type>BaseAdapter</type>
+        <definition>BaseAdapter com.video_browser_thesis.adapters.CircularListAdapter.mListAdapter</definition>
+        <argsstring></argsstring>
+        <name>mListAdapter</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" line="32" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" bodystart="32" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a53da5855a4a2565cdbeda22eb1e71774" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int com.video_browser_thesis.adapters.CircularListAdapter.mListAdapterCount</definition>
+        <argsstring></argsstring>
+        <name>mListAdapterCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" line="33" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" bodystart="33" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a732793d0d75fa47e276b10be2b68e251" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>com.video_browser_thesis.adapters.CircularListAdapter.CircularListAdapter</definition>
+        <argsstring>(BaseAdapter listAdapter)</argsstring>
+        <name>CircularListAdapter</name>
+        <param>
+          <type>BaseAdapter</type>
+          <declname>listAdapter</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" line="35" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" bodystart="35" bodyend="42"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a08af2c2190d6dafcb6125cd6087994c7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int com.video_browser_thesis.adapters.CircularListAdapter.getCount</definition>
+        <argsstring>()</argsstring>
+        <name>getCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" line="45" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" bodystart="45" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a2bb3131802d928557b95f5de888f20b4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>View</type>
+        <definition>View com.video_browser_thesis.adapters.CircularListAdapter.getView</definition>
+        <argsstring>(int position, View convertView, ViewGroup parent)</argsstring>
+        <name>getView</name>
+        <param>
+          <type>int</type>
+          <declname>position</declname>
+        </param>
+        <param>
+          <type>View</type>
+          <declname>convertView</declname>
+        </param>
+        <param>
+          <type>ViewGroup</type>
+          <declname>parent</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" line="50" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" bodystart="50" bodyend="52"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1ae0b6ace4a8cc59cce04de5b05e723983" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>Object</type>
+        <definition>Object com.video_browser_thesis.adapters.CircularListAdapter.getItem</definition>
+        <argsstring>(int position)</argsstring>
+        <name>getItem</name>
+        <param>
+          <type>int</type>
+          <declname>position</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" line="55" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" bodystart="55" bodyend="57"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a53c6fa48f2029148d1a2af1baba6650b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>long</type>
+        <definition>long com.video_browser_thesis.adapters.CircularListAdapter.getItemId</definition>
+        <argsstring>(int position)</argsstring>
+        <name>getItemId</name>
+        <param>
+          <type>int</type>
+          <declname>position</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" line="60" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" bodystart="60" bodyend="62"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a74f9667e98d65f19dceb04acade4f7f8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean com.video_browser_thesis.adapters.CircularListAdapter.areAllItemsEnabled</definition>
+        <argsstring>()</argsstring>
+        <name>areAllItemsEnabled</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" line="65" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" bodystart="65" bodyend="67"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a41062b03f04e8c6a4deb5c575a4f843d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int com.video_browser_thesis.adapters.CircularListAdapter.getItemViewType</definition>
+        <argsstring>(int position)</argsstring>
+        <name>getItemViewType</name>
+        <param>
+          <type>int</type>
+          <declname>position</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" line="70" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" bodystart="70" bodyend="72"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a7851bffb1fc27671cfa7b302f6c356a8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int com.video_browser_thesis.adapters.CircularListAdapter.getViewTypeCount</definition>
+        <argsstring>()</argsstring>
+        <name>getViewTypeCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" line="75" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" bodystart="75" bodyend="77"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a678d75a644407a081b7ceed5bdf36c5c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean com.video_browser_thesis.adapters.CircularListAdapter.isEmpty</definition>
+        <argsstring>()</argsstring>
+        <name>isEmpty</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" line="80" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" bodystart="80" bodyend="82"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a8ed502dfae802d67369dd6a8acd69b0c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean com.video_browser_thesis.adapters.CircularListAdapter.isEnabled</definition>
+        <argsstring>(int position)</argsstring>
+        <name>isEnabled</name>
+        <param>
+          <type>int</type>
+          <declname>position</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" line="85" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" bodystart="85" bodyend="87"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1ae4409d3fa4355d3ce0fba3a4bc9d5e7a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.video_browser_thesis.adapters.CircularListAdapter.notifyDataSetChanged</definition>
+        <argsstring>()</argsstring>
+        <name>notifyDataSetChanged</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" line="90" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" bodystart="90" bodyend="95"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a7343853ce6edde37387315c9741117d5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.video_browser_thesis.adapters.CircularListAdapter.notifyDataSetInvalidated</definition>
+        <argsstring>()</argsstring>
+        <name>notifyDataSetInvalidated</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" line="98" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" bodystart="98" bodyend="101"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1af17c8ac108e8cacc75f389af3d645248" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>View</type>
+        <definition>View com.video_browser_thesis.adapters.CircularListAdapter.getDropDownView</definition>
+        <argsstring>(int position, View convertView, ViewGroup parent)</argsstring>
+        <name>getDropDownView</name>
+        <param>
+          <type>int</type>
+          <declname>position</declname>
+        </param>
+        <param>
+          <type>View</type>
+          <declname>convertView</declname>
+        </param>
+        <param>
+          <type>ViewGroup</type>
+          <declname>parent</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" line="104" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" bodystart="104" bodyend="107"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a54a7111717492834a07e6fd5e757282a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean com.video_browser_thesis.adapters.CircularListAdapter.hasStableIds</definition>
+        <argsstring>()</argsstring>
+        <name>hasStableIds</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" line="110" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" bodystart="110" bodyend="112"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para>Constructs a  <ref refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter" kindref="compound">CircularListAdapter</ref>}.</para><para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>listAdapter</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>A <ref refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_keyframe___list_adapter" kindref="compound">Keyframe_ListAdapter</ref> that has to behave circular. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="16">
+        <label>com.video_browser_thesis.adapters.CircularListAdapter</label>
+        <link refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter"/>
+        <childnode refid="17" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="17">
+        <label>BaseAdapter</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="18">
+        <label>com.video_browser_thesis.adapters.CircularListAdapter</label>
+        <link refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter"/>
+        <childnode refid="19" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="19">
+        <label>BaseAdapter</label>
+      </node>
+    </collaborationgraph>
+    <location file="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" line="27" bodyfile="/Users/sharathbabu/Desktop/l/SUBMITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT/customGallery/src/com/video_browser_thesis/adapters/CircularListAdapter.java" bodystart="27" bodyend="114"/>
+    <listofallmembers>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a74f9667e98d65f19dceb04acade4f7f8" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CircularListAdapter</scope><name>areAllItemsEnabled</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a732793d0d75fa47e276b10be2b68e251" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CircularListAdapter</scope><name>CircularListAdapter</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1ae31548bea349038de7b2d9e4c70e1239" prot="package" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CircularListAdapter</scope><name>DEBUG</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a08af2c2190d6dafcb6125cd6087994c7" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CircularListAdapter</scope><name>getCount</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1af17c8ac108e8cacc75f389af3d645248" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CircularListAdapter</scope><name>getDropDownView</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1ae0b6ace4a8cc59cce04de5b05e723983" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CircularListAdapter</scope><name>getItem</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a53c6fa48f2029148d1a2af1baba6650b" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CircularListAdapter</scope><name>getItemId</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a41062b03f04e8c6a4deb5c575a4f843d" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CircularListAdapter</scope><name>getItemViewType</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a2bb3131802d928557b95f5de888f20b4" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CircularListAdapter</scope><name>getView</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a7851bffb1fc27671cfa7b302f6c356a8" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CircularListAdapter</scope><name>getViewTypeCount</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a54a7111717492834a07e6fd5e757282a" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CircularListAdapter</scope><name>hasStableIds</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a678d75a644407a081b7ceed5bdf36c5c" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CircularListAdapter</scope><name>isEmpty</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a8ed502dfae802d67369dd6a8acd69b0c" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CircularListAdapter</scope><name>isEnabled</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a8370977febc4460f5e00748d31527d4d" prot="private" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CircularListAdapter</scope><name>mListAdapter</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a53da5855a4a2565cdbeda22eb1e71774" prot="private" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CircularListAdapter</scope><name>mListAdapterCount</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1ae4409d3fa4355d3ce0fba3a4bc9d5e7a" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CircularListAdapter</scope><name>notifyDataSetChanged</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a7343853ce6edde37387315c9741117d5" prot="public" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CircularListAdapter</scope><name>notifyDataSetInvalidated</name></member>
+      <member refid="classcom_1_1video__browser__thesis_1_1adapters_1_1_circular_list_adapter_1a0b71c5c1e0541f5fec0c652ff4cd8c5b" prot="package" virt="non-virtual"><scope>com::video_browser_thesis::adapters::CircularListAdapter</scope><name>TAG</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>
