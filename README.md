@@ -18,8 +18,16 @@ Doxygen Files
 -------------------------------------------------------------
 As part of the deliverables, Doxygen files have been generated and added to the Github repository. These can be accessed in the directory 'DoxygenFiles'. The files cannot be viewed through the repository browser on Github, and require cloning on a local machine.
 
-Please Note: The user has been provided with the files in multiple formats, 
+Please Note: The user has been provided with the files in multiple formats, as listed in the sub-directories.
 
 Android Code
 -------------------------------------------------------------
 The code for the implementation of the application has been placed in the 'Android' directory. The Android layout has been maintained, as to allow for easy importing within Eclipse. 
+
+Compilation Guide (CompilationGuide.txt) 
+-------------------------------------------------------------
+This is the compilation guide for compiling and runnning the provided code (both python scripts and Android code).
+
+Thesis Report (ThesisReport.txt)
+-------------------------------------------------------------
+Thesis report submitted as part of the course requirements. It documents the various aspects and design decisions that were made as part of the development process.
