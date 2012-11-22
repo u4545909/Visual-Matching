@@ -16,9 +16,9 @@ The project required the implementation of the backend on the server, for the ap
 
 Doxygen Files
 -------------------------------------------------------------
-As part of the deliverables, Doxygen files have been generated and added to the Github repository. These can be accessed in the directory 'DoxygenFiles'. The files cannot be viewed through the repository browser on Github, and require cloning on a local machine.
+As part of the deliverables, Doxygen files have been generated and added to the Github repository. These can be accessed in the directory 'DoxygenFiles'. 
 
-Please Note: The user has been provided with the files in multiple formats, as listed in the sub-directories.
+Please Note: The user has been provided with the files in multiple formats, as listed in the sub-directories (html, xml etc).
 
 Android Code
 -------------------------------------------------------------
