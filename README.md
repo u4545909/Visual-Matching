@@ -1,6 +1,8 @@
-Project: Interactive Mobile Interface for Alternative Video Browsing
+Project: Interactive Mobile Interface for Video Browsing
 ==============================
+
 Student: Anshul Saini (u4545909)
+
 Supervisor: Dr. Lexing Xie
 
 As part of the Undergraduate Engineering Thesis, an Android Mobile Application was implemented, to allow users to view and browse videos for the available categories, as well as find matching videos to a selected video, on the basis of frame-matchingor 'visual meme tracking'.
