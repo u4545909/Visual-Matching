@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- Application main header colors -->
+    <color name="app_header_background">#000000</color>
+    <color name="app_header_bottom_divider">#00ffff</color>
+    
+    <!-- Categorized video gallery activity -->
+    <color name="categorized_video_gallery_activity_background">#8b8b83</color>
+    <color name="category_text_color">#fffafa</color>
+    <color name="category_text_background">#A0000000</color>
+    <color name="categorized_gallery_background">#484848</color>
+    <color name="video_attributes_overlayed_text_background">#AA000000</color>
+    <color name="video_attributes_overlayed_text_color">#ffffff</color>
+    
+    <!-- Keyframe Activity -->
+    <color name="keyframe_listview">#696969</color>
+    
+    <!-- Cross Browser -->
+    <color name="cross_browser_background">#8b8b83</color>
+    <color name="cross_browser_listview_background">#484848</color>
+    <color name="cross_browser_gallery_background">#484848</color>
+    <color name="cross_browser_selection_border">#00bfff</color>
+</resources>
