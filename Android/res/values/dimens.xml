@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    
-    <!-- Application Header elements dimensions -->
-    <dimen name="app_header_home_button">50dp</dimen>
-    <dimen name="app_header_bottom_divider_thickness">2dp</dimen>
-</resources>
