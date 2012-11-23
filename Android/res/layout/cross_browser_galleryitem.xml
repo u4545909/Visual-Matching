@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <ImageView
+        android:id="@+id/cross_browsers_gallery_img"
+        android:layout_width="90dp"
+        android:layout_height="71dp"
+        android:contentDescription="@string/no_description"
+        android:src="@drawable/ic_launcher"
+        android:layout_marginTop="1dp"
+        android:layout_marginBottom="1dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp" />
+
+    <TextView
+        android:id="@+id/cb_gallery_video_length"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="45dp"
+        android:background="#A0000000"
+        android:text="@string/video_time_length"
+        android:textColor="@android:color/white" 
+        android:textSize="8sp"/>
+
+</RelativeLayout>
