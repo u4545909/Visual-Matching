@@ -1,0 +1,70 @@
+<sequence-diagram version="1.0.10" icons="true" automaticImage="PNG">  
+  <object id="1" language="java" name="com.video_browser_thesis.activities.MainGalleryActivity" 
+    project="com.keyframe.cross_browser.CrossBrowser_ListView_Activity" 
+    file="/com.keyframe.cross_browser.CrossBrowser_ListView_Activity/src/com/video_browser_thesis/activities/MainGalleryActivity.java" 
+    binary="false" label="mainGalleryActivity" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="85" y="0"/>  
+  </object>  
+  <object id="2" language="java" name="com.video_browser_thesis.adapters.MainGallery_VideoAdapter" 
+    project="com.keyframe.cross_browser.CrossBrowser_ListView_Activity" 
+    file="/com.keyframe.cross_browser.CrossBrowser_ListView_Activity/src/com/video_browser_thesis/adapters/MainGallery_VideoAdapter.java" 
+    binary="false" label="mainGallery_VideoAdapter" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="253" y="0"/>  
+  </object>  
+  <object id="3" language="java" name="com.video_browser_thesis.adapters.MainGallery_VideoAdapter.ViewHolder" 
+    project="com.keyframe.cross_browser.CrossBrowser_ListView_Activity" 
+    file="/com.keyframe.cross_browser.CrossBrowser_ListView_Activity/src/com/video_browser_thesis/adapters/MainGallery_VideoAdapter.java" 
+    binary="false" label="viewHolder" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="253" y="0"/>  
+  </object>  
+  <object id="4" language="java" name="com.video_browser_thesis.elements.Video_attributes" 
+    project="com.keyframe.cross_browser.CrossBrowser_ListView_Activity" 
+    file="/com.keyframe.cross_browser.CrossBrowser_ListView_Activity/src/com/video_browser_thesis/elements/Video_attributes.java" 
+    binary="false" label="video_attributes" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="707" y="0"/>  
+  </object>  
+  <object id="5" language="java" name="com.video_browser_thesis.processing.MainGalleryProcessing" 
+    project="com.keyframe.cross_browser.CrossBrowser_ListView_Activity" 
+    file="/com.keyframe.cross_browser.CrossBrowser_ListView_Activity/src/com/video_browser_thesis/processing/MainGalleryProcessing.java" 
+    binary="false" label="mainGalleryProcessing" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="841" y="0"/>    
+    <execution id="6">      
+      <position height="63" width="182" x="744" y="106"/>    
+    </execution>    
+    <execution id="9">      
+      <position height="63" width="182" x="744" y="211"/>    
+    </execution>  
+  </object>  
+  <object id="12" language="java" name="com.video_browser_thesis.processing.ImageProcessing" 
+    project="com.keyframe.cross_browser.CrossBrowser_ListView_Activity" 
+    file="/com.keyframe.cross_browser.CrossBrowser_ListView_Activity/src/com/video_browser_thesis/processing/ImageProcessing.java" 
+    binary="false" label="imageProcessing" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1032" y="0"/>    
+    <execution id="8">      
+      <position height="21" width="182" x="930" y="127"/>    
+    </execution>  
+  </object>  
+  <object id="13" language="java" name="com.video_browser_thesis.utils.ViewUtils" 
+    project="com.keyframe.cross_browser.CrossBrowser_ListView_Activity" 
+    file="/com.keyframe.cross_browser.CrossBrowser_ListView_Activity/src/com/video_browser_thesis/utils/ViewUtils.java" 
+    binary="false" label="viewUtils" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1184" y="0"/>  
+  </object>  
+  <object id="14" language="java" name="com.video_browser_thesis.json.JSONParser" 
+    project="com.keyframe.cross_browser.CrossBrowser_ListView_Activity" 
+    file="/com.keyframe.cross_browser.CrossBrowser_ListView_Activity/src/com/video_browser_thesis/json/JSONParser.java" 
+    binary="false" label="jsonParser" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1242" y="0"/>    
+    <execution id="11">      
+      <position height="21" width="151" x="1270" y="232"/>    
+    </execution>  
+  </object>  
+  <message id="7" operation="decodeImage():android.graphics.Bitmap">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="8"/>  
+  </message>  
+  <message id="10" operation="jsonFeed():java.util.ArrayList&lt;HashMap&lt;String,String&gt;&gt;">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="11"/>  
+  </message>
+</sequence-diagram>
